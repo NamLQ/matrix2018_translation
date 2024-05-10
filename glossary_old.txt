@@ -1,0 +1,217 @@
+Communication Flow	Luồng truyền thông
+Convenience	Tiện lợi
+Adaptability	Khả năng thích ứng
+Versatility	Tính linh hoạt
+System Complexity	Độ phức tạp hệ thống
+Control Complexity	Kiểm soát độ phức tạp
+Tension	Sự căng thẳng
+Stress	Sự bắt buộc
+Stability	Tính ổn định
+Resilience	Khả năng phục hồi
+Autonomy	Tính tự quản
+Belonging	Thuộc về
+Competence	Năng lực
+Sense Of Progress	Cảm giác tiến triển
+Catalysts	Nhân tố kích thích
+Nourishers	Nhân tố nuôi dưỡng
+Inhibitors	Nhân tố ức chế
+Inhibitors	Nhân tố ức chế
+Trust	Lòng tin
+Engagement	Sự cam kết
+Meaning	Ý nghĩa
+Ability To Measure	Khả năng đo lường
+Measurement Accuracy	Độ chính xác đo lường
+Harmful Factors Affecting System	Các yếu tố có hại ảnh hưởng lên hệ thống
+System Generated Harmful Factors	Các yếu tố có hại do hệ thống tạo ra
+Parameter We Want to Improve	Tham số chúng ta muốn cải thiện
+Design	Thiết kế
+Spec	Thông số kỹ thuật
+Capability	Năng lực
+Means	Phương tiện
+means	phương tiện
+tangible	hữu hình
+intangible	vô hình
+Synonyms	Từ đồng nghĩa
+Synonyms, Antonyms and Equivalent Meanings	Từ đồng nghĩa, trái nghĩa và nghĩa tương đương
+moonshot	vượt giới hạn
+cutting-edge	tiên tiến
+bleeding-edge	tối tân
+push-the-envelope	vượt giới hạn
+Minimum-Viable-Product	Sản phẩm khả dụng tối thiểu	Phiên bản rút gọn của một phần mềm
+Minimum-Viable-Demonstration	Sự trưng bày giới thiệu sản phẩm mới khả dụng tối thiểu
+fuzzy-front-end	việc lên danh sách các hoạt động chuẩn bị và định nghĩa rõ ràng các yêu cầu về chủng loại
+Decision-Flow	Luồng quyết định
+Inventive Principles that should always be considered for problems where we wish to improve this parameter:	Các nguyên tắc sáng tạo phải luôn được xem xét cho các vấn đề mà chúng ta muốn cải thiện tham số này:
+Averaged list of other Principles that should be considered where we wish to improve this parameter (decreasing order of frequency):	Danh sách bình quân (tần suất giảm dần) các nguyên tắc khác cần được xem xét khi chúng ta muốn cải thiện tham số này:
+List of Principles relevant to each specific worsening parameter:	Danh sách các nguyên tắc liên quan tới từng tham số cụ thể xấu đi:
+Worsening Parameter	Tham số xấu đi
+Description	Miêu tả
+List of Relevant Inventive Principles (decreasing order of frequency)	Danh sách các nguyên tắc sáng tạo liên quan (giảm dần tần số sử dụng)
+Design Cost	Chi phí thiết kế
+upfront cost	chi phí trả trước
+sunk- cost	chi phí cơ hội
+overhead	chi phí gián tiếp
+equity	vốn chủ sử hữu
+venture capital	đầu tư mạo hiểm
+seed-money	tiền vốn
+design-to-cost	chi phí thiết kế
+design-to-value	giá trị thiết kế
+cost-down	sản phẩm có chất lượng cao nhưng giá giảm tối đa
+bang-for-the-buck	nhận được món hời hoặc giá trị lớn từ một khoản đầu tư nhỏ
+pay-to-play	trả trước chơi sau
+revenue-sharing	chia sẻ doanh thu
+ball-park	ước chừng
+guesstimate	sự đánh giá ước lượng
+fortune at the bottom of the pyramid	vận may dưới đáy kim tự tháp
+visible	rõ ràng
+invisible	không rõ ràng
+critical-path	đường găng
+shift length	độ dài ca làm việc
+shift pattern	mô hình ca làm việc	Nhằm đảm bảo đủ nhân viên làm việc tại bất kỳ thời điểm nào
+time-to-market	thời hạn đưa ra thị trường
+first-to-market	đầu tiên ra thị trường	Sản phầm đầu tiên tạo ra một thị trường mới hoặc một phân khúc thị trường đáng kể.
+rapid-prototype	tạo mẫu nhanh
+fail- fast-fail-forward	thất bại nhanh làm nền tảng thành công
+playing ‘catch-up’	chơi trò đuổi bắt
+fast-follower	đi theo nhanh
+rapid-reaction-force	lực lượng phản ứng nhanh
+slow-hunch	linh cảm đến chậm
+ahead of the curve	dẫn đầu xu thế
+follow-the-sun	theo mặt trời	Công ty cung cấp dịch vụ 24h
+fast-track	thủ tục tiến hành nhanh
+overnight	lệnh qua đêm / tín dụng một ngày
+fast-lane	chiến lược làm giàu nhanh nhờ vào đòn bẩy không giới hạn có kiểm soát từ hệ thống kinh doanh
+first-past-the-post	người về đích đầu tiên
+too-little-too-late	quá trễ, không kịp lúc
+tipping-point	điểm bùng phát
+the third act	hạ màn
+pre-suasion	tiền thuyết phục
+fall-back	dự phòng
+contingency	bất trắc
+safety-margin	biên an toàn
+alternative	cân nhắc lựa chọn
+pivot	điểm xoay pivot	Điểm có chức năng báo cáo trong việc phân tích kỹ thuật, từ đó giúp các nhà đầu tư xác định được xu hướng chung của thị trường ở những khung giờ khác nhau.
+moving goal-posts	thay đổi luật lệ, thông số của một sự việc để phục vụ lợi ích cá nhân, khiến người khác khó thành công, khó đạt được mục tiêu hơn.
+scope-creep	mất kiểm soát phạm vi dự án
+back-up	sao lưu
+liability	trách nhiệm pháp lý
+strawman	bù nhìn	một bên nhân danh chủ sở hữu để thực hiện các giao dịch, để che giấu chủ sở hữu thực sự nhằm mục đích nhất định.
+robust design	thiết kế mạnh mẽ	Phương pháp Taguchi
+escape-route	đường thoát nạn
+antifragile	khả năng cải thiện nghịch cảnh: hưởng lợi từ sự hỗn loạn
+analysis-paralysis	tê liệt phân tích
+level-playing-field	sân chơi bình đẳng
+low-hanging-fruit	mục tiêu dễ đạt
+ground-rules	quy tắc nền tảng	Đặt ra các quy tắc nền tảng (ground rules) có thể giúp loại bỏ xung đột hoặc vấn đề với nhóm trong dự án vì mọi người đều biết những gì được mong đợi ở họ.
+ducks-in-a-row	chuẩn bị sẵn sàng, chu đáo
+ambidextrous organization	tổ chức lưỡng toàn	Tổ chức này đặc trưng bởi tư duy song song với duy trì lợi thế cạnh tranh thông qua cách họ quản lý hoạt động kinh doanh cốt lõi với tìm kiếm cơ hội mới thông qua hoạt động kinh doanh khám phá. Hoạt động kinh doanh cốt lõi là nguồn doanh thu và lợi nhuận hiện có.
+nose-dive	ngã bổ nhào hoặc giảm rất mạnh
+paradigm-shift	chuyển đổi mô hình
+burning-platform	nền tảng đang cháy
+risk-aversion	mức ngại rủi ro	mức độ sẵn sàng chỉ trả vào một khoản đầu tư trước sự không chắc chắn của các tình huống có thể xảy ra.
+risk appetite	khẩu vị rủi ro	Là các loại rủi ro và mức độ của từng loại rủi ro mà ngân hàng sẵn sàng chấp nhận nhằm đạt mục tiêu kinh doanh và phù hợp với chiến lược đề ra.
+shot in the dark	đoán mò
+decoy	chim mồi
+wiggle-room	khoảng không gian để ngọ nguậy
+retaliation	biện pháp trả đũa trong thương mại
+tit-for-tat	ăn miếng trả miếng
+status quo	giữ nguyên hiện trạng
+FMEA	phân tích chế độ lỗi và hiệu ứng
+Doomsday scenario	kịch bản ngày tận thế
+Hawthorne Effect	hiệu ứng Hawthorne	đề cập đến xu hướng ở một số cá nhân thay đổi hành vi khi hành động của họ được quan sát
+old-pals act	bạn cũ hành động	một người làm quan cả họ được nhờ
+consumer panel	bảng người tiêu dùng
+the map is not the territory	bản đồ chưa phải địa bàn
+boot- strap	tự thân vận động
+co-opetition	hợp tác với đối thủ
+complementor	người bổ trợ	đối tượng cung cấp/bán dịch vụ/sản phẩm có liên kết đến các dịch vụ/sản phẩm khác từ đối thủ
+touch-base	liên hệ lại
+singing from the same hymn sheet	cùng một cách nói
+cross-functional	hợp tác chức năng
+out of the loop	cho ra rìa
+grid-lock	bế tắc
+clearing	thanh toán bù trừ
+spc	kiểm soát quy trình thống kê
+sentiment-score	chỉ số cảm xúc
+operational-excellence	vận hành xuất sắc
+DMADV	DMADV	Đây là phương pháp được sử dụng trong Six Sigma là viết tắt của: Define-Measure-Analyze-Design-Verify.
+Bất cứ khi nào bạn muốn thiết kế một dịch vụ hoặc sản phẩm mới, mẫu là DFSS (Design For Six Sigma) và sử dụng khung DMADV để hiểu các yêu cầu của khách hàng. 
+ 
+- Xác định: Vạch ra mục tiêu của bạn và cụ thể. Đặt mục tiêu thực tế và có thể đo lường được và tại sao nó lại cần thiết.
+ 
+- Đo lường: Biết các yếu tố và thông số cực kỳ quan trọng, bao gồm cả rủi ro. Đồng thời đánh giá khả năng của quy trình.
+ 
+- Phân tích: Phát triển các lựa chọn thay thế thiết kế, làm việc với các kết hợp và kết quả khác nhau. Chọn những cái sẽ hoạt động.
+ 
+- Thiết kế: Một  mẫu chi tiết về cách thực hiện điều này để xem lỗi đã được thực hiện ở đâu và nếu cần, hãy sửa đổi lại
+ 
+- Xác minh: Đây là bước cuối cùng mà dịch vụ hoặc quy trình mới được thiết kế được đưa thực tế.   Phiên bản này được sửa đổi nhẹ cho các mục đích của chúng tôi. Nếu bạn đã đạt được mục tiêu của mình, đây là xác minh bạn sẽ cần.
+Value-Stream-Mapping	Sơ đồ chuỗi giá trị
+pull-system	hệ thống sản xuất kéo	là luồng sản xuất trong nhà máy được điều tiết bởi yêu cầu từ công đoạn cuối quy trình
+business-process-reengineering	tái cấu trúc quy trình kinh doanh
+benchmarking	đo điểm chuẩn
+NPS	Net Promoter Score	“Net Promoter Score”, thể hiện chỉ số đo lường sự hài lòng và khả năng khách hàng sẽ giới thiệu thương hiệu của bạn đến với bạn bè, người thân.
+stranger	người chưa bao giờ biết đến thương hiệu
+root-cause-analysis	phân tích nguyên nhân gốc
+ERP	hệ thống hoạch định nguồn lực doanh nghiệp	Enterprise Resource Planning
+WBS	cấu trúc phân chia công việc
+supply-chain-management	quản lý chuỗi cung ứng
+Production Cost	chi phí sản xuất
+manufacture	sự chế tạo
+transaction	giao dịch
+assembly	lắp ráp
+preparation	xử lý sơ bộ
+package	đóng gói
+output	đầu ra
+defects	khiếm khuyết
+concessions	nhượng quyền
+variation	biến	động
+variation	biến động
+Discounted-Cash-Flow	dòng tiền chiết khấu
+inventory	sự kiểm kê
+assets	tài sản
+capital expenditure	chi phí tài sản cố định (chi phí vốn)
+operational expenditure	chi phí hoạt động
+cost-of-lost-sales	doanh số bán hàng bị mất
+invisible earnings	thu nhập vô hình
+over-production	sản xuất dư thừa
+net-present-value	giá trị hiện tại thuần
+gross/net profit	lợi nhuận gộp/ròng
+return-on-investment	tỉ suất hoàn vốn
+spent- cost	tiền đã trả
+recoverables	có thể thu hồi
+balance	số dư
+profit-and-loss	lợi nhuận và thua lỗ
+run-rate	tốc độ hoàn thành mục tiêu
+as- sold-estimate	ước tính khi bán	ước tính phù hợp với các mục và giá đã thỏa thuận cho phạm vi dự án
+bill-of-materials	hóa đơn nguyên vật liệu
+escalation	xử lý leo thang
+man-hour	giờ công lao động
+unit-cost	chi phí đơn vị
+life-cycle-cost	chi phí vòng đời sản phẩm
+marginal cost	chi phí biên
+purchase cost	chi phí mua hàng
+activity-based-costing	tính phí dựa trên hoạt động
+fixed	yếu tố cố định
+variable	biến số
+capex	chi phí tài sản cố định - Capital expenditure
+opex	chi phí hoạt động - Operating Expenditure
+break-even-point	điểm hòa vốn
+cost-centre	trung tâm chi phí
+profit-centre	đơn vị hoạch toán lợi nhuận
+EBITDA	lợi nhuận trước thuế, khấu hao, và lãi vay - Earning Before Interest, Taxes, Depreciation and Amortization
+depreciation	sự khấu hao
+amortization	khấu trừ dần
+balance sheet	bảng cân đối kế toán
+earned-value	giá trị thu được
+double-entry-accounting	kế toán kép
+overtime	làm việc thêm ngoài giờ
+material resource planning	hoạch định nhu cầu nguyên vật liệu
+liquidity	tính thanh khoản
+KPIs	chỉ số đánh giá hiệu suất
+consumables	hàng tiêu dùng
+shutdown cost	chi phí ngừng sản xuất
+abandonment cost	chi phí từ bỏ
+penalty clause	điều khoản phạt
+freemium	freemium - là một chiến lược định giá theo đó một sản phẩm hoặc dịch vụ cơ bản được cung cấp miễn phí nhưng các các tính năng, dịch vụ bổ sung mất phí thì sẽ mở rộng chức năng của phiên bản phần mềm miễn phí.
+liabilities	công nợ

@@ -1,0 +1,14 @@
+5/10/24, 3:02 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	    3593	61748	                 336822	                395355	     1	
+Remaining:       	    2845	48381	                 260768	                306746	     1	
+Unique:          	    3291	57061	                 310861	                365006	     1	
+Unique Remaining:	    2794	47534	                 256239	                301413	     1	
+
+
+Individual File Statistics:
+
+File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+BussinessMatrix.docx	          3593	              2845	           3291	                     2794	      61748	          48381	       57061	                 47534	                       336822	                           260768	                        310861	                                  256239	                      395355	                          306746	                       365006	                                 301413	

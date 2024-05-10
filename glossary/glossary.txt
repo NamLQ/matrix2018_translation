@@ -1,0 +1,3934 @@
+Communication Flow	Luồng truyền thông
+Convenience	Tiện lợi
+Adaptability	Khả năng thích ứng
+Versatility	Tính linh hoạt
+System Complexity	Độ phức tạp hệ thống
+Control Complexity	Kiểm soát độ phức tạp
+Tension	Sự căng thẳng
+Stress	Sự bắt buộc
+Stability	Tính ổn định
+Resilience	Khả năng phục hồi
+Autonomy	Tính tự quản
+Belonging	Thuộc về
+Competence	Năng lực
+Sense Of Progress	Cảm giác tiến triển
+Catalysts	Nhân tố kích thích
+Nourishers	Nhân tố nuôi dưỡng
+Inhibitors	Nhân tố ức chế
+Inhibitors	Nhân tố ức chế
+Trust	Lòng tin
+Engagement	Sự cam kết
+Meaning	Ý nghĩa
+Ability To Measure	Khả năng đo lường
+Measurement Accuracy	Độ chính xác đo lường
+Harmful Factors Affecting System	Các yếu tố có hại ảnh hưởng lên hệ thống
+System Generated Harmful Factors	Các yếu tố có hại do hệ thống tạo ra
+Parameter We Want to Improve	Tham số chúng ta muốn cải thiện
+Design	Thiết kế
+Spec	Thông số kỹ thuật
+Capability	Năng lực
+Means	Phương tiện
+means	phương tiện
+tangible	hữu hình
+intangible	vô hình
+Synonyms	Từ đồng nghĩa
+Synonyms, Antonyms and Equivalent Meanings	Từ đồng nghĩa, trái nghĩa và nghĩa tương đương
+moonshot	vượt giới hạn
+cutting-edge	tiên tiến
+bleeding-edge	tối tân
+push-the-envelope	vượt giới hạn
+Minimum-Viable-Product	Sản phẩm khả dụng tối thiểu	Phiên bản rút gọn của một phần mềm
+Minimum-Viable-Demonstration	Sự trưng bày giới thiệu sản phẩm mới khả dụng tối thiểu
+fuzzy-front-end	việc lên danh sách các hoạt động chuẩn bị và định nghĩa rõ ràng các yêu cầu về chủng loại
+Decision-Flow	Luồng quyết định
+Inventive Principles that should always be considered for problems where we wish to improve this parameter:	Các nguyên tắc sáng tạo phải luôn được xem xét cho các vấn đề mà chúng ta muốn cải thiện tham số này:
+Averaged list of other Principles that should be considered where we wish to improve this parameter (decreasing order of frequency):	Danh sách bình quân (tần suất giảm dần) các nguyên tắc khác cần được xem xét khi chúng ta muốn cải thiện tham số này:
+List of Principles relevant to each specific worsening parameter:	Danh sách các nguyên tắc liên quan tới từng tham số cụ thể xấu đi:
+Worsening Parameter	Tham số xấu đi
+Description	Miêu tả
+List of Relevant Inventive Principles (decreasing order of frequency)	Danh sách các nguyên tắc sáng tạo liên quan (giảm dần tần số sử dụng)
+Design Cost	Chi phí thiết kế
+upfront cost	chi phí trả trước
+sunk- cost	chi phí cơ hội
+overhead	chi phí gián tiếp
+equity	vốn chủ sử hữu
+venture capital	đầu tư mạo hiểm
+seed-money	tiền vốn
+design-to-cost	chi phí thiết kế
+design-to-value	giá trị thiết kế
+cost-down	sản phẩm có chất lượng cao nhưng giá giảm tối đa
+bang-for-the-buck	nhận được món hời hoặc giá trị lớn từ một khoản đầu tư nhỏ
+pay-to-play	trả trước chơi sau
+revenue-sharing	chia sẻ doanh thu
+ball-park	ước chừng
+guesstimate	sự đánh giá ước lượng
+fortune at the bottom of the pyramid	vận may dưới đáy kim tự tháp
+visible	rõ ràng
+invisible	không rõ ràng
+critical-path	đường găng
+shift length	độ dài ca làm việc
+shift pattern	mô hình ca làm việc	Nhằm đảm bảo đủ nhân viên làm việc tại bất kỳ thời điểm nào
+time-to-market	thời hạn đưa ra thị trường
+first-to-market	đầu tiên ra thị trường	Sản phầm đầu tiên tạo ra một thị trường mới hoặc một phân khúc thị trường đáng kể.
+rapid-prototype	tạo mẫu nhanh
+fail- fast-fail-forward	thất bại nhanh làm nền tảng thành công
+playing ‘catch-up’	chơi trò đuổi bắt
+fast-follower	đi theo nhanh
+rapid-reaction-force	lực lượng phản ứng nhanh
+slow-hunch	linh cảm đến chậm
+ahead of the curve	dẫn đầu xu thế
+follow-the-sun	theo mặt trời	Công ty cung cấp dịch vụ 24h
+fast-track	thủ tục tiến hành nhanh
+overnight	lệnh qua đêm / tín dụng một ngày
+fast-lane	chiến lược làm giàu nhanh nhờ vào đòn bẩy không giới hạn có kiểm soát từ hệ thống kinh doanh
+first-past-the-post	người về đích đầu tiên
+too-little-too-late	quá trễ, không kịp lúc
+tipping-point	điểm bùng phát
+the third act	hạ màn
+pre-suasion	tiền thuyết phục
+fall-back	dự phòng
+contingency	bất trắc
+safety-margin	biên an toàn
+alternative	cân nhắc lựa chọn
+pivot	điểm xoay pivot	Điểm có chức năng báo cáo trong việc phân tích kỹ thuật, từ đó giúp các nhà đầu tư xác định được xu hướng chung của thị trường ở những khung giờ khác nhau.
+moving goal-posts	thay đổi luật lệ, thông số của một sự việc để phục vụ lợi ích cá nhân, khiến người khác khó thành công, khó đạt được mục tiêu hơn.
+scope-creep	mất kiểm soát phạm vi dự án
+back-up	sao lưu
+liability	trách nhiệm pháp lý
+strawman	bù nhìn	một bên nhân danh chủ sở hữu để thực hiện các giao dịch, để che giấu chủ sở hữu thực sự nhằm mục đích nhất định.
+robust design	thiết kế bền vững	Phương pháp Taguchi
+escape-route	đường thoát nạn
+antifragile	khả năng cải thiện nghịch cảnh: hưởng lợi từ sự hỗn loạn
+analysis-paralysis	tê liệt phân tích
+level-playing-field	sân chơi bình đẳng
+low-hanging-fruit	mục tiêu dễ đạt
+ground-rules	quy tắc nền tảng	Đặt ra các quy tắc nền tảng (ground rules) có thể giúp loại bỏ xung đột hoặc vấn đề với nhóm trong dự án vì mọi người đều biết những gì được mong đợi ở họ.
+ducks-in-a-row	chuẩn bị sẵn sàng, chu đáo
+ambidextrous organization	tổ chức lưỡng toàn	Tổ chức này đặc trưng bởi tư duy song song với duy trì lợi thế cạnh tranh thông qua cách họ quản lý hoạt động kinh doanh cốt lõi với tìm kiếm cơ hội mới thông qua hoạt động kinh doanh khám phá. Hoạt động kinh doanh cốt lõi là nguồn doanh thu và lợi nhuận hiện có.
+nose-dive	ngã bổ nhào hoặc giảm rất mạnh
+paradigm-shift	chuyển đổi mô hình
+burning-platform	nền tảng đang cháy
+risk-aversion	mức ngại rủi ro	mức độ sẵn sàng chỉ trả vào một khoản đầu tư trước sự không chắc chắn của các tình huống có thể xảy ra.
+risk appetite	khẩu vị rủi ro	Là các loại rủi ro và mức độ của từng loại rủi ro mà ngân hàng sẵn sàng chấp nhận nhằm đạt mục tiêu kinh doanh và phù hợp với chiến lược đề ra.
+shot in the dark	đoán mò
+decoy	chim mồi
+wiggle-room	khoảng không gian để ngọ nguậy
+retaliation	biện pháp trả đũa trong thương mại
+tit-for-tat	ăn miếng trả miếng
+status quo	giữ nguyên hiện trạng
+FMEA	phân tích chế độ lỗi và hiệu ứng
+Doomsday scenario	kịch bản ngày tận thế
+Hawthorne Effect	hiệu ứng Hawthorne	đề cập đến xu hướng ở một số cá nhân thay đổi hành vi khi hành động của họ được quan sát
+old-pals act	bạn cũ hành động	một người làm quan cả họ được nhờ
+consumer panel	bảng người tiêu dùng
+the map is not the territory	bản đồ chưa phải địa bàn
+boot- strap	tự thân vận động
+co-opetition	hợp tác với đối thủ
+complementor	sản phẩm dịch vụ bổ trợ
+touch-base	liên hệ lại
+singing from the same hymn sheet	cùng một cách nói
+cross-functional	hợp tác chức năng
+out of the loop	cho ra rìa
+grid-lock	bế tắc
+clearing	thanh toán bù trừ
+spc	kiểm soát quy trình thống kê
+sentiment-score	chỉ số cảm xúc
+operational-excellence	vận hành xuất sắc
+DMADV	DMADV	Đây là phương pháp được sử dụng trong Six Sigma là viết tắt của: Define-Measure-Analyze-Design-Verify.
+Bất cứ khi nào bạn muốn thiết kế một dịch vụ hoặc sản phẩm mới, mẫu là DFSS (Design For Six Sigma) và sử dụng khung DMADV để hiểu các yêu cầu của khách hàng. 
+ 
+- Xác định: Vạch ra mục tiêu của bạn và cụ thể. Đặt mục tiêu thực tế và có thể đo lường được và tại sao nó lại cần thiết.
+ 
+- Đo lường: Biết các yếu tố và thông số cực kỳ quan trọng, bao gồm cả rủi ro. Đồng thời đánh giá khả năng của quy trình.
+ 
+- Phân tích: Phát triển các lựa chọn thay thế thiết kế, làm việc với các kết hợp và kết quả khác nhau. Chọn những cái sẽ hoạt động.
+ 
+- Thiết kế: Một  mẫu chi tiết về cách thực hiện điều này để xem lỗi đã được thực hiện ở đâu và nếu cần, hãy sửa đổi lại
+ 
+- Xác minh: Đây là bước cuối cùng mà dịch vụ hoặc quy trình mới được thiết kế được đưa thực tế.   Phiên bản này được sửa đổi nhẹ cho các mục đích của chúng tôi. Nếu bạn đã đạt được mục tiêu của mình, đây là xác minh bạn sẽ cần.
+Value-Stream-Mapping	Sơ đồ chuỗi giá trị
+pull-system	hệ thống sản xuất kéo	là luồng sản xuất trong nhà máy được điều tiết bởi yêu cầu từ công đoạn cuối quy trình
+business-process-reengineering	tái cấu trúc quy trình kinh doanh
+benchmarking	đo điểm chuẩn
+NPS	Net Promoter Score	“Net Promoter Score”, thể hiện chỉ số đo lường sự hài lòng và khả năng khách hàng sẽ giới thiệu thương hiệu của bạn đến với bạn bè, người thân.
+stranger	người chưa bao giờ biết đến thương hiệu
+root-cause-analysis	phân tích nguyên nhân gốc
+ERP	hệ thống hoạch định nguồn lực doanh nghiệp	Enterprise Resource Planning
+WBS	cấu trúc phân chia công việc
+supply-chain-management	quản lý chuỗi cung ứng
+Production Cost	chi phí sản xuất
+manufacture	sự chế tạo
+transaction	giao dịch
+assembly	lắp ráp
+preparation	xử lý sơ bộ
+package	đóng gói
+output	đầu ra
+defects	khiếm khuyết
+concessions	nhượng quyền
+Discounted-Cash-Flow	dòng tiền chiết khấu
+inventory	sự kiểm kê
+assets	tài sản
+capital expenditure	chi phí tài sản cố định (chi phí vốn)
+operational expenditure	chi phí hoạt động
+cost-of-lost-sales	doanh số bán hàng bị mất
+invisible earnings	thu nhập vô hình
+over-production	sản xuất dư thừa
+net-present-value	giá trị hiện tại thuần
+gross/net profit	lợi nhuận gộp/ròng
+return-on-investment	tỉ suất hoàn vốn
+spent- cost	tiền đã trả
+recoverables	có thể thu hồi
+balance	số dư
+profit-and-loss	lợi nhuận và thua lỗ
+run-rate	tốc độ hoàn thành mục tiêu
+as- sold-estimate	ước tính khi bán	ước tính phù hợp với các mục và giá đã thỏa thuận cho phạm vi dự án
+bill-of-materials	hóa đơn nguyên vật liệu
+escalation	xử lý leo thang
+man-hour	giờ công lao động
+unit-cost	chi phí đơn vị
+life-cycle-cost	chi phí vòng đời sản phẩm
+marginal cost	chi phí biên
+purchase cost	chi phí mua hàng
+activity-based-costing	tính phí dựa trên hoạt động
+fixed	yếu tố cố định
+variable	biến số
+capex	chi phí tài sản cố định - Capital expenditure
+opex	chi phí hoạt động - Operating Expenditure
+break-even-point	điểm hòa vốn
+cost-centre	trung tâm chi phí
+profit-centre	đơn vị hoạch toán lợi nhuận
+EBITDA	lợi nhuận trước thuế, khấu hao, và lãi vay - Earning Before Interest, Taxes, Depreciation and Amortization
+depreciation	sự khấu hao
+amortization	khấu trừ dần
+balance sheet	bảng cân đối kế toán
+earned-value	giá trị thu được
+double-entry-accounting	kế toán kép
+overtime	làm việc thêm ngoài giờ
+material resource planning	hoạch định nhu cầu nguyên vật liệu
+liquidity	tính thanh khoản
+KPIs	chỉ số đánh giá hiệu suất
+consumables	hàng tiêu dùng
+shutdown cost	chi phí ngừng sản xuất
+abandonment cost	chi phí từ bỏ
+penalty clause	điều khoản phạt
+freemium	freemium - là một chiến lược định giá theo đó một sản phẩm hoặc dịch vụ cơ bản được cung cấp miễn phí nhưng các các tính năng, dịch vụ bổ sung mất phí thì sẽ mở rộng chức năng của phiên bản phần mềm miễn phí.
+liabilities	công nợ
+Abatement cost	nhiễm)
+Ability and earnings	Năng lực và thu nhập
+Ability to pay	Khả năng chi trả.
+Ability to pay theory	Lý thuyết về khả năng chi trả
+Abnormal profits	Lợi nhuận dị thường
+Abscissa	Hoành độ
+Absenteeism	do
+Absentee landlord	biệt
+Absolute advantage	Lợi thế tuyệt đối.
+Absolute cost advantage	Lợi thế nhờ phí tổn tuyệt đối.
+Absolute income hypothesis	Giả thuyết thu nhập tuyệt đối.
+Absolute monopoly	Độc quyền tuyệt đối.
+Absolute prices	Giá tuyệt đối.
+Absolute scarcity	Khan hiếm tuyệt đối .
+Absolute value	Giá trị tuyệt đối.
+Absorption approach	Phương pháp hấp thu.
+Abstinence	Nhịn chi tiêu.
+Accelerated depreciation	tốc.
+Accelerating inflation	Lạm phát gia tốc.
+Accelerator	Gia số
+Accelerator coefficient	Hệ số gia tốc.
+Accelerator effect	Hiệu ứng gia tốc.
+Accelerator principle	Nguyên lý gia tốc.
+Acceptance	chấp nhận thanh toán.
+Accepting house	Ngân hàng nhận trả.
+Accesion rate	Tỷ lệ gia tăng lao động.
+Accesions tax	Thuế quà tặng.
+Access/space trade - off model	mô hình tiếp cận.
+Accommodating monetary policy	Chính sách tiền tệ điều tiết.
+Accommodation transactions	Các giao dịch điều tiết.
+Account	Tài khoản.
+Accrued expenses	Chi phí phát sinh (tính trước).
+Achieving Society, the.	Xã hội thành đạt.
+Across-the-board tariff changes	Thay đổi thuế quan đồng loạt.
+Action lag	Độ trễ của hành động.
+Active balance	Dư nghạch.
+Activity analysis	Phân tích hoạt động.
+Activity rate	Tỷ lệ lao động.
+Adaptive expectation	theo
+Adding up problem	Vấn đề cộng tổng.
+Additional worker hypothesis	Giả thuyết công nhân thêm vào.
+Addition rule	Quy tắc cộng.
+Additive utility function	Hàm thoả dụng phụ trợ.
+Address principle	Nguyên lý địa chỉ.
+Adjustable peg regime	Chế độ điều chỉnh hạn chế.
+Adjustable peg system	thể điều chỉnh.
+Adjustment cost	Chi phí điều chỉnh sản xuất.
+Adjustment lag	Độ trễ điều chỉnh.
+Adjustment process	Quá trình điều chỉnh
+Administered prices	Các mức giá bị quản chế.
+Administrative lag	Độ trễ do hành chính
+Advalorem tax	Thuế theo giá trị.
+Advance	Tiền ứng trước.
+Advance Corporation Tax (ACT)	Thuế doanh nghiệp ứng trước.
+Advance refunding	Hoàn trả trước.
+Advanced countries	đầu.
+Adverse balance	Cán cân thâm hụt.
+Adverse selection	hướng bất lợi.
+Advertising	Quảng cáo.
+Advertising - sale ratio	Tỷ lệ doanh số-quảng cáo.
+AFL-CIO	OF LABOR.
+Age-earning profile	Biểu quan hệ thu nhập theo tuổi
+Development	Cơ quan phát triển quốc tế.
+Agency shop	Nghiệp đoàn.
+Agglomeration economies	Tính kinh tế nhờ kết khối.
+Aggregate concentration	Sự tập trung gộp.
+Adverse supply shock	Cú sốc cung bất lợi.
+Aggregate demand	Cầu gộp; Tổng cầu
+Aggregate demand curve	Đường cầu gộp; Đường tổng cầu
+Aggregate demand shedule	Biểu cầu gộp; Biểu tổng cầu
+Aggregate expenditure	Chi tiêu gộp.
+Aggregate income	Thu nhập gộp; Tổng thu nhập
+Aggregate output	Sản lượng gộp.
+Aggregate production function	Hàm sản xuất gộp.
+Aggregate supply curve	cung.
+Aggregation problem	Vấn đề về phép gộp.
+Agrarian revolution	Cách mạng nông nghiêp.
+Agricultural earnings	Các khoản thu từ nông nghệp.
+Agricultural exports	Nông sản xuất khẩu
+Agricultural lag	Đỗ trễ của nông nghiệp
+Agricultural livies	Thuế nông nghiệp.
+Agricultural reform	Cải cách nông nghiệp.
+Agricultural sector	Khu vực nông nghiệp.
+Conservation Service	nông nghiệp.
+Agricultural subsidies	Khoản trợ cấp nông nghiệp.
+Agricultural Wage Boards	nghiệp.
+Aid	Viện trợ
+Aitken estimator	Ước lượng số Aitken.
+Alienation	Sự tha hoá
+Douglas(1906-1983)	1906-1983
+Allocate	Phân bổ, ấn định
+Allocation funtion	Chức năng phân bổ
+Allocative efficiency	Hiệu quả phân bổ.
+corporation tax	công ty.
+income tax	thu nhập.
+Almon lag	Độ trễ Almon.
+Alpha coeficient	Hệ số Alpha
+Alternative technology	Công nghệ thay thế.
+Altruism	Lòng vị tha.
+Amalgamation	Sự hợp nhất.
+America Depository Receipt	ADR - Phiếu gửi tiền Mỹ.
+America Federation of Labuor	ALF - Liên đoàn lao động Mỹ.
+America selling price	Giá bán kiểu Mỹ.
+American Stock Exchange	(ASE hay AMEX).
+Amortization	Chi trả từng kỳ.
+Amplitude	Biên độ
+Amtorg	Liên Xô.
+Analysis of variance	ANOVA - Phân tích phương sai
+Anarchy	Tình trạng vô chính phủ.
+Allowance	Phần tiền trợ cấp.
+Anchor argument	Luận điểm về cái neo.
+Animal spirits	theo
+Analysis (stats)	Phân tích.
+Annecy Round	Vòng đàm phán Annecy.
+Annual allowances	Miễn thuế hàng năm.
+Annual capital charge	Chi phí vốn hàng năm.
+Annuity	Niên kim.
+Annuity market	Thị trường niên kim.
+Anomaliess pay	Tiền trả công bất thường.
+Anticipated inflation	Lạm phát được dự tính.
+Anti-trust	Chống lũng đoạn.
+Appreciation	Sự tăng giá trị.
+Apprenticeship	Học việc.
+Anti-export bias	khẩu.
+Appropriate products	Các sản phẩm thích hợp.
+Appropriate technology	Công nghệ thích hợp.
+Appropriation account	Tài khoản phân phối lãi.
+Approval voting	chuẩn.
+Apriori	Tiên nghiệm.
+Aquinas St Thomas	(1225-1274)
+Arbitrage	giá; buôn chứng khoán
+Arbitration	Trọng tài
+Arc elasticity of demand	Độ co giãn hình cung của cầu
+ARCH	Kiểm nghiệm ARCH.
+ARCH effect	Hiệu ứng ARCH.
+Aristotle	trước công nguyên)
+Arithmetic mean	Trung bình số học.
+Arithmetic progression	Cấp số cộng.
+Arrow.KennethJ	(1921-).
+"A" shares	sau).
+Asiab Development Bank	Ngân hàng phát triển châu Á.
+Assessable Income or profit	thuế.
+Assessable profit	Lợi nhuận chịu thuế.
+Asset	Tài sản.
+Asset stripping	Tước đoạt tài sản.
+Assignment problem	Bài toán kết nối.
+Assisted areas	Các vùng được hỗ trợ
+Dealers	trái khoán quốc tế.
+Nations (ASEAN)	Hiệp hội các nước Đông nam Á.
+Assurance	(tính trung thực, độ tin cậy của thông tin tài chính) đảm bảo, (chất lượng sản phẩm, dịch vụ) cam kết
+Asset stocks and services flows	Dữ trữ tài sản và luồng dịch vụ.
+Asymmetric infornation	không tương xứng.
+Asymptote	Đường tiệm cận.
+Asymptotic distribution	Phân phối tiệm cận.
+Atomistic competition	Cạnh tranh độc lập.
+Attribute	Thuộc tính.
+Auctioneer	Người bán đấu giá.
+Auction markets	Các thị trường đấu giá.
+Auctions	Đấu giá.
+Augmented Dickey Fuller test	sung.
+Augmented Phillips curve	Đường Phillips bổ sung.
+Austrian school	Trường phái kinh tế Áo.
+Autarky	Tự cung tự cấp.
+Autarky economy	Nền kinh tế tự cung tự cấp
+Autocorrelation	Sự tự tương quan.
+Automatic stabilizers	Các biện pháp ổn định tự động.
+Automation	Tự động hoá.
+Autonomous expenditure	Khoản chi tiêu tự định.
+Induced expenditure	thu nhập).
+Autonomous consumption	Tiêu dùng tự định.
+Autonomous investment	Đầu tư tự định.
+Autonomous investment demand	Nhu cầu đầu tư tự định.
+Autonomous transactions	Giao dịch tự định
+Autonomous variables	Các biến tự định
+Autoregression	Tự hồi quy.
+Availability effects	Các hiệu ứng của sự sẵn có.
+Average	Số trung bình.
+Average cost	Chi phí bình quân.
+Average cost pricing	Định giá theo chi phí bình quân.
+Average expected income	nhập bình quân dự kiến.
+Average fixed costs	Chi phí cố định bình quân.
+Average product	Sản phẩm bình quân.
+Average productivity	Năng suất bình quân.
+Average propensity to consume	quân.
+Average propensity to save	quân.
+Average rate of tax	thực tế).
+Average revenue	Doanh thu bình quân.
+Average revenue product	Sản phẩm doanh thu bình quân.
+Average total cost	Tổng chi phí bình quân
+Average variable cost	AVC-Chi phí khả biến bình quân.
+Averch-Johnson Effect	Hiệu ứng Averch-Johnson.
+Axiom of completeness	Tiên đề về tính đầy đủ.
+Axiom of continuity	Tiên đề về tính liên tục.
+Axiom of convexity	Tiên đề về tính lồi.
+Axiom of dominance	thích ít.
+Axiom of	Tiên đề về sự lựa chọn.
+Axiom of prefence	Tiên đề về sở thích.
+Backdoor fancing	Cấp tiền qua cửa sau.
+Back-haul rates	Cước vận tải ngược.
+Backstop technology	Công nghệ chặng cuối.
+labour	phía sau.
+Backward intergration	Liên hợp thượng nguồn.
+Backward linkage	Liên kết thượng nguồn.
+Backwash effects	Hiệu ứng ngược.
+Bad	Hàng xấu.
+Bad money drive out good	"Đồng tiền xấu đuổi đồng tiền tốt".
+Bagehot, Walter	(1826-1877).
+Balanced budget	Ngân sách cân đối.
+Balanced-budget multiplier	Số nhân ngân sách cân đối.
+Balanced economic development	Phát triển kinh tế cân đối.
+Balanced growth	Tăng trưởng cân đối.
+Balance of payment	Cán cân thanh toán.
+Balance of trade	Cán cân thương mại.
+Balance principle	Nguyên lý cân đối.
+Balance sheet	Bảng cân đối tài sản.
+Bancor	tế).
+Balanced GDP	GDP được cân đối
+Bandwagon effect	Hiệu ứng đoàn tàu
+Bank	Ngân hàng
+Bank advance	Khoản vay ngân hàng.
+Bank bill	Hối phiếu ngân hàng.
+Bank Charter Act	Đạo luật Ngân hàng.
+Bank credit	Tín dụng ngân hàng.
+Bank deposite	Tiền gửi ngân hàng.
+Banking panic	Cơn hoảng loạn ngân hàng.
+Banking school	Trường phái ngân hàng
+Bank loan	Khoản vay ngân hàng.
+Bank note	Giấy bạc của ngân hàng.
+Bank of England	Ngân hàng Anh
+Bank of United State	Ngân hàng Hoa Kỳ.
+Bank rate	ngân hàng ANH.
+Bankruptcy	Sự phá sản.
+Bargaining tariff	thương lượng.
+Bargaining theory of wages	công.
+Bargaining unit	cả.
+Banks' cash-deposit ratio	của ngân hàng.
+Barlow Report	Báo cáo Barlow.
+Barometric price leadership	Sự chủ đạo theo kế áp giá cả.
+Barriers to entry	Rào cản nhập ngành
+Barter	Hàng đổi hàng.
+Barter agreements	Hiệp định trao đổi hàng.
+Barter economy	Nền kinh tế hàng đổi hàng
+Base period	Giai đoạn gốc.
+Base rate	Lãi suất gốc.
+Basic activities	Các hoạt động cơ bản.
+Basic exports	Hàng xuất khẩu cơ bản
+Basic industries	Những ngành cơ bản.
+Basic need philosophy	Triết lý nhu cầu cơ bản.
+Basic wage rates	cơ bản.
+Basing-point system	Hệ thống điểm định vị cơ sở.
+Bayesian techniques	Kỹ thuật Bayes.
+Bearer bonds	Trái khoán không ghi tên.
+Bears	Người đầu cơ giá xuống.
+Beggar-my neighbour policies	giềng
+Behavioural equation	Phương trình về hành vi
+Behavioural expectations	Kỳ vọng dựa trên hành vi.
+Behavioural theories of the firm	hành vi.
+Base year	Năm gốc, năm cơ sở.
+Benefit-cost ratio	Tỷ số chi phí-lợi ích.
+Benefit-cost analysis	Phân tích lợi ích chi phí.
+Benefit principle	Nguyên tắc đánh thuế theo lợi ích.
+Benelux Economic Union	Liên minh kinh tế Benelux.
+Bentham,Jeremy	1748-1832
+Funtion	Hàm phúc lợi xã hội Bergson
+Bernoulli Hypothesis	Giả thuyết Bernoulli.
+Bertrand's duopoly Model	Bertrand.
+Best Linear Unbiased Estimator	không chệch tốt nhất)
+Beta	Chỉ số Beta
+Beveridge Report	Báo cáo Beveridge.
+Bias	Độ lệch.
+Bid	Đấu thầu.
+Bid-rent function	Hàm giá thầu thuê đất.
+Bifurcation Hypothesis	Giả thuyết lưỡng cực.
+Big bang	Vụ đảo lộn lớn.
+Big push	Cú đẩy mạnh.
+Bilateral assistance	Trợ giúp song phương.
+Bilateral monopoly	Độc quyền song phương.
+Bilateral trade	Mậu dịch song phương
+Bill	Hối phiếu.
+Bill broker	Người môi giới hối phiếu.
+Bill of exchange	Hối phiếu đối ngoại.
+Bills only	Chỉ có nghiệp vụ hối phiếu.
+Binary variable	Biến nhị phân.
+Biological interest rate	Lãi suất sinh học.
+Birth rate	Tỷ suất sinh
+BIS	Ngân hàng thanh toán quốc tế
+Bivariate analysis	Phân tích hai biến số
+Black market	Chợ đen
+Bliss point	thoả mãn
+Block grant	Trợ cấp cả gói
+Blue chip	Cổ phần xanh
+Blue Book	Sách xanh
+Blue-collar workers	Công nhân cổ xanh
+BLUS residuals	Số dư BLUS
+Bond	Trái khoán
+Bond market	Thị trường trái phiếu
+Bonus issue	Cổ phiếu thưởng
+Book value	Giá trị trên sổ sách
+Boom	Sự bùng nổ tăng trưởng
+Borda Count	Con tính Borda
+Boulwarism	Chủ nghĩa Boulware
+Bounded rationality	Tính duy lý bị hạn chế.
+Bourgeoisie	sản
+Box-Jenkins	Phương pháp Box-Jenkins.
+Brain drain	(Hiện tượng) chảy máu chất xám
+Branch banking	Nhiệp vụ ngân hàng chi nhánh
+Brand loyalty	Sự trung thành với nhãn hiệu
+Break-even analysis	Phân tích điểm hoà vốn
+Break-even level of income	Mức hoà vốn của thu nhập
+Bretton Woods system	Hệ thống Bretton Woods.
+Brooker	Người môi giới.
+Brokerage	Hoa hồng môi giới.
+Brookings model	Mô hình Brookings
+Brussels, Treaty of	Hiệp ước Brussels
+Brussels, Treaty of	như hiệp ước Bổ sung)
+Brussels conference	Hội nghị Brussels.
+Brussels Tariff Nomenclature	Brussels
+Buchanan, James M.	(1919-)
+Budget	Ngân sách.
+Budget deficit	Thâm hụt ngân sách.
+Budget line	Đường ngân sách
+Budget surplus	Thặng dư ngân sách.
+Budgetary control	Kiểm soát ngân sách
+Budget shares	Tỷ phần ngân sách.
+Buffer stocks	Kho đệm, dự trữ bình ổn
+Building society	Ngân hàng phát triển gia cư
+Built-in stabililizers	nội tạo.
+Bullion	Thoi
+Bulls	Người đầu cơ giá lên.
+Bureaucracy, economic theory of	chức.
+Bureaux	Văn phòng
+Business cycle	Chu kỳ kinh doanh.
+Business performance	Kết quả kinh doanh.
+Business risk	Rủi ro kinh doanh
+Buyer concertration	Sự tập trung người mua.
+Buyers' market	Thị trường của người mua.
+Caculus	Giải tích.
+Call money	Khoản vay không kỳ hạn.
+Call option	Hợp đồng mua trước.
+Cambridge Equation	Phương trình Cambridge
+Cambridge school of Economics	Cambridge
+Cambridge theory of Money	Cambridge.
+Capacity model	Mô hình công năng.
+Capacity untilization	Mức sử dụng công năng
+Capital	Tư bản/ vốn.
+Capital account	Tài khoản vốn.
+Capital accumulation	Tích lũ vốn.
+Capital allowances	Các khoản miễn thuế cho vốn.
+Capital asset	Tài sản vốn.
+Capital asset pricing model	Mô hình định giá Tài sản vốn.
+Capital budgeting	Phân bổ vốn ngân sách.
+Capital charges	Các phí tổn cho vốn
+Capital coefficients	Các hệ số vốn.
+Capital Consumption Allowance	bản.
+Capital Controversy	Tranh cãi về yếu tố vốn.
+Capital deepening	Tăng cường vốn.
+Capital equipment	Thiết bị sản xuất, thiết bị vốn.
+Capital expenditure	Chi tiêu cho vốn.
+formation?)	Sự hình thành vốn.
+Capital gain	Khoản lãi vốn.
+Capital gains tax	Thuế lãi vốn.
+Capital gearing	Tỷ trọng vốn vay
+Capital goods	xuất.
+Capital intensity	Cường độ vốn.
+Capital - intensive	dụng nhiều vốn.
+Capital - intensive economy	Nền kinh tế dựa nhiều vào vốn.
+Capital-intensive sector	Ngành bao hàm nhiều vốn
+Capital-intensive techniques	Các kỹ thuật dựa nhiều vào vốn
+Capital, marginal efficiency of	Vốn, hiệu quả biên của
+Capitalism	Chủ nghĩa tư bản
+Capitalization	Tư bản hoá, vốn hóa
+Capitalization issue	Cổ phiếu không mất tiền
+Capitalization rates	Tỷ lệ vốn hoá
+Capitalized value	Giá trị được vốn hoá
+Capital-labour ratio	Tỷ số vốn/ lao động
+Capital loss	Khoản lỗ vốn
+Capital market	Thị trường vốn
+Capital movements	Các luồng di chuyển vốn
+Capital-output ratio	Tỷ số vốn-sản lượng
+Capital rationing	Định mức vốn
+Capital requirements	Các yêu cầu về vốn
+Capital- reversing	Thay đổi kỹ thuật sản xuất
+Capital services	Các dịch vụ vốn
+Capital stock	Dung lượng vốn
+Capital structure	Cấu trúc vốn
+Captital tax	Thuế vốn
+Capital theoretic approach	Phương pháp lý thuyết qui về vốn
+Capital theory	Lý thuyết về vốn
+Capital transfer tax	Thuế chuyển giao vốn
+Capital turnover criterion	Tiêu chuẩn quay vòng vốn
+Capital widening	Đầu tư chiều rộng (mở rộng vốn)
+Capitation tax	Thuế thân
+Capture theory	Lý thuyết nắm giữ.
+Captive buyer	hành. (Nhà nước quy định).
+Carbon tax	Thuế Carbon
+Cardinalism	chia độ.
+Cardinal utility	thoả dụng.
+Cartel	Cartel
+Cartel sanctions	Sự trừng phạt của Cartel
+Cash	Tiền mặt.
+Cash balance approach	mặt).
+Cash crops	hàng hoá/ hoa màu thương mại.
+Cash drainage	Thất thoát / hút tiền mặt.
+Cash flow	lưu.
+Cash flow statement	Bản báo cáo luồng tiền / ngân lưu.
+Cash limit	mặt.
+Cash ratio	Tỷ suất tiền mặt.
+Casual employment	Công việc tạm thời.
+Categorical	Trợ cấp chọn lọc.
+Causality	Phương pháp nhân quả.
+Ceiling	Mức trần
+Celler - Kefauver Act	Đạo luật Celler - Kefauver.
+Central Bank	Ngân hàng trung ương
+Central Bank of Central Banks	ngân hàng trung ương.
+Central business district	Khu kinh doanh trung tâm.
+Central Limit Theorem.	Định lý giới hạn trung tâm.
+Central Place Theory	Lý thuyết Vị trí Trung tâm.
+Central planing	Kế hoạch hoá tập trung.
+Central policy Review Staff	ương (CPRS).
+Central Statical office	Cục thống kê trung ương
+Certainty equivalence	Mức qui đổi về tất định.
+Certificate of deposit	Giấy chứng nhận tiền gửi.
+CES production function	thế cố định.
+Ceteris paribus	Điều kiện khác giữ nguyên
+Chain rule	của hàm).
+Central tendency	Xu hướng hướng tâm; Hướng tâm.
+Ceilings and floors	mức đáy.
+Causation	Quan hệ nhân quả.
+Chamberlin, Edward	(1899-1967)
+Characteristics theory	Lý thuyết về đặc tính sản phẩm.
+Charge account	Tài khoản tín dụng.
+Cheap money	Tiền rẻ.
+Check off	Trừ công đoàn phí trực tiếp.
+Cheque card	Thẻ séc.
+Cheque	Séc
+Chicago School	Trường phái (kinh tế) Chicago.
+Child allowance	Trợ cấp trẻ em.
+Chi-square distribution	phối khi bình phương)
+Choice of technology	Sự lựa chọn công nghệ.
+Choice variable	Biến lựa chọn.
+CIF	hoá.
+Circular flow of income	Luồng luân chuyển thu nhập.
+Choice of production technique	Sự lựa chọn kỹ thuật sản xuất.
+Circular flow of payments	Dòng thanh toán luân chuyển.
+Circulating capital	Vốn lưu động.
+Clark, John Bates	(1847-1938)
+Classical dichotomy	Thuyết lưỡng phân cổ điển
+Classical economics	Kinh tế học cổ điển
+Classical school	Trường phái cổ điển
+taxation	Hệ thống cổ điển về thuế công ty
+Classical techniques	Các kỹ thuật cổ điển
+unemployment	và theo lý thuyết Keynes
+Classical model	Mô hình cổ điển
+Clay-clay	clay-clay; Đất sét- Đất sét
+Clayton Act	Đạo luật Clayton
+Clean float	Thả nổi tự do
+Clearing banks	Các ngân hàng thanh toán bù trừ
+Clearing house	Phòng thanh toán bù trừ
+Cliometrics	Sử lượng
+Closed economy	Nền kinh tế đóng
+Closed shop	công đoàn.
+Closing prices	Giá lúc đóng cửa.
+Club good	công cộng.
+Clubs, theory of	thuyết hàng hoá bán cộng cộng.
+Coase, Ronald H.	(1910- ).
+Coase's theorem	Định lý Coase.
+Cobweb theorem	Định lý mạng nhện.
+Cochrane-Orcutt	Cochrane-Orcutt
+Co-determination	Đồng quyết định.
+Coefficient of determination	bội số R bình phương).
+Coefficient of variation	tương đối).
+Coercive comparisons	So sánh ép buộc.
+Cofactor	Đồng hệ số.
+Coinage	Tiền đúc.
+Coincident indicator	Chỉ số báo trùng hợp.
+Cointegration	Đồng liên kết
+COLA	Điều chỉnh theo giá sinh hoạt.
+Collateral security	Vật thế chấp.
+Collective bargaining	Thương lượng tập thể.
+Collective choise	Sự lựa chọn tập thể.
+Collective goods	Hàng hoá tập thể.
+Collective exhaustive	Hoàn toàn.
+Collinearity	Cộng tuyến.
+Multi-Collinearity	Đa cộng tuyến.
+Collusion	Kết cấu.
+Collusive oligopoly	Độc quyền nhóm có kết cấu.
+Collusive price leadership	Chỉ đạo giá kết cấu.
+Comecon	Hội đồng tương trợ kinh tế.
+Command economy	Nền kinh tế chỉ huy.
+Commercial banks	Các ngân hàng thương mại.
+Commercial bill	Hối phiếu thương mại.
+Commercial paper	Thương phiếu
+Commercial policy	Chính sách thương mại
+Commissions	Xem COMPENSATION RULES
+Commodity	Vật phẩm; Hàng hoá
+Commodity bundling	Bán hàng theo lô
+Commodity Credit Corporation	ty tín dụng vật phẩm
+Commodity money	bằng hàng hoá.
+Commodity space	Không gian hàng hoá.
+Commodity terms of trade	hàng hoá.
+Common Agricultural Policy	Chính sách nông nghiệp chung.
+Common Customs Tariff	Biểu thuế quan chung.
+Common external tariff	Biểu thuế đối ngoại chung.
+Common facility co-operative	Các hợp tác xã có thiết bị chung.
+Common market	Thị trường chung.
+Common stock	Chứng khoán phổ thông.
+Communism	Chủ nghĩa cộng sản.
+Community Charge	Thuế cộng đồng.
+Community indifference curve	Đường bàng quan cộng đồng.
+Company	Công ty.
+Company bargaining	Đàm phán công ty.
+Company director	Giám đốc công ty.
+Company saving	So sánh về lương
+Comparability argument	Luận điểm về tính có thể so sánh.
+Comparable worth	Giá trị có thể so sánh.
+Comparative advantage	Lợi thế so sánh
+Comparative costs	Chi phí so sánh.
+Comparative dynamics	Phương pháp so sánh động.
+Comparative statics	Phương pháp so sánh tĩnh.
+Compensated demand curves	Đường cầu đã được bù.
+Compensating variation	Mức thay đổi bù đắp.
+Compensation principle	Nguyên lý bù đắp.
+Compensation rules	Các quy tắc trả thù lao.
+Compensation tests	Kiểm nghiệm đền bù.
+Competition Act 1980	Đạo luật cạnh tranh 1980.
+Competition and Credit Control	Kiểm soát tín dụng và cạnh tranh
+Competitive markets	Thị trường cạnh tranh
+Complements	Hàng hoá bổ trợ
+Complex number	Số phức
+Composite commodity theorem	Định lý hàng hoá đa hợp
+Compound interest	Lãi kép
+Compensating differentials	Các mức bù thêm tiền lương.
+Competition policy	Chính sách về cạnh tranh
+Concave function (concavity)	Hàm lõm (tính lõm).
+Concentration	Sự tập trung.
+Concentration, coefficient of.	Hệ số tập trung.
+Concentration ratio	Tỷ lệ tập trung.
+Concerted action	Hành động phối hợp.
+reduction	quan hài hoà.
+Conciliation	Hoà giải
+Condorcet Criterion	Condorcet
+Confederation of British Industrial	Liên đoàn công nghiệp ANH (CBI).
+Confidence interval	Khoảng tin cậy.
+Confidence problem	Vấn đề lòng tin.
+Congestion costs	Chi phí do tắc nghẽn.
+Conglomerate	doanh nghiệp
+Conjectural behavior	Hành vi phỏng đoán.
+CONJECTURAL VARIATION	Sự thay đổi theo phỏng đoán.
+Consistency	Tính nhất quán.
+Consolidated fund	Quỹ ngân khố.
+Consistent	Thống nhất/ nhất quán.
+Consolidated balance sheets	nhất.
+Consols	Công trái hợp nhất.
+Consortium bank	Ngân hàng Consortium.
+Conspicuous consumption	tiêu dùng nhằm khoe khoang.
+Constant capital	Tư bản bất biến.
+(CES) Production Function	thế không đổi.
+curve	Đường cầu với thị phần bất biến.
+Constant returns to scale	tức cố định theo quy mô
+Constrained optimization	Tối ưu hoá có rằng buộc
+Constraint	Rằng buộc
+Consumer	Người tiêu dùng
+Consumer credit	Tín dụng tiêu dùng
+Consumer demand theory	Lý thuyết cầu tiêu dùng
+Consumer durable	Hàng tiêu dùng lâu bền
+Consumer equilibrium	Cân bằng tiêu dùng
+Consumer expenditure	Chi tiêu của người tiêu dùng
+Consumer goods and services	Hàng và dịch vụ tiêu dùng
+Consumer price index	Chỉ số giá tiêu dùng
+Consumer sovereignty	dùng
+Consumer's surplus	Thặng dư của người tiêu dùng
+Consumption	Sự tiêu dùng
+Consumption expenditure	Chi tiêu tiêu dùng
+Consumption function	Hàm tiêu dùng
+Consumption tax	Thuế tiêu dùng
+Constestable market	Thị trường có thể cạnh tranh được
+Contingency reserve	Dự trữ phát sinh
+Contingency table	Bảng phát sinh; Bảng sự cố
+Contingent valuation	Việc định giá bất thường
+Continuous variable	Biến số liên tục
+Contract curve	Đường hợp đồng
+Contractionary phase	hẹp
+Convergence thesis	Luận chứng hội tụ
+Convergent cycle	Chu kỳ hội tụ
+Conversion	Sự chuyển đổi
+Convertibility	Khả năng chuyển đổi
+Convertible bond	Trái khoán chuyển đổi được.
+Convertible loan stock	Khoản vay chuyển đổi được.
+Convertible security	Chứng khoán chuyển đổi được.
+Convex function (convexity)	Hàm lồi (tính lồi).
+Cooling off period	Giai đoạn lắng dịu.
+Co-ordinated wage policy	Chính sách tiền lương phối hợp
+Core, the	Giá gốc.
+Corner solution	Đáp số góc.
+Corn Laws	Các bộ luật về Ngô.
+Corporate capitalism	nghĩa tư bản doanh nghiệp.
+Corporate conscience	doanh nghiệp.
+Corporate risk	Rủi ro hợp doanh; Rủi ro công ty.
+Corporate state	nước công ty.
+Complementary inputs	lượng bổ trợ.
+Concesionary prices / rates	Giá / Tỷ suất ưu đãi.
+Constant prices	Giá cố định / giá bán không đổi.
+Constant returns to scale	Sinh lợi không đổi theo quy mô.
+Constraint (informal / formal)	theo quy định.
+Conversion factor	Hệ số chuyển đổi.
+Consumer borrowing	Vay để tiêu dùng.
+Consumer choice	Lựa chọn của người tiêu dùng.
+Consumption bundle	tiêu dùng.
+Consumption externalities	Những ngoại tác tiêu dùng.
+Corporation	Hợp doanh; Công ty.
+Corporation tax	Thuế doanh nghiệp; Thuế Công ty.
+Correlation	Sự tương quan
+Positive correlation	Tương quan đồng biến.
+Nagative correlation	Tương quan nghịch biến.
+Correlation of returns	Tương quan của lợi tức.
+Correlogram	Biểu đồ tương quan
+Correspondent banks	Các ngân hàng đại lý.
+Corset	Yêu cầu thắt chặt.
+Cost	Chi phí.
+Cost - benefit analysis	Phân tích chi phí - lợi ích.
+Cost - effectiveness analysis	Phân tích chi phí - hiệu quả
+Cost insurance freight	giá CIF.
+Cost minimization	Tối thiểu hoá chi phí.
+Cost of capital	Chi phí vốn.
+Cost of living	hoạt.
+Cost of protection	Chi phí bảo hộ.
+Cost overrun	Chi phí phát sinh.
+Cost - plus pricing	cộng thêm lợi nhuận.
+Cost - push inflation	Lạm phát do chi phí đẩy.
+Cost - utility analysis	Phân tích tận dụng chi phí.
+(ECA).	Hội đồng cố vấn kinh tế.
+Assitance (Comecon)	Hội đồng tương trợ kinh tế.
+Countercyclical	Ngược chu kỳ.
+Countertrade	Thương mại đối lưu.
+Countervailing power	bằng.
+Counter - vailing duty	trợ giá.
+Coupon	Phiếu lãi, lãi suất trái phiếu.
+Coupon payments	Tiền trả lãi theo năm
+Cournot's duopoly model	Mô hình lưỡng độc quyền Cournot.
+Covariance	Hiệp phương sai.
+Covariance stationary	Tĩnh theo hiệp phương sai.
+Covered interest parity	lãi suất.
+CPRS	STAFF.
+Craff unions	Nghiệp đoàn theo chuyên môn.
+Cramer's Rule	Quy tắc Cramer's.
+Crawling peg	chỉnh dần.
+Credit	Tín dụng.
+Credit account	Tài khoản tín dụng.
+Credit card	Thẻ tín dụng.
+Credit celing	Trần tín dụng.
+Credit control	Kiểm soát tín dụng.
+Credit creation	Sự tạo ra tín dụng.
+Credit guarantee	Bảo đảm tín dụng.
+Credit multiplier	Số nhân tín dụng.
+Credible threat	thực hiện được.
+Creditor nation	Nước chủ nợ.
+Creditors	Các chủ nợ.
+Credit rationing	Định mức tín dụng
+Credit restrictions	Hạn chế tín dụng
+Credit squeeze	Hạn chế tín dụng
+Credit transfer	Chuyển khoản
+Creeping inflation	Lạm phát sên bò; Lạm phát bò dần
+Critical value	Giá trị tới hạn
+Cross elasticity of demand	Độ co giãn chéo của cầu
+Cross-entry	Nhập nghành chéo
+Cross partial derivative	Đạo hàm riêng
+Cross-sectional analysis	Phân tích chéo
+function	Hàm số tiêu dùng chéo
+Cross-subsidization	Trợ cấp chéo
+Crowding hypothesis	Giả thuyết chèn ép
+Crowding out	Lấn áp; chèn ép
+CSO	Cục thống kê trung ương
+Cubic	Lập phương
+Cultural change	Sự thay đổi văn hoá
+Culture of poverty hypothesis	Giả thuyết về văn hoá nghèo khổ
+Cumulative causation model	Mô hình nhân quả tích luỹ
+Cumulative preference shares	Các cổ phiếu ưu đãi
+Cumulative shares	Cổ phiếu được trả lợi theo tích luỹ
+Currency	Tiền mặt, tiền tệ
+Currency appreciation	Sự tăng giá trị của một đồng tiền
+Currency control	Kiểm soát tiền tệ
+Currency depreciation	Sự sụt giảm giá trị tiền tệ
+Currency notes	Tiền giấy
+Currency principle	Nguyên lý tiền tệ
+Currency retention quota	Hạn mức giữ ngoại tệ
+Curency school	Trường phái tiền tệ
+Currency substitution	Sự thay thế tiền tệ
+Current account	hành, cán cân tài khoản vãng lai.
+Current assets	Tài sản lưu động.
+Current cost accounting	Hạch toán theo chi phí hiện tại.
+Current income	Thu nhập thường xuyên.
+Current liabilities	Tài sản nợ ngắn hạn.
+Current profits	Lợi nhuận hiện hành
+Current and capital account	vốn.
+Current prices	Giá hiện hành (thời giá).
+Custom and practice	Tập quán và thông lệ
+Custom markets	Các thị trường khách hàng.
+Custom Co-operative Council	Uỷ ban hợp tác Hải quan.
+duties	thụ đặc biệt và thuế bảo hộ.
+Custom union	Liên minh thuế quan.
+Cyclical unemployment	Thất nghiệp chu kỳ.
+Cycling	Chu kỳ.
+Damage cost	hại
+Damped cycle	kỳ tắt.
+Data	Số liệu, dữ liệu.
+Dated securities	Chứng khoán ghi ngày hoàn trả.
+DCF	luồng tiền.
+Deadweight debt	Nợ "trắng".
+Deadweight - loss	vô ích.
+Dear money	Tiền đắt.
+Debased coinage	Tiền kim loại.
+Debentures	Trái khoán công ty.
+Debreu Gerard	(1921-)
+Debt	Nợ.
+Debt conversion	Hoán nợ; Đổi nợ.
+Debt finance	Tài trợ bằng vay nợ.
+Debt for equity swaps	Hoán chuyển nợ thành cổ phần.
+Debt management	Quản lý nợ.
+Debtor nation	Nước mắc nợ.
+Debt ratio	phần
+Decile	Thập phân vị
+Decimal coinage	Tiền đúc ước số mười
+Decision function	Hàm quyết định
+Decision lag	Độ trễ của việc ra quyết định
+Decision rule	Quy tắc ra quyết định
+Decision theory	Lý thuyết ra quyết định
+Decreasing cost industry	Ngành có chi phí giảm dần
+Decreasing returns	giảm dần
+Decreasing returns to scale	Lợi tức giảm dần theo quy mô
+Deferred ordinary shares	Cổ phiếu thường lãi trả sau
+Deficit	Thâm hụt
+Deficit financing	Tài trợ thâm hụt
+Deficit units	Các đơn vị thâm hụt
+Deflation	Giảm phát
+Deflationnary gap	Chênh lệch gây giảm phát
+Deflator	Chỉ số giảm phát
+Degree of homogeneity	Mức độ đồng nhất
+Degree of freedom	Bậc tự do (df)
+Deindustrialization	Phi công nghiệp hoá.
+Delors Report	Báo cáo Delors.
+Demand	Cầu
+Demand curve	Đường cầu.
+Demand deposits	Tiền gửi không kỳ hạn.
+Demand for inflation	Cầu đối với lạm phát.
+Demand function	Hàm cầu
+Demand for exchange	Cầu ngoại tệ.
+Demand for money	Cầu tiền tệ
+Demand management	Quản lý cầu.
+Demand - pull inflation	Lạm phát do cầu kéo.
+Demand schedule	Biểu cầu
+Demand shift inflation	Lạm phát do dịch chuyển cầu.
+Demography	Nhân khẩu học.
+Density gradient	Gradient mật độ.
+Dependence structure	Cấu trúc phụ thuộc.
+Demonetization	sử dụng tiền mặt.
+Dependency burden	Gánh nặng ăn theo.
+Dependent variable	Biến số phụ thuộc.
+Depletion allowance	Ưu đãi tài nguyên
+Deposit	Tiền gửi
+Deposit account	Tài khoản tiền gửi
+Deposit money	Tiền gửi ngân hàng.
+(DIDMCA)	gửi năm 1980.
+Depreciation	Khấu hao; sự sụt giảm giá trị.
+Depression	Tình trạng suy thoái.
+Deregulation	điều tiết.
+resources	và tái sinh.
+Depreciation rate	Tỷ lệ khấu hao.
+Depressed area	Khu vực trì trệ.
+Derivative	Đạo hàm.
+Derived demand	thứ phát.
+Deseasonalization	Xoá tính chất thời vụ.
+Desired capital stock	Dung lượng vốn mong muốn.
+Determinant	hiệu |A|).
+Detrending	hướng.
+Devaluation	Phá giá
+Devaluation and revaluation	Phá giá và nâng giá.
+Developing countries	Các nước đang phát triển.
+Development area	Vùng cần phát triển.
+Development planning	hoạch phát triển.
+Development strategy	Chiến lược phát triển.
+Deviation	Độ lệch.
+Standard deviation	Độ lệch chuẩn.
+Dickey fuller test	Các kiểm định Dickey Fuller.
+Difference equation	Phương trình vi phân
+Differencing	Phương pháp vi phân
+Difference principle	khác biệt
+(DSP)	Quá trình vi phân tĩnh.
+Differentials	lệch.
+Differentiated growth	Tăng trưởng nhờ đa dạng hoá
+Differentiation	phân
+Diffusion	Quá trình truyền bá; Sự phổ biến
+Dillon Round	Vòng đàm phán Dillon
+Diminishing marginal utility	Độ thoả dụng biên giảm dần.
+Diminishing returns	giảm dần
+substitution	giảm dần.
+wealth	giảm dần của tài sản/của cải.
+Direct costs	Chi phí trực tiếp.
+Direct debit	Ghi nợ trực tiếp.
+Direct taxes	Thuế trực thu.
+Directors	Ban giám đốc.
+Director's Law	Quy luật Director
+Dirty float	hoàn toàn
+Disadvantaged workers	Những công nhân không có lợi thế.
+Discharges	Những người bị thôi việc
+Discounted cash flow (DCF)	tiền chiết khấu
+Discounted cash flow yield	Lợi tức luồng tiền đã chiết khấu
+Discount house	Hãng chiết khấu
+Discounting	Chiết khấu
+Discount market	Thị trường chiết khấu.
+Discount rate	Tỷ lệ chiết khấu; suất chiết khấu
+Discouraged Worker Hypothesis	Giả thuyết về công nhân nản lòng.
+Discrete variable	Biến gián đoạn
+Discretionary profits	Những mức lợi nhuận vượt trội
+Discretionary stabilization	Sự ổn định có can thiệp
+Discriminating monopoly	quyền có phân biệt.
+Discrimination	Sự phân biệt đối sử.
+Discriminatory pricing	Định giá có phân biệt
+Diseconomies of growth	Tính phi kinh tế do tăng trưởng
+Diseconomies of scale	Tính phi kinh tế do quy mô.
+Disembodied technical progress	kỹ thuật tách rời.
+Disequilibrium	không cân bằng
+Disguised unemployment	Thất nghiệp trá hình.
+Disincentive	Trở ngại
+Disinflation	Quá trình giảm lạm phát.
+Disintermediation	trung gian.
+Disinvestment	Giảm đầu tư.
+Displacement effect	thay đổi trạng thái.
+Disposable income	tiêu; Thu nhập khả dụng.
+Dissaving	Giảm tiết kiệm.
+Distance cost	Phí vận chuyển.
+Dirigiste	Chính phủ can thiệp.
+Discount rate	Suất chiết khấu.
+unemployment	Người thất nghiệp do nản lòng.
+Distributed lags	Độ trễ có phân phối.
+Distributed profits	Lợi nhuận được phân phối.
+Distribution, theories of	Các lý thuyết phân phối.
+Dispersion	Phân tán.
+Distortions	Biến dạng
+Distortions and market failures	trường.
+Distribution (stats)	Phân phối.
+Continuous distribution	Phân phối liên tục
+Deterministic distribution	Phân phối tất định
+Discrete distribution	Phân phối rời rạc
+Normal distribution	Phân phối chuẩn
+Probability distribution	Phân phối xác suất
+Step distribution	Phân phối bậc thang
+Triangular distribution	Phân phối tam giác
+Union distribution	Phân phối đều.
+Distributional equity	Công bằng trong phân phối.
+Distributional wage	Trọng số phân phối
+Distribution function	Chức năng phân phối.
+Distributive judgement	BIỆN MINH PHÂN PHỐi.
+Distributive justice	phối
+Disturbance term	Sai số.
+Disutility	Độ bất thoả dung.
+Divergent cycle	Chu kỳ phân rã; Chu kỳ bùng nổ.
+Divergence	Phân rã; phân kỳ; Sai biệt.
+Diversification	Đa dạng hoá.
+Diversifier	Người đầu tư đa dạng.
+Dividend	Cổ tức.
+Dividend cover	Mức bảo chứng cổ tức.
+Dividend payout ratio	Tỷ số trả cổ tức
+Dividend yield	Lãi cổ tức.
+Division of labour	Phân công lao động.
+Dollar certificate of deposite	Giấy chứng nhận tiền gửi đôla.
+Domar, Evsey D.	(1914-)
+Domestic credit expansion	Tín dụng trong nước (DCE).
+Dominant firm price leadership	Giá của hãng khống chế.
+Doolittle method	Phương pháp Doolittle
+Double-coincidence of wants	hợp nhu cầu.
+Double counting	Tính hai lần; Tính lặp
+Double factorial terms of trade	cả hai bên.
+Double switching	Chuyển đổi trở lại.
+taxation relief.	thuế hai lần.
+Dow Jones index	Chỉ số Dow Jones.
+Dual decision hypothesis	Giả thuyết quyết định kép
+Dualism, theory of	Lý thuyết nhị nguyên
+Duality	Phương pháp đối ngẫu.
+Dual labour market hypothesis	cấp.
+Dollar standard	Bản vị đôla
+Domestic absorption	Sự hấp thu trong nước.
+Domestic - oriented growth	địa.
+Domestic resources cost	Chi phí tài nguyên trong nước.
+Dummy variable	Biến giả.
+Dumping	Bán phá giá.
+Duopoly	Lưỡng độc quyền bán.
+Duopsony	Lưỡng độc quyền mua.
+Duration of unemployment	Thời gian thất nghiệp
+Durbin h - statistic	Số thống kê Durbin - h
+Durbin- Watson	Số thống kê (d hoặc D.W.).
+Dynamic economics	Kinh tế học động.
+Dynamic model	Mô hình kinh tế động.
+Dynamic peg	Tỷ giá hối đoái neo động.
+Dynamic programming	Quy hoạch động.
+advantage.	sánh.
+Earmaking	Dành cho mục đích riêng.
+Earning	Thu nhập.
+Earnings driff	Khuynh hướng tăng thu nhập.
+Earnings function	Hàm thu nhập.
+Easy money	Tiền dễ vay.
+policy	sách.
+EC Agricultural Livies	Thuế nông nghiệp của EC
+ECGD	GUARANTEE DEPARTMENT
+Econometric model	Mô hình kinh tế lượng.
+Econometrics	Môn kinh tế lượng.
+Economic base	Cơ sở kinh tế.
+Economic base multiplier	Nhân tử cơ sở kinh tế.
+Economic community	Cộng đồng kinh tế.
+Administration	Cơ quan Hợp tác kinh tế.
+Economic development	Phát triển kinh tế.
+Economic development Committee	Uỷ ban Phát triển kinh tế.
+Economic development Institute	Viện Phát triển kinh tế.
+Economic dynamics	Động học kinh tế.
+Economic efficiency	Hiệu quả kinh tế.
+Eclectic Keynesian	trung.
+Economic cost	Chi phí kinh tế.
+Economic growth	Tăng trưởng kinh tế.
+Economic good	Hàng hoá kinh tế.
+Economic imperialism	Đế quốc kinh tế.
+Economic liberialism	Chủ nghĩa tự do kinh tế.
+Economic man	Con người kinh tế.
+Economic planning	Hoạch định kinh tế.
+Economic policy	Chính sách kinh tế.
+Economic price	Giá kinh tế.
+Economic profit	Lợi nhuận kinh tế.
+Economic rent	lợi kinh tế.
+Economic rate of return	Tỷ suất lợi nhuận kinh tế.
+Economics	Kinh tế học.
+Economic surplus	Thặng dư kinh tế.
+Economies of scale	kinh tế nhờ quy mô.
+Economic theory of polities	Lý thuyết chính trị dựa trên kinh tế.
+Economic union	Cộng đồng kinh tế.
+Economic welfare	Phúc lợi kinh tế.
+Economies of learning	kinh tế do học tập
+Economy of high wages	Nền kinh tế có tiền công cao.
+Edgeworth, Francis Ysidro	(1845-1926).
+Effective demand	Cầu hữu hiệu.
+Effective	Hiệu dụng, hiệu quả.
+Effective rate of protection	hộ hữu hiệu.
+Effective rate of tax	hữu hiệu.
+Effective protection	hiệu.
+Effective rate of return	Suất sinh lợi hiệu dụng.
+Efficiency	Tính hiệu quả; Tính hiệu dụng.
+Efficiency earnings	Thu nhập hiệu quả.
+Efficiency units	Đơn vị hiệu quả.
+Efficiency wages	hiệu dụng/ hiệu quả.
+Efficiency wage theory	Lý thuyết tiền công hiệu quả.
+Efficient asset market	hiệu quả.
+Efficient market hypothesis	quả.
+Efficient resource allocation	Sự phân bổ nguồn lực có hiệu quả
+Effort aversion	Ngán nỗ lực; Không thích nỗ lực.
+EFTA	ASSOCIATION
+EIB	BANK.
+Elastic and unit elastic demand	đơn vị.
+Elasticity	Độ co giãn
+Elasticity of demand	Độ co giãn của cầu.
+Elasticity of input substitution	vào.
+Eligible asset ratio	Tỷ số tài sản dự trữ.
+Eligible paper	Giấy tờ đủ tiêu chuẩn chiết khấu.
+Elitist good	Hàng xa xỉ
+EMA	AGREEMENT
+Embodied technical progress	hàm chứa kỹ thuật.
+Emoluments	lương chính
+Endogeneous consumption	Tiêu dùng nội sinh.
+(ESOP)	người làm.
+Employment Act of 1946	Đạo luật Việc làm năm 1946
+Employment Service	Dịch vụ việc làm.
+Employment subsidies	Trợ cấp việc làm.
+EMS	SYSTEM
+Encompassing test	nghiệm vòng biên.
+Endogenous income hypothesis	Giả thiết thu nhập nội sinh
+Endogenous money supply	Cung tiền tệ nội sinh.
+Endogenous variable	Biến nội sinh.
+Endowment effect	Hiệu ứng hàng đã có.
+Energy intensity	Cường độ sử dụng năng lượng.
+nomenklatura	Đặc quyền của giới chức.
+Engagements	Tuyển dụng (hay thuê mới).
+Engel curve	Đường Engel.
+Engel's Law	Quy luật của Engel.
+Engineering method	Phương pháp kỹ thuật.
+Entitlement principle	Nguyên tắc được quyền.
+Entrepreneur	Chủ doanh nghiệp.
+Entrepreneurial supply price	Giá cung ứng của doanh nghiệp.
+Entrepreneurship	nghiệp.
+Entry barriers	Rào cản nhập nghành.
+Entry and exit	Nhập nghành và xuất ngành.
+Entry forestalling price	Giá ngăn chặn nhập ngành.
+Entry preventing price	Giá ngăn chặn nhập ngành.
+Environmental conditions	Những điều kiện môi trường.
+Environmental determinism	Quyết định luận do môi trường.
+Environmental impact analysis	Phân tích tác động môi trường.
+Equal advantage	bằng.
+of 1972	đẳng/ngang bằng năm 1972.
+Commision	ngang bằng.
+Equalization grants	Các khoản trợ cấp để cân bằng.
+Equal pay	bình đẳng.
+Equal sacrifice theories	thuyết hy sinh bình đẳng.
+Equation of exchange	Phương trình trao đổi.
+Equilibrium	Cân bằng
+Equilibrium error	Sai số cân bằng
+Equilibrium price	Giá cân bằng
+Equilibrium rate of inflation	Tỷ lệ lạm phát cân bằng.
+Equities	Cổ phần
+Equity	Công bằng
+Equity capital	Vốn cổ phần
+Equivalance scale	tương đương.
+Equivalent commodity scale	hàng hoá tiêu dùng tương đương.
+Equivalent income scale	thu nhập tương đương
+Equivalent variation	Mức biến động tương đương
+Error correction models (ECMs)	Các mô hình sửa chữa sai số.
+Error learning process	Quá trình nhận biết sai số.
+Errors variables	trong các phép đo).
+Escalators	Điều khoản di động giá.
+Estate duty	Thuế di sản (thuế tài sản thừa kế).
+Estate economy	Nền kinh tế đồn điền.
+Estimation	Sự ước lượng.
+Estimator	lượng.
+EUA	ACCOUNT
+Euler's theorem	Định lý Euler
+Eurocurrency market	Thị trường tiền tệ Châu ÂU.
+Eurodollars	Đola Châu Âu.
+and Guaranted Fund	nghiệp Châu Âu.
+and Development	Châu ÂU.
+Community	Cộng đồng Than và thép Châu Âu.
+European Community Budget	Ngân sách Cộng đồng Châu Âu.
+European Commom Market	Thị trường chung Châu Âu.
+European Community	Cộng đồng Châu Âu.
+European Currency Unit	Đơn vị tiền tệ Châu Âu.
+European Devolopment Fund	Quỹ phát triển Châu Âu.
+European Economic Community	Cộng đồng Kinh tế Châu Âu.
+European Free Trade Association	Hiệp hội Mậu dịch tự do Châu Âu.
+European Fund	Quỹ Châu Âu.
+European Investment Bank	Ngân hàng Đầu tư Châu Âu.
+European Monetary Agreement	Hiệp định tiền tệ Châu Âu.
+Fund	Quỹ hợp tác Tiền tệ Châu ÂU.
+European Monetary Fund	Quỹ Tiền tệ Châu ÂU.
+Account	Đơn vị Kế toán Tiền tệ Châu Âu.
+European Payments Union	Liên minh Thanh toán Châu Âu.
+European Recovery Programme.	Chương trình Phục hưng Châu Âu.
+Fund.	Quỹ Phát triển Khu vực Châu Âu.
+European Social Fund.	Quỹ Xã hội Châu ÂU.
+European Unit of Account	Đơn vị Kế toán Châu Âu.
+Exact test	Kiểm nghiệm chính xác.
+Ex ante	Từ trước; Dự tính; dự định
+Excess capacity	Thừa năng lực, thừa công suất.
+Excess capacity theory	Thuyết thừa công suất.
+Excess burden	Gánh nặng thuế quá mức.
+Excess demand	Mức cầu dư; Dư cầu.
+Excess goods)	Tư liệu sản xuất nhàn rỗi.
+Excess reserves	Khoản dự trữ dư; Dự trữ dư.
+Excess supply	Mức cung dư; Dư cung
+Excess profit	Lãi vượt.
+Excess wage tax	chống tăng lương
+Exchange	Trao đổi
+Exchange control	Quản lý ngoại hối.
+Exchange Equalization Account	Quỹ bình ổn Hối đoái.
+Exchange rate	Tỷ giá hối đoái.
+Exchange rate Mechanism	Cơ chế tỷ giá hối đoái.
+Exchange reserves	Dự trữ ngoại hối.
+Exchequer	Kho bạc, ngân khố Anh.
+Excise duty	Thuế tiêu thụ đặc biệt.
+Exclusion	Loại trừ
+Excludable	Có thể loại trừ.
+Exclusion principle	Nguyên tắc loại trừ.
+Executive	Người điều hành.
+Exempt goods	gia tăng.
+Exhaustive voting	Cách bỏ phiếu thấu đáo.
+Existence, theorem of	Định lý về sự tồn tại.
+Exit-voice model	Mô hình nói rút lui.
+Excise taxes	Các mức thuế trên từng mặt hàng.
+Exchange rate speculation	Sự đầu cơ tỷ giá hối đoái.
+Effective exchange rate	Tỷ giá hối đoái hiệu dụng
+Exogeneity	Yếu tố ngoại sinh.
+Exogeneity of money supply	Sự ngoại sinh của cung tiền tê.
+Exogenous	(thuộc) ngoại sinh.
+Exogenous variable	Biến ngoại sinh.
+Expansionary phase	tăng trưởng.
+Expansion path	rộng
+Expatriate	triển)
+Expectations	Kỳ vọng; dự tính.
+Expectations, augmented	Biến bổ sung về dự tính.
+Expectations lag	Độ trễ kỳ vọng; Độ trễ dự tính
+Expected inflation	dự tính
+Expected net returns	ròng dự tính.
+Expected utility theory	Thuyết thoả dụng dự tính.
+Expected value	Giá trị kỳ vọng; giá trị dự tính.
+Expenditure approach	tính GDP).
+Expenditure-switching policies	tiêu.
+Expenditure tax	Thuế chi tiêu
+Expenditure-variation controls	tiêu.
+Expense preference	Ưu tiên chi tiêu.
+Explanatory variable	Biến giải thích
+Explicit function	Hàm hiện
+Exploitation	Khai thác; bóc lột.
+Explosive cycle	Chu kỳ bùng nổ.
+Exponential	Thuộc số mũ, thuộc hàm mũ.
+Export	Xuất khẩu, hàng xuất khẩu.
+Export-import bank	Ngân hàng xuất nhập khẩu.
+Export-led growth	Tăng trưởng dựa vào xuất khẩu.
+Export promotion	Khuyến khích xuất khẩu.
+Department.	Cục Bảo đảm tín dụng xuất khẩu.
+Export-oriented industrialization	khẩu.
+Ex post	từ sau; sau đó
+Extensive margin	Mức cận biên quảng canh.
+External balace	bên ngoài.
+External deficit	ngoài.
+External diseconomy	ngoài
+diseconomies of scale	bên ngoài theo quy mô.
+External economy	Tính kinh tế từ bên ngoài
+External finance	(Nguồn) tài chính từ bên ngoài.
+External financial limits	bên ngoài.
+External growth	trưởng do bên ngoài.
+Externalities	Các ngoại hưởng; Các ngoại ứng
+External labour market	Thị trường lao động bên ngoài.
+External reserve	Dự trữ ngoại hối.
+Dynamic externalities	động.
+Extraneous information	Thông tin không liên quan
+Extrapolative expectation	ngoại suy.
+Extrema	Các cực trị.
+Extrema Keynesian	đoan.
+progress	hưởng của yếu tố.
+Factor endowment	yếu tố sản xuất.
+Factor incomes	Thu nhập từ yếu tố sản xuất.
+Factoring	nợ.
+Factor-price equalization	cả.
+Factor-price frontier	Giới hạn yếu tố sản xuất - giá cả.
+Factor intensity	dụng) các yếu tố sản xuất.
+Factor proportion	Tỷ lệ các yếu tố sản xuất.
+Factor reverals	xuất.
+Factors of production	Các yếu tố sản xuất.
+Factor substitution effect	Tác động thay thế yếu tố sản xuất.
+Factor utilization	Sự sử dụng yếu tố sản xuất.
+Factorial	Giai thừa.
+Fair comparisons	So sánh công đẳng.
+Fair rate of return	Tỷ suất lợi tức công bằng.
+Fair trade law	Luật thương mại công bằng.
+Fair trading Act 1973	1973
+Fair trading, Office of	Văn phòng thương mại công bằng.
+Fair wages	Tiền công công bằng.
+Fallacy of composition	"sai lầm do gôm gộp/ tổng hợp".
+False trading	Thương mại lừa dối.
+Family expenditure survey	Điều tra chi tiêu gia đình.
+Family credit	Tín dụng gia đình.
+Family-unit agriculture	đình.
+FAO	ORGANIZATION.
+FASB	STANDARDS BOARD
+FCI	Xem FINANCE FOR INDUSTRY.
+Featherbedding	(nhồi lông nệm).
+Fed., the	bang.
+Corporation (FDIC)	bang.
+Federal Fund Market	Thị trường Tiền quỹ liên Bang.
+(FHLBS)	bộ của liên bang.
+Feasibility study	Nghiên cứu khả thi.
+Association (FNMA)	bang
+Federal Open Market Committee	Uỷ ban Thị trường mở Liên bang.
+Federal Reserve Note	Bang
+Federal Reserve System	Hệ thống Dự trữ Liên bang.
+Federal Trade Commission Act	Liên bang.
+Feedback/entrapment effects	Tác động phản hồi/bẫy.
+Feudalism	Chủ nghĩa phong kiến.
+Fiat money	Tiền theo luật định
+Fiduciary issue	Tiền không được bảo lãnh.
+Filter	Bộ lọc.
+Filtering	Quá trình lọc.
+Final goods	Hàng hoá cuối cùng.
+Final offer arbitration	định cuối cùng.
+Final product	Sản phẩm cuối cùng.
+Finance	Tài chính
+Finance Corporation for Industry	Công ty Tài chính Công nghiệp.
+Finance house	chính.
+Finance houses market	chính; Thị trường công ty tài chính.
+Financial Capital	Vốn tài chính.
+Financial instrument	Công cụ tài chính.
+Financial displine	chính.
+Financial intermediary	Trung gian tài chính.
+Financial price	Giá tài chính.
+Financial ratios	Tỷ số tài chính.
+Financial risk	Rủi ro tài chính.
+Indices	báo Financial Times.
+Index	Financial Times.
+Financial year	Năm tài chính.
+Financial statement	Báo cáo tài chính.
+Financial rate of return	Suất sinh lợi tài chính.
+Finite memory	Bộ nhớ xác định (hữu hạn).
+Firm	Hãng sản xuất.
+Firm, theory of the	Lý thuyết về hãng.
+Finite horizon	Tầm nhìn/ khung trời hữu hạn.
+Firm-specific human capital	Vốn nhân lực đặc thù đối với hãng.
+efficiency	và tốt nhì.
+First difference	Vi phân bậc I.
+First order condition	Điều kiện đạo hàm bậc I.
+Fiscal policy	thu chi ngân sách.
+Fiscal decentralization	cấp ngân sách.
+Fiscal drag	Sức cản của thuế khoá.
+Fiscal federalism	bang.
+Fiscal illusion	Ảo giác thuế khoá.
+Fiscal multiplier	Nhân tử thuế khoá.
+Fiscal walfare benefits	Lợi ích phúc lợi thuế khoá.
+Fisher, Irving	(1867-1947)
+Fisher equation	Phương trình Fisher
+Fisher open	PARITY.
+Fixed asset	Tài sản cố định.
+function	định.
+Fixed cost	Chi phí cố định; định phí.
+Fixed exchange rate	Tỷ giá hối đoái cố định.
+Fixed factors	sản tố cố định.
+Fixed labour costs	Chi phí lao động cố định.
+Fixed-price mdel	Các mô hình mức giá cố định.
+Fixed / floating exchange rates	Tỷ giá hối đoái cố định / thả nổi.
+Fixed proportions in production	Tỷ lệ cố định trong sản xuất.
+Fixprice and flexprice	Giá bất biến và giá linh hoạt.
+Flat yield	Tiền lãi đồng loạt.
+Flexible exchange rate	Tỷ giá hối đoái linh hoạt.
+Flexitime	Thời gian làm việc linh hoạt.
+Flight from cash	Bỏ tiền mặt.
+Float	Tiền trôi nổi.
+Floating capital	Vốn luân chuyển.
+Floating charge	Phí linh động
+Floating debt	Nợ thả nổi
+Floating exchange rate	Tỷ giá hối đoái thả nổi.
+Floating pound	Đồng bảng Anh thả nổi.
+Floor	Sàn.
+Flotation	Phát hành.
+Flow	Dòng, luồng, Lưu lượng.
+Flow of funds analysis	Phân tích luồng tiền quỹ
+FOB	FOB.
+(FAO)	nghiệp của Liên hợp quốc.
+Footloose industries	định.
+Forced riders	Người hưởng lợi bắt buộc.
+Forced saving	Tiết kiệm bắt buộc.
+Forecast error	Sai số dự đoán.
+Forecasting	Dự đoán
+Foreign aid	Viện trợ nước ngoài.
+Foreign balance	Cán cân thanh toán quốc tế.
+Foreign exchange	Ngoại hối.
+Foreign exchange market	Thị trường Ngoại hối.
+Foreign exchange reserve	Dự trữ ngoại hối.
+Foreign investment	Đầu tư nước ngoài.
+Foreign payments	Thanh toán với nước ngoài.
+Foreign trade mutiplier	Nhân tử ngoại thương.
+Forward contract	hạn.
+Forward exchange market	trường hối đoái kỳ hạn.
+Forward intergration	Liên kết xuôi.
+Forward linkage	Liên hệ xuôi.
+Forward market	kỳ hạn.
+Forward rate	hối đoái kỳ hạn.
+Forward and contingent market	trắc.
+markets	trường giao ngay.
+Foundation grant	Trợ cấp cơ bản.
+Fourier analysis	Phân tíc Fourier
+Fractional reserve banking	dự trữ theo tỷ lệ.
+Franked investment income	Thu nhập đầu tư được miễn thuế.
+Free exchange rates	Tỷ giá hối đoái tự do
+Freedom of entry	Tụ do nhập ngành.
+Freed good	trả tiền
+Free market	Thị trường tự do.
+Free market economy	Nền kinh tế thị trường tự do.
+Free on board	Giao hàng tại bến.
+Free reserves	Dự trữ tự do.
+Free rider	Người xài chùa; người ăn không.
+Free trade	Thương mại tự do.
+Free trade area	Khu vực thương mại tự do.
+Frequency distribution	Phân bố theo tần suất.
+Frictional unemployment	Thất nghiệp do chờ chuyển nghề
+Fringe benefit	Phúc lợi phi tiền tệ.
+Frisch, Ragnar	(1895-1973)
+F-statistic	Thống kê F.
+Full bodied money	Tiền quy ước.
+Full cost	Chi phí đầy đủ.
+Full cost pricing	Định giá theo chi phí đầy đủ.
+Fractional reserve system	Hệ thống dự trữ một phần.
+Free-rider problem	Vấn đề người "xài chùa".
+unemployment	và do chờ chuyển nghề.
+Full-employment budget	làm.
+Full-employment budget surplus	sách khi có đủ việc làm.
+Full-employment national income	dân khi có đủ việc làm.
+(FIML)	có đủ thông tin.
+Function	Hàm số.
+Fuctional costing	Lập chi phí theo chức năng.
+Function of function rule	Quy tắc hàm của một hàm số.
+Funded debt	Nợ vô thời hạn; Nợ được tài trợ.
+Funding	Đổi nợ, đảo nợ; cấp vồn, tài trợ.
+Function income distribution	năng.
+Futures contract	Hợp đồng kỳ hạn
+Futures market	Thị trường kỳ hạn
+Future value	Giá trị tương lai.
+(GAB)	Hiệp ước vay nợ chung.
+Gains from trade	Lợi ích của thương mại.
+Galbraith, John Kenneth	(1908-)
+Galloping inflation	Lạm phát phi mã.
+Game theory	Lý thuyết trò chơi.
+Gauss- Markov Theorem	Điịnh lý Gauss- Markov.
+GDP	Tổng sản phẩm quốc nội.
+Gearing	vốn cổ phần
+Gearing ratio	Tỷ số ăn khớp
+Trade (GATT)	thương mại.
+General Agreement to Borrow	Thoả thuận Chung về Đi vay.
+Activities in t	châu Âu.
+General equilibrium	thể.
+General grant	Trợ cấp chung.
+Generalized least square (GLS)	Bình phương nhỏ nhất tổng quát.
+General linear model (GLM)	Mô hình tuyến tính tổng quát.
+Preferences (GSP)	thống ưu đãi chung.
+General price level	Mức giá chung.
+Interest and Money	Lãi suất và Tiền tệ.
+General human capital	chung; vốn nhân lực chung chung.
+General union	Các nghiệp đoàn.
+Geneva Conference	Hội nghị Geneva.
+Geneva Round	Vòng đàm phán Geneva.
+Geographic frontier	Giới hạn địa lý.
+Geometric lag	Độ trễ cấp số nhân.
+growth	lệ.
+Giffen good	Hàng hoá Giffen
+Gifts tax	Thuế quà tặng.
+Gilt- edged securities	khoán hảo hạng.
+Gini coefficient	Hệ số GINI.
+Giro system	Hệ thống chuyển khoản Giro
+Glejser test	Kiểm định Glejser.
+GNP	Tổng sản phẩm quốc dân.
+Gold bricking	Hoạt động lưa dối.
+Gold certificate	Giấy chứng gửi vàng.
+"gold age" growth	Tăng trưởng "thời kỳ hoàng kim".
+Golden rule	Nguyên tắc vàng; Quy tắc vàng.
+Golden rule of accumulation	tắc vàng của tích luỹ.
+Gold exchange standard	Bản vị trao đổi bằng vàng.
+Gold export point	Điểm xuất khẩu vàng.
+Gold import point	Điểm nhập khẩu vàng.
+Goldfeld - Quandt	Kiểm định Goldfeld - Quandt.
+Gold market	Thị trường vàng.
+Gold points	Các điểm vàng.
+GDP and nation income	GDP và thu nhập quốc dân.
+GDP at factor cost	GDP theo chi phí sản xuất.
+GDP at market prices	GDP theo giá thị trường.
+GDP deflator	Hệ số khử lạm phát cho GDP.
+Gold reserve	Dự trữ vàng.
+Gold standard	Bản vị vàng.
+Goldbugs	Những con mọt vàng.
+Goodhart's law	Luật Goodhart.
+Goodness of fit	Mức độ phù hợp.
+Goods	Các hàng hoá tốt.
+Goodwill	Lợi thế thương mại.
+Gosplan	Uỷ ban kế hoạch (Liên Xô).
+Government deficit	Thâm hụt của Chính phủ.
+Government expenditure	Chi tiêu của chính phủ.
+Association (GNMA)	Chính phủ.
+Government regulation	Sự điều tiết của chính phủ.
+Government securities	Chứng khoán của chính phủ.
+taxes	ròng.
+and services	hoá và dịch vụ.
+Gradualism	tuần tiến; thuyết tuần tiến.
+Gradualist monetarist	tiến.
+Graduate tax	Thuế đại học
+Grand factor price frontier	Giới hạn giá cả nhân tố chính.
+Grandfather clause	có chức.
+Granger causality	Tính nhân qủa Granger.
+Grant	Trợ cấp.
+Grant in aid	Trợ cấp dưới dạng viện trợ.
+Gravity model	Mô hình lực hấp dẫn.
+"Great Leap Forward"	Đại nhảy vọt
+Green pound	Đồng bảng xanh
+Green revolution	Cách mạng Xanh.
+Gresham's Law	Luật Gresham.
+Gross barter terms of trade	Tổng tỷ lệ hàng đổi hàng.
+formation	Tổng tư bản cố định trong nước.
+Gross domestic product (GDP)	Tổng sản phẩm quốc nội.
+Gross domestic product deflator	phẩm quốc nội.
+Gross investment	Tổng đầu tư.
+Gross margin	Mức chênh giá gộp.
+Gross national income	Tổng thu nhập quốc dân.
+Gross profit	Tổng lợi nhuận
+Gross trading profit	Tổng lợi nhuận thương mại.
+Group of Ten	Nhóm G10.
+Group of Seven	Nhóm G7.
+Group of 77	Nhóm 77.
+Growth-gap unemployment	trưởng.
+Growth path	Đường tăng trưởng.
+Growth-profitability function	Hàm lợi nhuận - tăng trưởng.
+Growth-stock paradox	Nghịch lý cổ phần tăng trưởng.
+Growth theories of the firm	của hãng.
+Growth theory	Lý thuyết tăng trưởng.
+Growth rate	Tốc độ tăng trưởng.
+Growth-valuation function	Hàm giá trị - tăng trưởng.
+G.7	Xem GROUP OF SEVEN
+Guaranteed week	Tuần lễ bảo đảm.
+Guidelines	Nguyên tắc chỉ đạo.
+Guidepost following behaviour	Hành vi theo hướng chỉ dẫn.
+Guideposts	Các chỉ dẫn.
+Haavelmo, Trygve	(1911-)
+Haberler, Gottfried	(1900-)
+Habit-creating demand function	Hàm cầu do thói quen.
+Halesbury Committee	Uỷ ban Halesbury.
+Hammered	Bị gõ búa.
+Hedgers	Những người tự bảo hiểm.
+Hard-core unemployed	việc làm.
+Hard currency	Tiền mạnh.
+Harmony of interests	Hài hoà quyền lợi.
+Harrod, Sir Roy, F.	(1900-1978).
+Harrod-Domar growth model	Domar.
+Havana Charter	Điều lệ Havana.
+Hayek, Friedrich A.Von	(1899-1992).
+international trade	thương mại quốc tế.
+Hedging	Lập hàng rào.
+Hedonic price	Giá ẩn.
+Hedonism	Chủ nghĩa khoái lạc.
+Herfindahl index	Chỉ số Herfindahl.
+Heterogeneity	Tính không đồng nhất.
+Heterogeneous capital	Vốn không đồng nhất.
+Heterogeneous product	Sản phẩm không đồng nhất.
+Heteroscedasticity	Hiệp phương sai không đồng nhất.
+Hicks. Sir John R.	(1904-1989).
+Hicks-Hansen diagram	Biểu đồ Hicks-Hansen.
+Hicks Neutral Technical Progress	Tiến bộ kỹ thuật trung tính Hicks.
+Hidden unemployment	Thất nghiệp ẩn.
+High-powered money	Tiền mạnh.
+Hiring rate	Tỷ lệ thuê.
+Hiring standards	Các tiêu chuẩn thuê người.
+Histogram	Biểu đồ tần xuất.
+Historical costs	Chi phí lịch sử.
+Historical model	Các mô hình lịch sử.
+Historical school	Trường phái lịch sử.
+Historicism	Chủ nghĩa lịch sử.
+Hoarding	Đầu cơ tích trữ.
+Hoarding company	Công ty nắm giữ.
+Homogeneity	Tính thuần nhất, tính đồng nhất.
+Homogeneous functions	Các hàm đồng nhất.
+Homogeneous product	Sản phẩm đồng nhất.
+Homogeneous product functión	Các hàm sản xuất đồng nhất.
+Homoscedasticity	Hiệp phương sai đồng nhất.
+Horizontal equity	Công bằng theo phương ngang.
+Horizontal intergration	Liên kết theo phương ngang.
+merger	kết khối.
+Hot money	Tiền nóng.
+Hotelling's Rule	Quy tắc Hotelling.
+Housing benefit	Lợi nhuận nhà ở.
+Human capital	Vốn nhân lực.
+Hume, David	(1711-1776)
+Hunt Commission	Uỷ ban Hunt.
+Hunt Report	Báo cáo Hunt.
+Hiperbola	Hypecbôn
+Hyperinflation	Siêu lạm phát.
+Hypothesis testing	Kiểm định giả thuyết.
+Hysteresis	Hiện tượng trễ.
+Human wealth	Của cải của con người.
+ICOR	lượng.
+IBBD	Ngân hàng Tái thiết và Phát triển.
+ICFC	Thương mại.
+IDA	Hiệp hội Phát triển quốc tế.
+Identification problem	Bài toán nhận dạng.
+Identity	Đồng nhất thức.
+Identity matrix	Ma trận đơn vị.
+National Income Identities	dân.
+Idiosyncratic exchange	chất.
+Idle balances	Tiền nhàn rỗi.
+Illiquidity	Không tính chuyển hoán.
+Ilo	Văn phòng Lao động Quốc tế.
+Imaginary number	Số ảo.
+IMF	Quỹ tiền tệ quốc tế.
+Imitative growth	Tăng trưởng mô phỏng.
+Immiserizing growth	Tăng trưởng làm khốn khổ.
+Impact analysis	Phân tích tác động.
+Impact multiplier	Số nhân tác động
+Impact of taxation	Tác động của việc đánh thuế.
+Imperfect competition	Cạnh tranh không hoàn hảo.
+Imperfect market	Thị trường không hoàn hảo.
+Imperialism	Chủ nghĩa đế quốc.
+Implementation lag	Độ trễ thực hiện.
+Implicit contracts	Các hợp đồng ẩn.
+Implicit cost	Chi phí ẩn.
+Implicit function	Hàm ẩn.
+Implicit price deflator	Chỉ số giảm phát giá ẩn.
+Implicit rental value	Giá trị tiền thuê ẩn.
+Import	Hàng nhập khẩu.
+Import duty	Thuế nhập khẩu.
+Import quota	Hạn ngạch nhập khẩu.
+Import restrictions	Các hạn chế nhập khẩu.
+Import substitution	Thay thế nhập khẩu.
+Import tariff	Thuế quan nhập khẩu.
+Impossibility Theorem	về Điều không thể có.
+Impure public good	tuý.
+Imputed rent	Tiền thuê không quy đổi.
+Inactive money	Tiền nhàn rỗi.
+Incentive payment systems	khích.
+Incidence of taxation	thuế, đối tượng chịu thuế.
+Income	Thu nhập
+Income, circular flow of	Luồng luân chuyển của thu nhập.
+Income consumption curve	Đường tiêu dùng thu nhập.
+Income determination	Xác định thu nhập.
+Income differentials	Sự khác biệt về thu nhập.
+Income effect	nhập.
+Income distribution	Phân phối thu nhập.
+Income elasticity of demand	Co giãn của cầu theo thu nhập.
+Income - expenditure model	Mô hình thu nhập - chi tiêu
+Income maintenance	Duy trì thu nhập.
+Income effect of wages	Ảnh hưởng thu nhập của lương.
+Income approach	(để tính GDP).
+Income-sales ratio	Tỷ số thu nhập / doanh thu.
+Incomes policy	Chính sách thu nhập.
+Income and substitution effect	hưởng của thay thế.
+Income support	Trợ giúp thu nhập.
+Income tax	Thuế thu nhập
+Income statement	Báo cáo thu nhập / Bản thu nhập.
+Income terms of trade	Tỷ giá thương mại theo thu nhập
+Income velocity of circulation	Tốc độ lưu thông của thu nhập.
+Increasing returns to scale	Lợi tức tăng dần theo quy mô.
+Incremental capital-output ratio	(ICOR).
+Independent variable	Biến độc lập.
+Indexation	Phương pháp chỉ số hoá.
+taxation.	việc đánh thuế.
+Index number	Số chỉ số.
+Index number problem	Vấn đề chỉ số.
+Indicative planning	Kế hoạch hoá chỉ dẫn.
+Index of distortion	lệch.
+Indifference	Bàng quan
+Indifference curve	dụng.
+Indifference map	đường đẳng dụng.
+Indirect least squares (ILS)	Bình phương tối thiểu gián tiếp.
+Indirect taxes	Thuế gián thu.
+Indirect utility function	Hàm thoả dụng gián tiếp.
+Indivisibilities	phân chia được.
+Industrial action	Trừng phạt lao động.
+Corporation	Thương mại.
+Industrial bank	Ngân hàng công nghiệp.
+Industrial complex analysis	Phân tích tổ hợp công nghiệp.
+Industrial democracy	Dân chủ công nghiệp
+Industrial dispute	Tranh chấp lao động
+Industrial concentration	Sự tập trung công nghiệp.
+Inductive reasoning	Lập luận quy nạp.
+Industrial policy	Chính sách công nghiệp.
+Industrial inertia	Tính ỳ công nghiệp.
+Industrialization	đang phát triển).
+Industrial organization	Tổ chức công nghiệp
+Industrial relation	Các quan hệ lao động.
+Corporation	Công ty cải tổ công nghiệp.
+Industrial unions	Nghiệp đoàn theo ngành.
+Industrial wage differentials	ngành.
+Industrial wage structure	Cơ cấu tiền công theo ngành.
+Industry	Ngành công nghiệp.
+Industry-wide bargaining	Thương lượng trong toàn ngành.
+Inelastic	Không co giãn.
+Inequality	Bất đẳng thức.
+Infant industry	Ngành công nghiệp non trẻ.
+protection	nghiệp non trẻ.
+Infant industry tariff argument	hộ ngành công nghiệp non trẻ.
+Inference	Suy luận
+Inferior good	cấp
+Infinite memory	Bộ nhớ vô hạn.
+Inflation	Lạm phát.
+Inflation, suppressed	Lạm phát bị nén.
+Inflation accounting	Hạch toán lạm phát.
+Inflationary gap	chênh lệch lạm phát.
+Infinitely elastic	Co giãn hoàn toàn.
+Inflationary spiral	Vòng xoáy ốc của lạm phát.
+Inflation subsidy	Trợ cấp lạm phát.
+Inflation tax	Thuế lạm phát.
+Informal sector	Khu vực không chính thức.
+Information	Thông tin
+Information matrix	Ma trận Thông tin.
+Inflation rate	Tỷ lệ lạm phát.
+Inflation-adjusted budget	lạm phát.
+Informative economy analysis	Phân tích thông tin kinh tế.
+Infra-marginal externality	Ngoại ứng biên.
+Infrastructure	Hạ tầng cơ sở.
+Inheritance tax	Thuế thừa kế.
+Initial claims series	Nhóm người yêu cầu đầu tiên.
+Injections	Sự bơm tiền.
+In-kind redistribution	Phân phối lại bằng hiện vật.
+Inland bill	Hối phiếu nội địa.
+Innovations	Phát kiến; sáng kiến
+Input	Đầu vào.
+Input orientation	Định hướng theo đầu vào.
+Innocent entry barrier	việc nhập ngành.
+Input - output	đối liên ngành.
+Inside lag	Độ trễ bên trong.
+Inside money	Tiền bên trong.
+Insider - outsider	cuộc.
+Insider - outsider model	ngoài cuộc.
+Insolvency	Tình trạng không trả được nợ.
+Instalment credit	Tín dụng trả dần.
+Institutional economics	Kinh tế học thể chế.
+Institutional training	Đào tạo thể chế.
+Instrumental variables	Các biến công cụ (IV).
+Instruments	Các công cụ.
+Insurance	Bảo hiểm
+Insurance premium	Tiền đóng bảo hiểm.
+Intangible assets	Tài sản vô hình.
+Intangible capital	Vốn vô hình.
+Integer	Số nguyên
+Integerated economy	Nền kinh tế liên kết.
+Integerated time series	Chuỗi thời gian được lấy tích phân.
+Integration	Tích phân hoá.
+Intended inventory investment	Đầu tư vào hàng tồn kho có chủ ý
+Intensive margin	Giới hạn thâm canh.
+Inter-Bank Market	Thị trường Liên ngân hàng.
+Intercept	Hệ số chặn.
+Interdependent utility	Độ thoả dụng phụ thuộc lẫn nhau.
+Fund)	liên vùng.
+Interest	Tiền lãi, lãi suất.
+Interest equalization tax	Thuếu san bằng lãi suất.
+Interest sensitivity	Độ nhạy theo lãi suất.
+Intergenerational equity	Công bằng giữa các thế hệ.
+Intergovernmental grants	Các trợ cấp liên chính quyền.
+Interlocking directorates	giám đốc kết hợp.
+Intermediate areas	Các vùng trung gian.
+Intermediate goods	Hàng hoá trung gian.
+Intermediate lag	Độ trễ trung gian.
+Intermediate technology	Công nghệ trung gian.
+Development Group	gian.
+Intermediate variables	Biến trung gian
+currencies	của tiền yếu.
+Internal drain	Sự xả tiền trong nước.
+Internal growth	Tăng trưởng nhờ nội ứng.
+Internalization	Nội hoá.
+"internal" labuor market	Thị trường lao động nội vi.
+Internal finance	Tài chính bên trong.
+Internal rate of return	Nội suất sinh lợi
+Internal wage differentials	tại.
+Internal balance	Cân bằng bên trong
+External balance	Cân bằng bên ngoài.
+Reconstruction and Development	Quốc tế.
+International cartel	Cartel quốc tế.
+International clearing unions	Các liên minh thanh toán quốc tế.
+agreements	Các hiệp định hàng hoá quốc tế.
+Association	Hiệp hội phát triển quốc tế
+operation Agency (ID)	tế .
+International division of labour	Sự phân chia lao động quốc tế.
+International economics	Kinh tế học quốc tế
+International Finance Corporation	Công ty Tài chính Quốc tế.
+International debt crisis	Khủng hoảng nợ quốc tế.
+International Labuor Office	Văn phòng Lao động quốc tế.
+International liquidity	Thanh khoản quốc tế.
+International monetarism	Chủ nghĩa trọng tiền quốc tế.
+International monetary Fund	(IMF) - Quỹ tiền tệ quốc tế.
+International payments system	Hệ thống thanh toán quốc tế.
+Classification	Quốc tế.
+International trade	Thương mại quốc tế.
+International Trade Organization	tế .
+International Wheat Council	Hội đồng lúa mỳ Quốc tế.
+Interquartile range	vị.
+Interstate Commerce Act	bang.
+Intersection	Giao
+Interval estimation	Ước lượng khoảng.
+"In the bank"	"tại Ngân hàng".
+Inventories	Hang tồn kho, dữ trữ.
+Inventory cycle	Chu kỳ hàng tồn kho.
+Inventory investment	Đầu tư tồn kho
+Inverse function rule	Quy tắc hàm ngược.
+Investment	Đầu tư.
+Investment criteria	Các tiêu chuẩn đầu tư.
+Investment grants	Trợ cấp đầu tư.
+Investment trust	Tờ-rớt đầu tư.
+Investors in Industry	nghiệp.
+Invisible hand, the	Bàn tay vô hình.
+Invisibles	Khoản vô hình
+Involuntary unemployment	Thất nghiệp không tự nguyện.
+Iron law of wages	Quy luật sắt về tiền công.
+Irredeemable loan stock	Lượng cho vay không trả được.
+Irredeemable preference shares	được.
+Irreversibility	đảo ngược được.
+IS curve	Đường IS
+ISIC	theo tiêu chuẩn Quốc tế.
+Islamic Development Bank	Ngân hàng phát triển Hồi giáo.
+IS- LM diagram	Lược đồ IS - LM.
+Iso-cost curve	Đường đẳng phí.
+Iso-outlay line	Đường đẳng chi.
+Iso-product curve	Đường đẳng sản phẩm.
+Iso-profit curve	Các đường đẳng nhuận.
+Isoquant	Đẳng lượng.
+Iso-revenue line (curve)	Đường đẳng thu.
+Issued capital	Vốn phát hành.
+Issue department	Cục phát hành.
+Issuing broker	Người môi giới phát hành.
+Issuing house	Nhà phát hành.
+Issuing House Association	Hiệp hội các Nhà phát hành.
+ITO	Tổ chức thương mại Quốc tế.
+Inverse relation	Tương quan nghịch biến.
+Invention and innovation	Phát minh và phát kiến.
+Intra-industrial trade	Thương mại trong ngành.
+Invention and official financing	Can thiệp và tài trợ chính thức.
+Investment demand schedule	Biểu đồ nhu cầu đầu tư.
+IOU money	Tiền dựa theo nợ.
+IS and LM schedule	Biểu đồ IS và LM.
+J curve	Đường chữ J
+"jelly" capital	Vốn "mềm dẻo".
+Jevon, W.Stanley	(1835-1882)
+Jobber	Người buôn bán chứng khoán.
+Job cluster	Nhóm nghề.
+Job competition theory	Thuyết về cạnh tranh việc làm.
+Job creation	Tạo việc làm.
+Job acceptance schedule	việc.
+Job dublication	Việc làm kép.
+Job evaluation	Đánh giá việc làm.
+Job search	Tìm kiếm việc làm.
+Job search channels	Các kênh tìm việc.
+Job shopping	Chọn việc làm.
+Johnson, Harry Gordon	(1923-77)
+Joint probability distributions	Các phân phối xác suất kết hợp.
+Joint products	Các sản phẩm liên kết.
+Joint profit maximination	Tối đa hoá lợi nhuận chung.
+Joint stock company	Công ty cổ phần.
+Joint venture	Liên doanh.
+Countries	Liên doanh ở các nước Đông Âu.
+J - test	Kiểm định J.
+Juglar cycle	Chu kỳ Juglar.
+Justice as fairness	Chân lý như là công bằng.
+Just price	Giá công bằng.
+Junk bonds	Trái phiếu lãi suất cao.
+Kahn, Richard F.	(1905-1989)
+Kaldor, Nicholas	(1908-1986)
+Kaldor - Hicks test	Kiểm định Kaldor - Hicks.
+Kalecki, Micheal	(1899-1970)
+Kalman filtering	Phép lọc Kalman.
+Kantorovich, Leonid	(1912-1986)
+Kenedy Round	Vòng đàm phán Kenedy.
+Key bargain	Thương lượng chủ chốt.
+Keynes, John Maynard	(1883-1946)
+Keynes effect	Hiệu ứng Keynes.
+Keynesian cross	Điểm cắt Keynes
+Keynesian economics	Kinh tế học trường phái Keynes
+Keynesian Growth Theory	phái Keynes.
+Keynes Plan	Kế hoạch Keynes.
+Key rates	Các mức lương then chốt.
+Kinked demand curve	Đường cầu gấp khúc.
+Klein Goldberger model	Mô hình Klein Goldberger.
+Klein, Lawrence R.	(1920-)
+Knife edge	Điểm tựa mỏng manh.
+Knight, Frank	(1895-1973)
+Kondratieff, Nicolai D.	(1892-..?)
+Koopmans, Tjalling	(1910-1985)
+Koych transformation	Phép biến đổi Koyck
+Kuznets, Simon	(1901-1985)
+Labour	Lao động.
+progress	động.
+Labour economics	Kinh tế học lao động.
+Labour force	Lực lượng lao động.
+Labour force participation rate	Tỷ lệ tham gia Lực lượng lao động.
+Labour hoarding	Tích trữ lao động.
+Labour force schedule	Biểu đồ về lực lượng lao động
+Labour intensive	dụng nhiều lao động.
+Labour market	Thị trường lao động.
+Labour power	Sức lao động.
+Labour - saving techniques	Các kỹ thuật tiết kiệm lao động.
+Labour's share	Tỷ trọng của lao động.
+Labour standard	Tiêu chuẩn lao động.
+Labour supply	Cung lao động.
+Labour surplus economy	Nền kinh tế thừa lao động.
+Labour theory of value	Lý thuyết lao động về giá trị.
+Labour turnover	Mức độ thay lao động.
+Laffer curve	Đường Laffer.
+Lagged relationship	Quan hệ trễ.
+Lagrangean technique	Phương pháp nhân tử Lagrange.
+Laissez - faire	hành.
+Laissez - faire economy	phủ ít can thiệp).
+Land	Đất đai.
+Land intensive	Sử dụng nhiều đất.
+Land reform and tenure	Bảo hộ và cải cách ruộng đất.
+Land tax	Thuế đất.
+Lange, Oscar	(1904-1965)
+Laspeyres price index	Chỉ số giá Laspeyres.
+Latin American Economic System	Hệ thống kinh tế Mỹ Latinh.
+Association (LAFTA)	latinh.
+Lausanne School	Trường phái Lausanne.
+Law of demand	Quy luật của cầu.
+Law of diminishing returns	Quy luật lợi tức giảm dần.
+Law of diminishing marginal utility	giảm dần.
+Law of variable proprerties	Quy luật về các đặc tính biến đổi.
+Law of one price	Quy luật một giá.
+Layfield Report	Báo cáo Layfield.
+Layoffs	Sa thải tạm thời
+Leading links principle	Nguyên tắc đầu mối hàng đầu.
+Leading sector	Ngành dẫn đầu.
+Leakages	Những khoản rò rỉ.
+Leap - frogging	Sự nhảy cóc.
+Learning	Học hỏi
+Lease	Thuê
+Least cost method of production	thành thấp nhất.
+Least squares	nhất.
+Le Chatelier principle	Nguyên tắc Le Chatelier.
+Lender of last resort	cùng.
+Leontief, Wassily W.	(1906-)
+Leontief inverse	Số nghịch đảo Leontief.
+Leontief paradox	Nghịch lý Leontief.
+Lerner, Abba P.	(19031983).
+Lerner case	Tình huống Lerner.
+Lerner index	Chỉ số Lerner
+Leger tender	(luật định).
+Less devoloped countries (LDCs)	Các nước chậm phát triển.
+Letter of credit	Thư tín dụng.
+Level of significance	Mức ý nghĩa.
+Level field	sân chơi?
+Leverage	vốn.
+Lewis, Sir W.Arthur	(1919-1991).
+Lewis - Fei - Ranis model	Mô hình Lewis - Fei - Ranis.
+Leveraged buy out (LBO)	Tăng vay bằng cách thay cổ phần
+Leveraged financing	Tài trợ đòn bẩy.
+Lexicographic preferences	Thị hiếu thiên lệch.
+Liabilities	Nợ.
+Liberalism	Chủ nghĩa tự do.
+LIBOR	Lãi suất liên ngân hàng London.
+Licensed deposit takers	tiền gửi.
+Life-cycle hypothesis	phẩm.
+Life-cycle oriented expectation	đời người.
+"Lifeboat"	"Thuyền cứu sinh".
+Likehood function	Hàm hợp lý
+Likehood ratio test (LD)	Kiểm định tỷ số hợp lý.
+Limited company	Công ty trách nhiệm hữu hạn.
+Limited dependent variables	Các biến số phụ thuộc hạn chế.
+Limited information (LI)	Thông tin hạn chế.
+Limited liability	Trách nhiẹm hữu hạn.
+Limit pricing	Định giá giới hạn.
+Lindahl model	Mô hình Lindahl.
+Linder thesis	Thuyết Linder.
+Linear combination	Tổ hợp tuyến tính.
+Linear dependence	Phụ thuộc tuyến tính
+Linear estimator	Ước lượng tuyến tính.
+Linear expenditure systems	Các hệ thống chi tiêu tuyến tính.
+Linear function	Hàm tuyến tính.
+Linear nomogenous	Đồng nhất tuyến tính.
+Linear probability model	Mô hình xác suất tuyến tính.
+Linear programming	Quy hoạch tuyến tính.
+Liquid asset	lỏng; tài sản dễ thanh tiêu .
+Liquid assets ratio	Tỷ lệ tài sản dễ hoán chuyển.
+Liquidation	Phát mại.
+Liquility	Khả năng chuyển hoán.
+Liquidity	Tính thanh toán, thanh tiêu.
+Liquidity preference	Sự ưa thích tài sản dễ thanh tiêu
+Liquidity ratio	Tỷ số về khả năng hoán chuyển
+Liquidity trap	Bẫy tiền mặt; Bẫy thanh khoản.
+Listed securities	Các chứng khoán yết giá.
+Little - Mirrlees method	Phương pháp Little - Mirrlees.
+LM curve	Đường LM.
+Loan	Khoản cho vay.
+Loanable funds	Các quỹ có thể cho vay.
+Loan capital	Vốn vay.
+Loan stock	Số vốn vay.
+Loan facility	Chương trình cho vay.
+Local authorities' market	phương.
+Local finance	Tài chính địa phương.
+Local labour market	Thị trường lao động địa phương.
+Local mutiplier	Số nhân địa phương
+Local public good	Hàng hoá công cộng địa phương.
+Locational integration	Liên kết theo vị trí.
+Locational interdependence	Sự phụ thuộc lẫn nhau về vị trí.
+Location quotient	Thương số vị trí.
+Location theory	Lý thuyết về vị trí.
+Locking - in effect	Hiệu ứng kẹt
+lockout	công nhân).
+Logarithm	Lôgarít
+Logistic function	Hàm Lôgistic
+Logit analysis	Phép phân tích lôgit
+Log-linear	Tuyến tính lôgarit
+Logolling	gian lận.
+Lombard Street	Phố Lombard.
+Lomé Convention	Công ước Lomé.
+Long-dated securities	Các chứng khoán dài hạn.
+Long-haul economies	Tính kinh tế theo quãng đường.
+Longitudinal data	Dữ liệu dọc.
+Long rate	Lãi suất dài hạn.
+Long run	Dài hạn.
+Long run average cost (LAC)	Chi phí trung bình dài hạn.
+Long run comsumption function	Hàm tiêu dùng dài hạn.
+Long run marginal cost	Chi phí cận biên dài hạn.
+Long term capital	Vốn dài hạn.
+Lorenz curve	Đường Lorenz
+Losch model	Mô hình Losch
+Loss aversion	Sự không thích mất mát.
+Loss function	Hàm thua lỗ.
+Loss leader pricing	Bán hạ giá trước.
+Long run competitive	Cân bằng cạnh tranh dài hạn.
+Lon run total cost curve	Đường tổng chi phí dài hạn.
+Long run Phillips curve	Đường Phillips dài hạn.
+Short run Phillíp curve	Đường Phillips ngắn hạn.
+Lump - sum tax	Thuế gộp / khoán.
+Loss offsetting provisions	Các điều khoản bù lỗ.
+Low - level equilibrium trap	Bẫy cân bằng mức thấp.
+Low wage trade	Thương mại lương thấp.
+Lucas critique	Luận điểm phê phán của Lucas
+LUS	chệch.
+Luxury	thượng lưu).
+Luxury taxes	Thuế hàng xa xỉ.
+M1 and M0	Mức cung tiền M1 và M0.
+Macmillan Committee	Uỷ ban Macmillan.
+"Macmillan" gap	Lỗ hổng Macmillan.
+Mc Guire Act	Đạo luật Mc Guire.
+Macroeconomics	Kinh tế học vĩ mô.
+Majority rule	Quy tắc đa số.
+Malleable capital	Vốn uyển chuyển
+Malthus, Rev. Thomas Robert	(1766-1834).
+Malthus's law of population	Quy luật dân số của Malthus.
+Management	Ban quản lý.
+Management buyout	Thu mua bằng nghiệp vụ quản lý.
+Management board	Ban quản lý / Hội đồng quản trị.
+Managed or dirty floating	thuần khiết.
+Management science	Khoa học quản lý.
+Manager controlled firm	Hãng do nhà quản lý kiểm soát.
+Managerial capitalism	Chủ nghĩa tư bản thiên về quản lý.
+Managerial discretion	Sự tuỳ tiện trong quản lý.
+Managerial revolution	Cuộc cách mạng quản lý.
+Managerial slack	Sự lỏng lẻo trong quản lý.
+Managerial theories of the firm	quản lý.
+Managerial utility function	Hàm thoả dụng trong quản lý.
+Marginal cost	Chi phí cận biên.
+Marginal cost of labor	Chi phí cận biên cho lao động.
+Marginal cost pricing	Định giá theo chi phí cận biên.
+Marginal firm	Xuất biên?
+Marginal income tax rate	thu nhập.
+Marginal principle	Nguyên lý cận biên.
+Marginal product of labors	Sản phẩm cận biên của lao động.
+(MPC)	Thiên hướng tiêu dùng cận biên.
+Marginal propensity to import	Thiên hướng nhập khẩu cận biên.
+Marginal rate of transformation	Tỷ lệ chuyển đổi cận biên.
+Marginal revenue	Doanh thu cận biên.
+Marginal revenue product of labor	động.
+Managing director	Giám đốc điều hành.
+Manoilescu argument	Lập luận Manoilescu.
+Manpower policy	Chính sách về nhân lực.
+Manual workers	Lao động chân tay.
+Margin, at the	tại biên
+Marginal	Cận biên, gia lượng.
+Marginal analysis	Phân tích cận biên.
+Marginal cost of funds schedule	Biểu đồ chi phí cận biên của vốn.
+Marginal damage cost	Chi phí thiệt hại cận biên.
+Marginal disutility	Độ phi thoả dụng cận biên.
+Marginal efficiency of capital	Hiệu suất cận biên của vốn.
+schedule	Biểu đồ hiệu suất biên của vốn.
+Marginal efficiency of investment	Hiệu suất cận biên của đầu tư.
+schedule	đầu tư.
+quotient criterio	tư cận biên theo đầu người.
+Marginal physical product	Sản phẩm vật chất cận biên.
+Marginal product	Sản phẩm cận biên.
+Marginal productivity doctrine	Học thuyết về năng suất cận biên.
+Marginal propensity to tax	Thiên hướng đánh thuế cận biên.
+Marginal propensity to withdraw	Thiên hướng rút tiền cận biên.
+Marginal rate of tax	Thuế suất cận biên.
+substitution	thế suất kỹ thuật cận biên.
+Marginal revenue product	Sản phẩm doanh thu cận biên.
+Marginal user cost	Chi phí sử dụng cận biên.
+Marginal utility	Độ thoả dụng cận biên.
+Marginal utility of income	nhập.
+Marginal utility of money	Độ thoả dụng cận biên của tiền.
+Marginal value product of capital	Sản phẩm giá trị biên của vốn.
+Marginal value product of labor	động.
+Margin requirement	Yêu cầu về mức chênh lệch.
+Market	Thị trường.
+Market classification	Phân loại thị trường.
+Market clearing	Điểm thị trường bán sạch.
+Market demand curve	Đường cầu của thị trường.
+Market demand curve for labour	lao động.
+Market economy	Nền kinh tế thị trường
+Market failure	Sự trục trặc của thị trường.
+Market forces	Các tác nhân thị trường.
+Market imperfection	Sự không hoàn hảo của thị trường.
+Market mechanism	Cơ chế thị trường.
+Marketing	Marketing
+Marketing boards.	Các ban Marketing.
+Market maker	Hãng lập thị.
+Market orientation	Định hướng theo thị trường.
+Market oriented reform	trường.
+Market power	đối với thị trường.
+Market premium rate	Tỷ lệ chênh lệch giá.
+Black market premium rate	trường chợ đen.
+Market share	Thị phần
+Market socialism	trường.
+Markov process	Quá trình Markov.
+Markowitz, Harry	(1927-)
+Parallel market premium rate	trường song hành.
+Market structure	Cơ cấu thị trường.
+Mark-up	thêm vào chi phí khả biến.
+Marshall, Alfred	(1842-1924)
+Marshall Aid	Viện trợ Marshall.
+Marshallian demand curve	Đường cầu Marshall
+Marshall - Lerner condition	Điều kiện Marshall - Lerner.
+Marshall plan	Kế hoạch Marshall
+Marx, Karl	(1818-1883)
+C.mácist economics	Kinh tế học Mac xít.
+Materials balance principle	Nguyên lý cân bằng vật chất.
+Material forces of production	Lực lượng sản xuất vật chất.
+Mathematical expectation	Kỳ vọng toán học.
+Matrix	Ma trận.
+Maturity	Đến hạn, hết hạn.
+Maximax	Tối đa hoá cực đại.
+Maximin	Tối đa hoá cực tiểu.
+Maximum	Giá trị cực đại.
+Maximum likelihood	Hợp lý cực đại.
+Meade, James Edward	(1907- )
+Mean	Trung bình
+Means tested benefits	Trợ cấp theo mức trung bình.
+Mean-variance analysis	Phân tích trung bình - phương sai.
+Measurement error	Sai số đo lường.
+Median	Trung vị.
+Median location principle	Nguyên lý định vị trung bình.
+Median Vote Theorem	Định lý cử tri trung dung.
+Mediation	Hoà giải.
+Medium of exchange	Phương tiện trao đổi.
+Median Voter	Cử tri trung dung.
+(MTFS)	Chiến lược tài chính trung hạn.
+Menger, Carl	(1840-1921)
+Mercantilism	Chủ nghĩa trọng thương.
+Merchant bank	Ngân hàng nhà buôn
+Merger	Sát nhập.
+Menu cost of inflation	Chi phí thực đơn của lạm phát.
+Merit goods	Hàng khuyến dụng; Hàng có lợi.
+Merit bad	Hàng không khuyến dụng.
+Methodology	Phương pháp luận.
+Metzler case	Tình huống Metzler.
+M-form enterprise	Doanh nghiệp dạng M
+Microeconomics	Kinh tế học vi mô.
+Microfoundations	Các cơ sở vi mô.
+Miller - Tydings Act of 1937	1937.
+Minimax regret	tiếc tối đa.
+Minimum	Giá trị tối thiểu.
+Minimum efficient scale	Quy mô hiệu quả tối thiểu.
+Minimum employment target	Mục tiêu tối thiểu về việc làm.
+Minimum lending rate (MLR)	Lãi suất cho vay tối thiểu.
+Minimum wage	Tiền lương tối thiểu.
+Minimum wage legislation	Luật về mức lương tối thiểu.
+Minority control	Quyền kiểm soát tối thiểu.
+Mint	Nhà máy đúc tiền.
+Mis-specification	Thông số sai lệch.
+Mixed estimation	Phương pháp ước tính hỗn hợp.
+Mixed good	Hàng hoá hỗn hợp.
+Mixed market economy	Nền kinh tế thị trường hỗn hợp.
+Mode	Mốt.
+Model	Mô hình
+Modern quantity theory of money	Thuyết định lượng tiền tệ hiện đại.
+Modern sector	Khu vực hiện đại.
+Mode of production	Phương thức sản xuất.
+Modigliani, Franco	(1918-)
+capital	Modigliani-Miller.
+Modulus	Giá trị tuyệt đối.
+Moments	Mô men
+Monetarism	Chủ nghĩa trọng tiền.
+Money multiplier	Số nhân tiền tệ.
+Mixed economy	Nền kinh tế hỗn hợp.
+Mix of fiscal and money policy	khoá và tiền tệ.
+Money price	Giá của tiền.
+Money stock	Dung lượng tiền.
+Mobility of labor	Tính luân chuyển của lao động.
+Monetarists	tiền.
+Monetary accommodation	Sự điều tiết tiền tệ.
+Monetary aggregate	Cung tiền (M1,M2,M3).
+Monetary base	Cơ số tiền tệ.
+Monetary overhang	Sự sử dụng quá nhiều tiền mặt.
+Monetary standard	Bản vị tiền tệ.
+Monetary Union	Liên minh tiền tệ.
+Money supply	Cung tiền.
+Money terms	(Biểu thị giá trị) bằng tiền.
+Monoculture	Độc canh
+in1965.	nhập năm 1965.
+Commission	Uỷ ban về độc quyền và Sát nhập.
+Practices (Inquiry and	soát) 1948.
+Monopolistic Competition	Cạnh tranh độc quyền.
+Monopoly	Độc quyền.
+Monopoly power	Quyền lực độc quyền.
+Monetized economy	Nền kinh tế tiền tệ hoá.
+Money illusion	Ảo tưởng về tiền.
+Money market equilibrium	tệ .
+Monopoly profit	Lợi nhuận độc quyền.
+Monopsony	Độc quyền mua.
+Monte Carlo method	Phương pháp Monte Carlo.
+Moonlighting	Sự làm thêm
+Moral hazard	Mối nguy đạo đức; Sự lạm tín.
+Mortgage	Thế chấp.
+Most favoured nation clause	Điều khoản tối huệ quốc.
+Moving average	Trung bình động.
+Multicollitnearity	Tính đa cộng tuyến.
+Multilateral aid	Viện trợ đa phương
+Agency (MIGA)	phương.
+Multilateral trade	Thương mại đa phương
+Multinational corporation	Công ty đa quốc gia.
+Multiplant economies	nhà máy.
+Multiplant operations	Sự vận hành đa nhà máy.
+Multiple correlation coefficient	Hệ số đa tương quan.
+Multiple regression	Hồi quy bội số.
+Multiplier	Số nhân.
+Multiplier - accelerator interaction	gia tốc.
+Multiplier - accelerator model	số nhân.
+Multiproduct firm	Hãng sản xuất đa sản phẩm
+Multiplier coefficient	Hệ số khuyếch đại.
+Multisector growth model	Mô hình tăng trưởng đa ngành.
+Multivariate analysis	Phân tích đa biến số.
+Mundell - Fleming model	Mô hình Mundell - Fleming.
+Mutually exclusive projects	Các dự án loại từ lẫn nhau.
+Mutually exclusive	Loại từ lẫn nhau.
+Naive accelerator	Gia tốc dạng đơn giản.
+Nash solution	Giải pháp Nash.
+National accounts	Hệ thống tài khoản quốc gia.
+National bargaining	Thương lượng mang tính quốc gia.
+Research	gia.
+National debt	Nợ quốc gia.
+Council (NEDC)	gia.
+National Enterprise Board (NEB)	Ban doanh nghiệp quốc gia.
+National income	Thu nhập quốc dân.
+National income accounting	Hạch toán Thu nhập quốc dân.
+National Girobank	Ngân hàng Giro quốc gia.
+Social Research	Kinh tế và Xã hội.
+Myrdal, Gunnar K.	(1898-1987)
+National Insurance Contributions	quốc gia.
+National Insurance Fund	Quỹ bảo hiểm quốc gia.
+National Labor Relation Act	gia.
+Nationalized industry	Ngành bị quốc hữu hoá.
+National product	Sản phẩm quốc dân.
+Corporation	quốc gia.
+National Saving Bank	Ngân hàng tiết kiệm quốc gia.
+Natural law	Quy luật tự nhiên.
+Natural logarithm	Lôgarit tự nhiên.
+Natural price	Giá tự nhiên.
+Natural rate of growth	Tỉ lệ tăng trưởng tự nhiên.
+Natural rate of unemployment	Tỷ lệ thất nghiệp tự nhiên.
+Natural resources	Tài nguyên thiên nhiên.
+Natural selection hypothesis	nhiên.
+Near money	Tiền cận; Chuẩn tệ.
+Necessity	Hàng thiết yếu.
+NEDC	Uỷ ban phát triển kinh tế quốc gia.
+NEDO	gia.
+Need	Nhu cầu.
+Negative income tax	Thuế thu nhập âm.
+Neighborhood effects	Những hiệu ứng đến xung quanh.
+Neo-classical economics	Kinh tế học tân cổ điển.
+Neo-classical growth theory	điển.
+Neo-classical synthesis	Hợp đề tân cổ điển.
+Neo-imperialism	Chủ nghĩa đế quốc kiểu mới.
+Neo-orthodoxy	Trường phái tân chính thống.
+Nested hypotheses	Các giả thuyết lồng nhau
+Nationalized indentities	dân.
+Natural monopoly	Độc quyền tự nhiên.
+Net barter terms of trade	Tỷ giá trao đổi ròng.
+Net book value	Giá trị ròng theo sổ sách.
+Net economic welfare	Phúc lợi kinh tế ròng.
+Net export	Xuất khẩu ròng.
+Net present value	Giá trị hiện tại ròng.
+Net investment	vốn ròng) .
+Net material product (NMP)	Sản phẩm vật chất ròng.
+Net national income	Thu nhập quốc dân ròng
+Net national product	Sản phẩm quốc dân ròng.
+Net profit	Lợi nhuận ròng.
+Net property income from abroad	ngoài.
+Neutrality of money	Tính chất trung lập của tiền.
+Neutralizing monetary flows	Trung hoà các luồng tiền tệ.
+"New classical macroeconomics"	"Kinh tế học vĩ mô cổ điển mới"
+New Economic Policy (NEP)	Chính sách kinh tế.
+New industrial state	Tình trạng công nghiệp mới.
+New inflation	Lạm phát kiểu mới
+New issues market	phát hành.
+New microeconomics	Kinh tế học vi mô mới.
+New-new microeconomics	Kinh tế học vi mô mới-mới.
+New-orthodoxy	Trường phái chính thống mới.
+New quantity theory of money	tệ .
+New international economic order	Trật tự kinh tế quốc tế mới.
+New protectionism	Chủ nghĩa bảo hộ mới.
+(NICs)	Các nước mới công nghiệp hoá.
+New view of investment	Quan niệm mới về đầu tư.
+"New view" on money supply	"Quan điểm mới" về cung tiền.
+New York Stock Exchange	York
+Nominal	Danh nghĩa.
+Nominal balances	Số dư tiền mặt danh nghĩa
+Nominal value	Giá trị danh nghĩa.
+Nominal yield	Lợi tức danh nghĩa.
+unemployment	lạm phát.
+Nominal and real interest rates	thực tế.
+Nominal and exchange rate	tế .
+Nominal variables	Các biến số danh nghĩa.
+Non-market	Phi thị trường.
+Non-competing groups	Các nhóm không cạnh tranh.
+Non-excludability	không thể ngăn cản.
+Non-labor income	Thu nhập phi lao động.
+Non-linear	Phi tuyến.
+Non-linear function	Hàm phi tuyến.
+Non-manual workers	trí óc.
+Non-nested hypotheses	Các giả thiết không bị lồng nhau.
+Non-pecuniary goals	Những mục tiêu phi tiền tệ.
+Non-price competition	Cạnh tranh phi giá cả.
+Non-profit institutions	Các tổ chức phi lợi nhuận
+Non-renewable resource	Tài nguyên không tái tạo được.
+Non-rival consumption	tiêu dùng không bị cạnh tranh.
+Non-tariff barriers	Các hàng rào phi thuế quan.
+Non-uniqueness	Tính phi độc nhất.
+Non-wage attributes	Các thuộc tính phi tiền lương.
+Non-wage labour costs	lương.
+Norm	Định mức tăng lương.
+Normal cost pricing	thường.
+Normal distribution	Phân phối chuẩn.
+Normal equations	Các phương trình chuẩn.
+Normal good	Hàng hoá thông thường.
+Normal profits	thường.
+Normal unemployment	Tỷ lệ thất nghiệp thông thường.
+Normal variable	Biến thông thường.
+Normative costs of production	Các chi phí sản suất chuẩn tắc.
+Normative economics	Kinh tế học chuẩn tắc.
+Norm following behaviour	Hành vi theo định mức lương.
+Notional demand	biện.
+Null hypothesis	Giả thiết Không.
+Numbers equivalent index	Chỉ số đương lượng.
+Numeraire	Đơn vị tính toán.
+OAPEC	dầu
+Objective function	Hàm mục tiêu.
+Occupational licensing	Cấp bằng hành nghề.
+Occupational wages differentials	theo nghề nghiệp.
+Occupational wages structure	Cơ cấu lương theo nghề nghiệp.
+OECD	tế .
+OEEC	Tổ chức hợp tác kinh tế Châu Âu.
+Offer curve	Đường chào hàng.
+Offer for sale	Chào bán.
+Office of Fair Trading	Văn phòng thương mại công bằng.
+(OMB)	Văn phòng quản lý và ngân sách.
+Offshore investment centres	Các trung tâm đầu tư hải ngoại.
+Ohlin, Bertil	(1899-1979)
+Okun's 'law'	"luật" Okun.
+Oligopolistic	Hành vi độc quyền nhóm bán
+Oligopoly	(Thị trường) độc quyền nhóm bán
+Oligopsony	(Thị trường) độc quyền nhóm mua.
+One sector growth model	Mô hình tăng trưởng một khu vực.
+One tail tests	Kiểm định một đuôi.
+On-the-job training	Đào tạo tại chỗ.
+OPEC	mỏ.
+Open access resource	Tài nguyên được tự do tiếp cận.
+Open economy	Nền kinh tế mở.
+Opening prices	Giá mở cửa.
+Open market operations	trường tự do.
+Open unemployment	Thất nghiệp mở.
+Operating gearing	Tỷ phần chi phí nghiệp vụ cố định.
+Operating income	Thu nhập kinh doanh.
+Operating profit	Lợi nhuận kinh doanh.
+Opportunity cost	Chi phí cơ hội.
+international trade	hội trong thương mại quốc tế.
+Opportunity wage	Mức lương cơ hội.
+Optimal	Tối ưu
+Optimal capacity	Công suất tối ưu.
+Optimal distribution	Sự phân phối tối ưu.
+Optimal level of pollution	Mức ô nhiễm Tối ưu.
+Optimum	Trạng thái tối ưu.
+Optimum of optimorum	Trạng thái tối ưu trong tối ưu.
+Optimum plant size	Quy mô nhà máy ở mức tối ưu.
+Optimum tariff	Thuế quan tối ưu.
+Option	Hợp đồng mua bán trước.
+Option value	Giá trị của quyền lựa chọn.
+Ordering	Xếp thứ tự.
+Ordinalism	Chủ nghĩa thứ tự.
+Ordinal utility	Độ thoả dụng theo thứ tự.
+Ordinary least square (OLS)	nhất thông thường.
+Ordinary share	Cổ phiếu thường.
+Ordinate	Tung độ.
+Organic composition of capital	Thành phần hữu cơ của vốn.
+(OECD)	tế .
+Economic Co-operation (OEEC)	Tổ chức hợp tác kinh tế châu Âu.
+Exporting Countries	rập xuất khẩu dầu mỏ.
+Exporting Countries	khẩu dầu mỏ.
+Outlier	Giá trị ngoại lai.
+Outcome	Kết cục, kết quả.
+Basic Outcome	Kết cục, kết quả cơ sở.
+Output	Sản lượng (hay đầu ra).
+Output budgeting	(hay đầu ra).
+Outside lag	Độ trễ bên ngoài.
+Outside money	Tiền bên ngoài.
+Outstanding credit	Tín dụng chưa thanh toán.
+Overdraff	Chi dôi; Thấu chi.
+Overfunding	Vay quá mức.
+Overhead costs	Chi phí duy tu
+Overidentification	Sự đồng nhất hoá quá mức.
+Overnight money	Tiền qua đêm.
+Overhead inputs	Nhập lượng gián tiếp.
+Overall fit of regression	phương trình hồi quy.
+Overpopulation	Dân số quá đông.
+Overshooting	Tăng quá cao (tỷ giá hối đoái).
+Over the counter market	Thị trường không nơi giao dịch.
+Overtime	Làm việc thêm ngoài giờ.
+Overvalued currency	Tiền được định giá quá cao.
+Owner-controlled firms	kiểm soát.
+Passche price index	Chỉ số giá Passche.
+Paid-up capital	Vốn đã được huy động
+Panel data	Dữ liệu Panel
+Paper money	Tiền giấy.
+Paper profit	Lợi nhuận trên giấy.
+Parabola	Dạng Parabôn.
+Paradox of thrift	Nghịch lý của tiết kiệm.
+Paradigm	Hệ thuyết; Luận thuyết.
+Par value of gold	Giá trị ngang giá của vàng.
+Paradox of voting	Nghịch lý về bỏ phiếu.
+Paradox of value	Nghịch lý về giá trị.
+Parameter	Thông số.
+Paretian Liberal, Impossibility of	Tính không thể của tự do Pareto.
+Pareto, Vilfredo	(1848 - 1923)
+Pareto conditions	Các điều kiện Pareto.
+Pareto criterion	Tiêu chuẩn Pareto.
+Pareto improvement	Sự cải thiện Pareto.
+Pareto non-comparability	Tính không thể so sánh Pareto.
+Pareto-optional redistribution	Pareto.
+Pareto optimum	Tối ưu Pareto.
+allocation	nguồn lực.
+Pareto-relevant externality	Ngoại ứng liên quan đến Pareto.
+Paris Club	Câu lạc bộ Paris.
+Parity price system	Hệ thống giá tương đương.
+Par rate of exchange	Tỷ giá hối đoái tương đương.
+Partial adjustment	Điều chỉnh từng phần.
+Partial derivative	Đạo hàm riêng phần.
+Partial equilibrium	Cân bằng bộ phận.
+Paricipating preference shares	Cổ phiếu ưu tiên tham gia.
+Paricipation rate	Tỷ lệ tham gia.
+Partly rational expectations	Những kỳ vọng hợp lý riêng phần.
+Par value	Giá trị danh nghĩa, mệnh giá.
+Patent rights	Quyền tác giả.
+Path independence	Độc lập về đường đi.
+Pattern bargaining	Thương lương theo mô hình.
+Partnership	Bên tham gia; Hội chung vốn; Công ty hợp danh
+Patents	Bằng sáng chế.
+Path of government spending	chính phủ.
+Patent of trade	Mô thức ngoại thương.
+Pauper labour	Lao động bần cùng.
+Payback period	Thời kỳ hoàn vốn.
+Pay ceiling	tiền lương.
+Pay freeze	Cố định tiền lương.
+Payment - by - results	Trả theo kết qủa.
+Payments, balance of	Cán cân thanh toán.
+Pay-off	Lợi ích ròng.
+Payout ratio	Tỷ lệ trả cổ tức.
+Pay in kind	Trả bằng hiện vật.
+Peak-load pricing	Định giá theo tiêu dùng cao điểm.
+Peak period labour demand	Cầu lao động ở kỳ giáp hạt.
+Pecuniary external economy	Tính kinh tế tiền tệ bên ngoài.
+Peg-neo	"cột vào"
+Pendulum arbitration	Trọng tài con lắc.
+Pension	Tiền lương hưu.
+Pension fund	Quỹ hưu.
+Per capita	Theo đầu người.
+Per capita real GDP	tính theo đầu người.
+Percetile	Phân vị.
+Perestroika	Đổi mới, cải tổ.
+Perfect competition	Cạnh tranh hoàn hảo.
+Perfect markets	Các thị trường hoàn hảo.
+Permanent comsumption	Mức tiêu dùng thường xuyên.
+Permanent income	Thu nhập thường xuyên.
+Permanent income hypothesis	Giả thuyết thu nhập thường xuyên.
+Perpetuity	Khoản chi trả vĩnh cửu.
+Personal income	Thu nhập cá nhân.
+Personal loan	Khoản vay cho cá nhân.
+Personal rate of substitution	Tỷ lệ thay thế cá nhân.
+Personal saving	Tiết kiệm cá nhân.
+Perverse migration	Di cư ngược.
+PESC	Uỷ ban điều tra chi tiêu công cộng.
+Petroleum revenue tax (PRI)	Thuế thu nhập dầu lửa.
+Phillips curve	Đường Philips
+Physiocrats	nông.
+Piece rates	Thu nhập tính theo sản phẩm.
+Piecework	Việc làm khoán.
+Pigou, Arthur Cecil	(1877-1959)
+Pigou effect	Hiệu ứng Pigou
+Pigovian tax	Thuế Pigou.
+Pivot effect hypothesis	Giả thuyết về hiệu ứng quay.
+Placing	Nghiệp vụ bày bán.
+Planned economy	Nền kinh tế kế hoạch hoá.
+system (PPBS)	chương trình kế hoạch hoá.
+Planometrics	Kế hoạch lượng.
+Plant bargaining	Sự thương lượng ở một nhà máy.
+Plato	(427-347BC)
+Plurality	Quy tắc đa số.
+Point elasticity of demand	Dự co giãn điểm của cầu.
+Point estimation	Ước lượng điểm.
+Point of inflexion	Điểm uốn.
+Point utility possibility curve	Đường khả năng thoả dụng điểm.
+Point voting	Bỏ phiếu theo điểm.
+Policy instruments	Các công cụ chính sách.
+Policy - off	Thời kỳ không áp dụng chính sách.
+Policy coordination	Điều phối chính sách.
+Policy targets	Các mục tiêu chính sách.
+Political economy	Kinh tế chính trị.
+Political business cycle	Chu kỳ kinh tế chính trị.
+Poll tax	Thuế thân.
+Pooled lending / loan	Cho vay liên hiệp.
+Polluter pays principle	phí.
+Pollution	Ô nhiễm.
+Pollution rights	Các quyền được gây ô nhiễm.
+Polynomial	Đa thức; Biểu thức đại số.
+Polynomial lag	đại số.
+Pooled data	Dữ liệu gộp.
+Population	Dân số
+Population explosion	Bùng nổ dân số.
+Population policy	Chính sách dân số.
+Population trap	Bẫy dân số.
+Porfolio	Danh mục đầu tư.
+Porfolio balance approach	đầu tư.
+rate	tỷ giá hối đoái.
+Porfolio diversification	Sự đa dạng hoá danh mục đầu tư.
+Positional good	Hàng hoá theo vị trí.
+Positive economics	Kinh tế học thực chứng.
+Positivism	Chủ nghĩa thực chứng.
+Post-Keynesian economics	học sau Keynes.
+Posterior distribution	Phân phối sau.
+Postwar credits	Các tín dụng hậu chiến.
+Potential entry	Sự nhập ngành tiềm năng.
+Potential national income	Thu nhập quốc dân tiềm năng.
+Potential output	Sản lượng tiềm năng.
+Potential Pareto improvement	Sự cải thiện Pareto tiềm năng.
+Poverty	Sự nghèo khổ.
+Poverty trap	Bẫy nghèo khổ.
+Power function	Hàm luỹ thừa.
+Prais - Winsten	Biến đổi Prais - Winsten.
+Prebisch thesis	Luận đề Prebisch
+Precautionary motive	Động cơ dự phòng.
+Precautionary unemployment	Thất nghiệp phòng ngừa.
+Predatory pricing	Định giá để bán phá giá.
+Prediction	Dự báo.
+Pre-emption rights	Các quyền ưu tiên mua cổ phiếu.
+Preference	Sở thích; Sự ưu tiên.
+Preference revelation	Sở thích.
+Preference shares	Cổ phiếu ưu tiên.
+Preferential hiring	Sự thuê người ưu tiên.
+Preferred ordinary shares	Cổ phiếu thường được ưu tiên.
+Premium	Tiền trả thêm hay phí bảo hiểm.
+Premium saving bonds	Trái phiếu tiết kiệm có thưởng.
+Present value	Giá trị hiện tại.
+Price	Giá
+Price Commission	Uỷ ban vật giá.
+Price consumption curve	Đường tiêu dùng theo giá.
+Price control	Kiểm soát giá.
+Price-cost margin	Mức chênh lệch giá-chi phí.
+Price discrimination	Phân biệt đối xử theo giá.
+Price/earning ratio	Tỷ lệ giá / Lợi tức (tỷ lệ P/E)
+Price effect	Hiệu ứng giá.
+Price elasticity of demand	Độ co giãn của cầu theo giá.
+Price fixing agreement	Thoả thuận cố định giá.
+Price index	Chỉ số giá.
+Price leadership	Sự dẫn giá.
+Price mechanism	Cơ chế giá.
+Price-push	Giá đẩy.
+Price revolution	Cách mạng giá.
+Price setter	Người đặt giá.
+Price specie mechanism	Cơ chế chảy vàng.
+Price support scheme	Kế hoạch trợ giá.
+Price taker	Người chấp nhận giá.
+Price theory	Lý thuyết giá.
+Price fixing	Sự cố định giá
+Price volatility	Biến động giá cả.
+Price support	Trợ giá.
+High risk premia	Phí thưởng rủi ro cao.
+Primary commodities	Hàng sơ chế.
+Primary goods	Các hàng hoá cơ bản.
+Primary market	Thị trường sơ cấp.
+Primary money	Tiền sơ cấp.
+Primary of targeting	Nguyên tắc hướng đích.
+Primary securities	Chứng khoán sơ cấp.
+Primary workers	Các công nhân sơ cấp.
+Principal	Tiền gốc.
+Principal-agent problem	đề người có vốn và người đại diện.
+Prior distribution	Phân phối trước.
+Prisoner's dilemma	tiến thoái lưỡng nan của người tù.
+Private company	Công ty tư nhân.
+Private good	Hàng hoá riêng tư.
+Privatization	Tư nhân hoá
+Privatization in Eastern Europe	Tư nhân hoá ở Đông Âu.
+unemployment	hội của thất nghiệp.
+Private sector cash-deposite ratio	của khu vực tư nhân.
+Probability	Xác suất
+Conditional Probability	Xác suất có điều kiện.
+Cumulative Probability	Xác suất tích luỹ.
+Probability density function	Hàm mật độ xác xuất.
+Probability distribution	Phân phối Xác suất.
+Probit model	suất đơn vị).
+Process	Quá trình
+Process innovation	xuất).
+Producer's co-operatives	Các hợp tác xã của nhà sản xuất.
+Producer's surplus	Thặng dư của nhà sản xuất.
+Product cycle	Chu kỳ sản phẩm.
+Product differentiation	Sự khác biệt hoá sản phẩm.
+Product innovation	Phát kiến về sản phẩm.
+Production	Sản xuất.
+Production frontier	Giới hạn sản xuất.
+Production externalities	Những ngoại tác sản xuất.
+Production function	Hàm sản xuất.
+Production incentives	Các khuyến khích sản xuất.
+Production Possibility frontier	xuất.
+Production Possibility curve	Đường khả năng sản xuất.
+sphere	sách.
+Production smoothing	làm cho sản xuất được trôi chảy.
+Productivity	Năng suất.
+Productivity bargaining	Thương lượng theo năng suất.
+Product proliferation	Đa dạng hoá sản phẩm.
+Product rule	Quy tắc tích số.
+Profits	Lợi nhuận.
+Profit, falling rate of	Tỷ lệ sút giảm lợi nhuận.
+Profit centre	trung tâm lợi nhuận.
+Profit constraint	Ràng buộc về lợi nhuận.
+Profit function	Hàm lợi nhuận
+Profit margin	Chênh lệch lợi nhuận
+Profit maximization	Tối đa hoá lợi nhuận.
+Profit motive	Động cơ lợi nhuận
+Profit rate	Tỷ lệ lợi nhuận.
+Profits-push inflation	Lạm phát do lợi-nhuận-đẩy.
+Programme budgeting	Lập ngân sách theo chương trình.
+Programming methods	Phương pháp quy hoạch.
+Progressive tax	Thuế luỹ tiến.
+Project appraisal	Thẩm định dự án.
+Property rights	Các quyền sở hữu tài sản.
+Proportional tax	Thuế tính theo tỷ lệ.
+Propulsive industries	Các ngành động lực.
+Prospect theory	Lý thuyết viễn cảnh.
+Protection	Bảo hộ.
+Proxy	Tính đại diện
+Proxy variable	Biến số đại diện.
+Pseudo-demand schedule	Biểu cầu-giả.
+Public choice	Sự lựa chọn công cộng.
+Public company	Công ty công cộng.
+Public Expediture	Chi tiêu công cộng.
+Public good	Hàng hoá công cộng.
+Public issue	Phát hành công cộng.
+Requirement (PSBR)	cộng.
+(PSDR)	cộng.
+Public utility	Ngành dịch vụ công cộng
+Public utility regulation	Điều tiết ngành dịch vụ công cộng.
+Public ownership	Sở hữu công cộng
+Purchasing power parity	Sức mua tương đương.
+Purchase tax	Thuế mua hàng.
+Purchasing power of money	Sức mua của đồng tiền.
+Pure competition	Cạnh tranh thuần tuý.
+Pure profit	Lợi nhuận thuần tuý.
+Pure inflation	Lạm phát thuần tuý.
+Put option	Hợp đồng bán trước.
+Putty-clay	- đất sét.
+Putty-putty	tít - mát tít.
+Pyramiding	hình thành hình chóp.
+Quadratic equation	Phương trình bậc hai
+Quadratic utility function	Hàm thoả dụng bậc hai.
+Qualitative choice models	Mô hình lựa chọn định tính.
+Quantity theory of money	Lý thuyết định lượng về tiền tệ.
+Quartile	Tứ phân vị.
+Quasi-option value	trước.
+Quasi-rent	Tiền thuê giả.
+Quesnay, Francois	(1694-1774).
+Quick assets ratio	Tỷ lệ tài sản dễ chuyển hoán.
+Quits	Số người bỏ việc.
+Quota	Hạn nghạch.
+Import / Export quota	khẩu.
+Quoted companies	Các công ty được niêm yết giá.
+Quotient rule	Quy tắc thương số.
+R2	Hệ số xác định.
+Radcliffe Committee	Uỷ ban Radcliffe.
+Radical economics	Kinh tế học cấp tiến.
+Raider firm	Hãng thu mua.
+Ramsey pricing	Định giá Ramsay.
+R and D	Nghiên cứu và triển khai.
+Random coefficient models	Các mô hình hệ số ngẫu nhiên.
+Random sample	Mẫu ngẫu nhiên.
+Random variable	Biến ngẫu nhiên.
+Random walk	Bước ngẫu nhiên.
+Range	Dải, khoảng.
+Range (of a good)	Phạm vi (của một hàng hoá).
+Rank correlation	Tương quan bậc.
+Ranking of projects	Xếp hạng các dự án.
+Rank of a matrix	Hạng của ma trận.
+rule	đua
+Ratchet effect	Hiệu ứng bánh cóc.
+Rate capping	Hạn chế tỷ lệ chi tiêu.
+Rate of commodity	Tỷ lệ thay thế hàng hoá.
+Rate of interest	Lãi xuất.
+Rate of return	Tỷ suất lợi tức.
+Rate of time preference	Tỷ lệ ưu tiên thời gian.
+Rate support grant	Trợ cấp nâng mức thuế.
+Rational expectations	Kỳ vọng duy lý.
+Rationality	Tính duy lý.
+Rational lags	Trễ hữu tỷ; Trễ hợp lý.
+Rationing	Chia khẩu phần.
+Rawlsian justice	Bằng đẳng Rawls
+R,D and D	diễn.
+Reaction functions	Các hàm phản ứng.
+Real balance effect	Hiệu ứng số dư tiền.
+trade	với thương mại quốc tế.
+Real money balances	Các số dư tiền thực tế.
+Real national output	Sản lượng quốc dân thực tế.
+Real wages	Tiền lương thực tế.
+Receiver	Người tiếp nhận (tài sản).
+Recession	Suy thoái.
+Reciprocal	Số nghịch đảo.
+Reciprocal demand	Cầu qua lại.
+of 1934 (RTA)	định Thương mại qua lại.
+Recognition lag	Trễ trong nhận thức.
+Recontract	Tái khế ước.
+Recursive model	Mô hình nội phản.
+Recursive residuals	Số dư nội phản.
+Redeemable loan stock	Cổ phần vay có thể hoàn trả.
+Redeemable securities	Chứng khoán có thể hoàn trả.
+Redemption yield	Tổng lợi tức đáo hạn.
+Redistribution	Tái phân phối.
+Reduced form (RF)	Dạng rút gọn.
+Redundancies	Nhân viên thừa.
+Redundancy payments	Trợ cấp thôi việc.
+Re-export	Hàng tái xuất.
+Regional development grant	Trợ cấp phát triển vùng.
+Regional economics	Kinh tế học khu vực.
+Regional emloyment premium	vực.
+Regional multiplier	Số nhân khu vực.
+Regional policy	Chính sách khu vực.
+Regional integration	Hội nhập khu vực.
+Regional wage differentials	các khu vực.
+Regional wage structure	Cơ cấu tiền lương theo khu vực.
+Registered unemployed	ký.
+Regressand	hồi quy).
+Regression	Hồi quy.
+Regressive expectations	Kỳ vọng hồi quy.
+Regressive tax	Thuế luỹ thoái.
+Regressor	Ước tính hồi quy.
+Regret matrix	Ma trận hối tiếc.
+Regulation Q	Quy chế Q.
+Regulation	Sự điều tiết.
+Regulatory capture	bị trói".
+Regulatory policy	Chính sách điều tiết.
+Reintermediation	Tái phí trung gian.
+Relative deprivation	Cảm giác bị tước đoạt.
+Relative income hypothesis	Giả thuyết về thu nhập tương đối.
+Relative price	Giá tương đối.
+Relativities	Chênh lệch lương trong một nghề.
+Renewable resource	Tài nguyên tái tạo được.
+Rent	Tô, lợi, tiền thuê.
+Rent gradient	Gradient tiền thuê.
+Rentiers	thuê vốn.
+Rent seeking	tiền thuê.
+Rent seeker	Người kiếm sự đặc lợi.
+Rental on capital	Tiền thuê vốn.
+Replacement cost	Chi phí thay thế.
+Replacement cost accounting	Hạch toán chi phí thay thế.
+Replacement investment	Đầu tư thay thế.
+Replacement ratio	Tỷ số thay thế.
+Representative firm	Hãng đại diện.
+Repressed inflation	Lạm phát bị kiềm chế.
+Required reserves	Dự trữ bắt buộc.
+Required rate of return on capital	Suất sinh lợi cần có của vốn.
+capital	vốn.
+Required reserve ratio	Tỷ lệ dự trữ bắt buộc.
+Resale price mainternance	Việc duy trì giá bán lẻ.
+Resale Prices Act 1964	Đạo luật năm 1964 về Giá bán lẻ.
+Reservation wage	vọng tối thiểu.
+Reserve assets ratio	Tỷ lệ tài sản dự trữ.
+Reserve base	Cơ số dự trữ.
+Reserve currency	Đồng tiền dự trữ.
+Reserve ratio	Tỷ lệ dự trữ.
+Residual	Số dư.
+Resiliency	Tính nhạy bén.
+Resource	Nguồn lực; Nguồn tài nguyên.
+Restricted least squares (RLS)	Bình phương nhỏ nhất hạn chế.
+Restrictive Practices Court	Toà án về các hoạt động hạn chế.
+1956	Thông lệ thương mại hạn chế.
+1968	Thông lệ thương mại hạn chế.
+Reswitching	Tái chuyển đổi.
+Retail	Bán lẻ.
+Retail banking	Nghiệp vụ ngân hàng bán lẻ.
+Retail price index (RPI)	Chỉ số giá bán lẻ.
+Retained earnings	Thu nhập được giữ lại.
+Retention ratio	Tỷ lệ giữ lại.
+Retentions	Các khoản giữ lại.
+Return on capital employed	Lợi tức từ vốn được sử dụng.
+Returns to scale	Lợi tức theo quy mô.
+Revaluation	Sự nâng giá trị; sự tăng giá.
+Revealed preference	Sở thích được bộc lộ.
+Revenue	Doanh thu.
+Revenue maximization	Tối đa hoá doanh thu.
+Reverse dumping	ngoài.
+Reverse yield gap	Chênh lệch nghịch đảo của lợi tức.
+Ricardian equivalence theorem	đương .
+Ricardo, David	(1772-1823).
+Right-to-work laws	Các luật về quyền được làm việc.
+Rights issue	Phát hành quyền mua cổ phiếu.
+Risk	Rủi ro.
+Risk aversion	Sự sợ rủi ro, không thích rủi ro.
+Risk capital	Vốn rủi ro.
+Risk attitude	Thái độ đối với rủi ro.
+Risk character	Thái độ đối với rủi ro.
+Risk premium	Tiền bù cho rủi ro, phí rủi ro
+Risk-spreading	Dàn trải rủi ro.
+Risk-diversification	Phân tán rủi ro.
+Risk-loving	Thích rủi ro.
+Risk Master	Phần mềm Risk Master
+Risk-neutrality	Bàng quan với rủi ro.
+Risk-pool	Chung độ rủi ro; Góp chung rủi ro.
+Risk-sharing	Chia xẻ rủi ro.
+Rival	(trong tiêu dùng).
+Robbins, Lionel	(1898-1984).
+Robinson, Joan V.	(1903-1983).
+Robinson-Patman Act	Đạo luật Robinson-Patman.
+Roosa effect	Hiệu ứng Roosa.
+Roots	Các nghiệm, căn số.
+Rostow model	Mô hình Rostow
+Roundaboutness	Phương pháp sản xuất gián tiếp.
+Royalty	Thuế tài nguyên.
+Royalties	quả làm việc cá nhân).
+RPI	Chỉ số giá bán lẻ.
+Rule-of-thumb	Quy tắc tự đặt.
+Rybczcynski theorem	Định lý Rybczcynski.
+regime	giá hối đoái.
+Run (a)	(một) cơn sốt rút tiền.
+Sackings	Con số sa thải.
+St. Louis model	Mô hình St. Louis.
+St Petersburg paradox	Nghịch lý St Petersburg.
+Salary	Lương
+Sales maximization hypothesis	thu.
+Sales tax	Thuế bán hàng.
+Salvage	Giá trị thanh lý.
+Sample	Mẫu.
+Sample space	Không gian mẫu.
+Samuelson, Paul	(1915-)
+Samuelson test	Kiểm định Samuelson.
+Satiation	Bão hoà.
+Satisficing behaviour	Hành vi thoả mãn.
+Savings	Tiết kiệm.
+Savings and loan associations	Các hiệp hội tiết kiệm và cho vay.
+Savings function	Hàm Tiết kiệm.
+the balance of payments	với cán cân thanh toán.
+Say, Jean-Baptiste	(1767-1832)
+Scarcity	Sự khan hiếm.
+Scarce currency	Đồng tiền hiếm.
+Scatter	Biểu đồ tán xạ.
+Scatter diagram	Đồ thị rải.
+Schooling functions	Các hàm giáo dục.
+Schultz, Theodore W.	(1902-)
+Schumpeter, Joseph A.	(1883-1950)
+Scientific tariff	Thuế khoa học.
+Scitovsky paradox	Nghịch lý Scitovsky.
+Scitovsky reversal criterion	Tiêu chí nghịch đảo Scitovsky.
+Screening hypothesis	Giả thiết sàng lọc.
+Scrip issue	hiện hành.
+SDR	Quyền rút tiền đặc biệt.
+Search costs	Chi phí tìm kiếm (việc làm).
+Search unemployment	Thất nghiệp do tìm kiếm việc làm.
+Seasonal adjustment	Điều chỉnh thời vụ.
+Seasonal unemployment	Thất nghiệp thời vụ.
+Secondary banks	Các ngân hàng thứ cấp.
+Secondary market	Thị trường thứ cấp.
+Secondary worker	Công nhân hạng hai.
+Second-best	(Tình trạng) tốt nhì.
+Second order condition	Điều kiện đạo hàm bậc hai.
+Secular supply curve	Đừơng cung lao động trường kỳ.
+Secular trend	Xu hướng lâu dài
+Secured	Những khoản vay có bảo lãnh.
+Securities	Chứng khoán.
+Commission (SEC)	Uỷ ban chứng khoán.
+(SIB)	Hội đồng chứng khoán và đầu tư.
+Securitization	Chứng khoán hoá.
+Seignorage	Thuế đúc tiền, phí đúc tiền.
+Self-liquidating	Tự thanh toán.
+Self-liquidating advances	toán.
+(SROs)	Các tổ chức tự điều tiết.
+Semi log	Phương pháp bán Lôgarit hoá.
+Senior, Nassau W.	(1790-1864)
+Seniority practices	Phương pháp thâm niên.
+Sensitivity analysis	Phân tích độ nhạy cảm.
+Separability of preferences	Tính phân chia của sự ưa thích.
+control	quyền kiểm soát.
+Serial correlation	Tương quan chuỗi.
+Service of debt	Trả lãi suất nợ.
+Services	Các dịch vụ.
+Severance pay	Bồi thường mất việc.
+Shadow economy	Nền kinh tế bóng.
+Shadow price	Giá bóng
+Shadow wage rate	Mức tiền công bóng.
+Share	Cổ phiếu.
+Share economy	Kinh tê phân phối.
+Share price	Giá cổ phiếu.
+Sharpe, William F.	(1934-)
+Sherman Act	Đạo luật Sherman.
+Shift effect hypothesis	chuyển.
+Shift share analysis	chuyển.
+Shirking model	tính lẩn tránh.
+Shock effect	Hiệu ứng sốc
+Shop steward	Đại biểu phân xưởng.
+Short-dated securities	Các chứng khoán ngắn hạn.
+Short run	Ngắn hạn.
+Short run average cost	Chi phí trung bình ngắn hạn.
+Short run average fixed cost (AFC)	Định phí bình quân ngắn hạn.
+Short run fixed cost (AFC)	Định phí ngắn hạn.
+Short run consumption function	Hàm tiêu dùng ngắn hạn.
+Short run marginal cost (SMC)	Chi phí biên ngắn hạn.
+Short run total cost (STC)	Tổng phí ngắn hạn.
+Short run variable costs (SVC)	Biến phí ngắn hạn.
+Short run adjustments	Những điều chỉnh giá ngắn hạn.
+Long run adjustments	Những điều chỉnh giá dài hạn.
+schedule	Biểu cung gộp ngắn hạn.
+Short-time working	Làm việc ít giờ.
+SIC	Phân loại nghành chuẩn.
+Side payments	Các khoản trả thêm.
+Sight deposits	Tiền gửi vô kỳ hạn.
+Simon, Herbert A.	(1916-)
+Simplex alglorithm	Thuật toán đơn hình.
+Simulation	Sự mô phỏng.
+Simultaneous equation bias	thời.
+Simultaneous equations	Các phương trình đồng thời.
+Single European Atc (SEA)	Đạo luật châu Âu.
+Shut down price	trường chứng khoán).
+Signaling and screening	Phát tín hiệu và sàng lọc.
+Significance of coefficients	Mức độ có thống kê của hệ số.
+Singular matrix	Ma trận đơn.
+Single market	Thị trường đơn nhất.
+Single-peaked preferences	muốn lựa chọn có chung.
+Sinking fund	Quỹ dự phòng hoàn trả.
+Sismondi, Jean	(1773-1842)
+Situation utility possibility frontier	dụng tình thế.
+Size distribution of firms	Phân phối theo quy mô về hãng.
+Skewed distribution	Phân phối lệch.
+Skill differentials	động.
+Slack plans	trì trệ.
+Slump	hoảng kinh tế.
+Slutsky, Eugen	(1880-1948).
+Slutsky equation	Phương trình Slutsky.
+Smith, Adam	(1723-1790)
+Snake	Con rắn.
+Snob effect	Hiệu ứng đua đòi.
+Social cost of monopoly	Phí tổn xã hội do độc quyền.
+Social benefit	Lợi ích xã hội.
+Social choice	Sự lựa chọn của xã hội.
+Social Contract	Thoả thuận xã hội.
+Social cost	Phí tổn xã hội; Chi phí xã hội.
+Social decision rule	Nguyên tắc quyết định xã hội.
+Social discount rate	Tỷ suất chiết khấu xã hội.
+Social economics	Kinh tế học xã hội.
+Social Fund	Quỹ xã hội.
+Socialism	Chủ nghĩa xã hội.
+Socially necessary labour	Lao động cần thiết cho xã hội.
+criterion	biên.
+Social opportunity cost of capital	Chi phí cơ hội xã hội của vốn.
+Social optimum	Tối ưu đối với xã hội.
+Social relations of production	Các quan hệ xã hội của sản xuất.
+Social returns to education	Lợi tức xã hội của giáo dục.
+Social time preference rate	xã hội.
+Social welfare	Phúc lợi xã hội.
+Social welfare function	Hàm phúc lợi xã hội.
+Soft currency	Đồng tiền yếu.
+Soft loan	Vốn vay ưu đãi.
+Solow, Robert	(1924-)
+Sole trader	Người buôn bán cá thể.
+Solvent (= creditworthy)	toán nợ.
+Spatial economics	Kinh tế học không gian.
+Spatial monopoly	quyền vùng.
+Spatial price discrimination	Sự phân biệt giá cả theo khu vực.
+Spearman's rank correlation	Tương quan về thứ bậc Spearman
+Special Areas	Các khu vực đặc biệt.
+Special drawing rights (SDRs)	Quyền rút vốn đặc biệt.
+Special deposits	Các khoản ký quỹ đặc biệt.
+Special Development Areas	Các Khu vực Phát triển Đặc biệt.
+Specialization	Chuyên môn hoá.
+Specialization, coefficient of	Hệ số chuyên môn hoá.
+Specie	Tiền xu.
+Specie flow mechanism	Cơ chế chảy vàng.
+Specie points	ĐIểm chảy vàng.
+Specification error	Sai sót kỹ thuật.
+Specifix tax	Thuế đặc thù.
+Specifix training	Đào tạo đặc thù.
+Spectral analysis	PHân tích quang phổ.
+Speculation	Đầu cơ.
+Speculative balances	Tiền đầu cơ.
+Speculative boom	Sự bùng nổ do đầu cơ.
+Speculative bubbles	Các bong bóng do đầu cơ.
+Speculative demand for money	Cầu về tiền do đầu cơ.
+money	Động cơ đầu cơ tiền.
+Speculative unemployment	Thất nghiệp do đầu cơ.
+Spillover	Hiệu ứng lan toả.
+Spillover hypothesis	Giả thuyết về hiệu ứng lan toả.
+Spot market	Thị trường giao ngay.
+Spread effects	Hiệu ứng lan tràn.
+Spurious regression problem	Bài toán hồi quy giả.
+Sraffa, Piero	(1898-1938)
+Stability	Sự ổn định.
+Stabilization	Sự ổn định hoá.
+Stabilization function	Chức năng ổn định hoá.
+Stackelberg's duopoly model	Stackelberg.
+Stabilization policy	Chính sách ổn định hoá .
+Stag	chứng khoán hớt ngọn.
+Stages of growth	Các giai đoạn tăng trưởng.
+Stagflation	Suy thoái kèm lạm phát.
+Stamp duty	Thuế tem .
+Standard commodity	Hàng hóa tiêu chuẩn.
+Standard deviation	Độ lệch chuẩn.
+Standard error	Sai số chuẩn
+(SIC)	chuẩn.
+Standard of living	Mức sống.
+Standard Regions	Các khu vực chuẩn.
+Standard weekly hours	Số giờ làm việc chuẩn hàng tuần.
+Standard working week	Tuần làm việc chuẩn.
+Eastern Europe	Đông Âu.
+Static expectations	Các kỳ vọng tĩnh.
+Stationarity	Tính chất tĩnh tại.
+Stationary point	Điểm tĩnh tại.
+Stationary state	Trạng thái tĩnh tại.
+Statistic	Thống kê.
+Statistical cost analysis	Phân tích chi phí thống kê.
+Statistical inference	Sự suy luận thống kê.
+Statistical significance	Ý nghĩa thống kê.
+Steady-state growth	trưởng đều đặn.
+Steady-state models	Các mô hình về tình trạng ổn định.
+Stepwise regression	Hồi quy theo bước .
+Stereotypes	Các định kiến.
+Sterilization	chính sách tiền tệ).
+Sterling area	Khu vực đồng sterling .
+George, Joseph Stigler	(1911-1991).
+Stochastic	Tính ngẫu nhiên thống kê.
+Stochastic process	Quá trình ngầu nhiên thống kê.
+Stock	vốn, trữ lượng.
+Stock appreciation	Sự lên giá hàng tồn kho.
+Stockbroker	Nhà môi giới chứng khoán.
+Stock diviend	Cổ tức bằng cổ phần.
+Stock exchange	Sở giao dịch chứng khoán.
+Stock market	Thị trường chứng khoán.
+Stock option	Quyền mua/ bán chứng khoán.
+Stocks	Dự trữ.
+Stolper-Samuelson Theorem	Định lý Stolper-Samuelson.
+Stone, Sir Richard	(1913-1991).
+"stop-go"	"Hạn chế - thúc đẩy".
+Store of value	Tích trữ giá trị.
+Strategic voting	Bỏ phiếu chiến lược.
+Strike insurance	Bảo hiểm đình công.
+Strike measures	Các thước đo về đình công.
+Strikes	Các cuộc đình công.
+Strongly exogenous	Nặng về ngoại ngoại sinh.
+Strongly stationary	Rất tĩnh tại.
+Structural form	Dạng cơ cấu.
+Structural unemployment	Thất nghiệp cơ cấu.
+framework	Mô hình cơ cấu -thực thi -kết quả.
+Structure of interest rates	suất.
+Structure of taxes	Biểu khung thuế; Cơ cấu thuế.
+Subsidy	Trợ cấp.
+Subsistence	Mức đủ sống.
+Subsistence expenditures	Chi tiêu cho mức đủ sống.
+Subsistence wage	Tiền công đủ sống.
+Substitute	Hàng thay thế.
+Substitution effect	Hiệu ứng thay thế.
+Sum of squares	Tổng các bình phương.
+Sunk costs	Các chi phí chìm.
+Superconsistency	Siêu nhất quán.
+Super-environment	Siêu môi trường.
+Superior goods	Siêu hàng hoá.
+Super-neutrality	Siêu trung lập.
+Super-normal profits	Lợi nhuận siêu ngạch.
+Supernumerary expenditure	Siêu chi tiêu.
+Supplementary benefit	Trợ cấp bổ sung.
+Supplementary special deposits	Tiền gửi đặc biệt bổ sung
+Supply curve	Đường cung.
+Supply of effort	Cung nỗ lực.
+Supply of inflation	Cung lạm phát.
+Supply of labour	Cung lao động.
+Supply-side economics	Kinh tế học trọng cung.
+Surplus unit	Đơn vị thặng dư.
+Surplus value	Giá trị thặng dư.
+Surrogate production function	Hàm sản xuất thay thế.
+Survivor technique	Kỹ thuật sống sót.
+Sustainable development	Phát triển bền vững.
+Swap arrangements	Các thoả thuận hoán đổi.
+Paul Sweezy	(1910-)
+System estimator	Ước lượng hệ thống.
+Taft-Hartley Act	Bộ luật Taft-Hartley.
+Take-Home pay	Thu nhập khả chi.
+Take-off	Cất cánh .
+Takeover	Thu mua.
+Takeover and mergers	Sự mua đứt và hợp nhất .
+Takeover bid	Trả giá thu mua.
+Tangible assets	Tài sản hữu hình.
+Tangible wealth	Của cải hữu hình.
+Tangency equilibrium	Tiếp điểm cân bằng.
+Tap issue	Bán lẻ chứng khoán liên tục.
+Targets	Mục tiêu (định lượng).
+Tariff	Thuế quan.
+Tariff factory	Nhà máy tránh thuế quan.
+Tariff Structure	Khung biểu thuế quan.
+Tatonnement	Dò dẫm.
+Taxable income	Thu nhập chịu thuế.
+Taxation	Sự đánh thuế.
+Tax base	Cơ sở thuế.
+Tax burden	Gánh nặng thuế.
+Tax credit	Ghi có thuế.
+Tax credit scheme	Cơ chế ghi có thuế.
+Tax disincentive	thuế.
+Tax expenditure	Chi tiêu (để) tránh thuế.
+Tax-push inflation	Lạm phát do thuế đẩy.
+Tax shifting	Chuyển đẩy thuế.
+Tax yield	Tiền thu thuế.
+T-distribution	Phân phối T.
+Technical progress	Tiến bộ kỹ thuật.
+Technological dualism	Mô hình nhị nguyên về công nghệ.
+Technological external effects	Ngoại ứng của công nghệ.
+Technological progress	Tiến bộ công nghệ.
+Technological unemployment	Thất nghiệp do công nghệ.
+Technology, choice of	Sự lựa chọn công nghệ.
+Technology matrix	Ma trận côngnghệ.
+Technology transfer	Chuyển giao công nghệ.
+Technology	Công nghệ.
+Technostructure	Cấu trúc công nghệ.
+Temporary layoffs	Sa thải tạm thời.
+Term loan	Khoản vay kỳ hạn.
+Terms of trade	Tỷ giá thương mại.
+Term structure of interest rates	Cơ cấu kỳ hạn của lãi xuất.
+Test discount rate	Lãi xuất chiết khấu kiểm định.
+Test statistic	Thống kê kiểm định.
+Threat effect	Tác động đe doạ.
+Threat of pay off	Lợi ích đe doạ.
+Three stage least squares	đoạn.
+Threshold	Ngưỡng.
+Threshold analysí	Phân tích ngưỡng.
+Threshold effect	Tác động ngưỡng.
+Threshold of a good	Ngưỡng của một hàng hoá.
+Thunen, Johann Heinrich von	(1783-1850)
+Tiebout model	Mô hìn Tiebout.
+Tight money	Thắt chặt tiền tệ.
+Time, allocation of	Phân bổ thời gian.
+Time deposit	Tiền gửi có kỳ hạn.
+Time preference	Sở thích theo thời gian.
+Time series	Chuỗi số/dữ liệu theo thời gian.
+Time varying parameter models	thời gian.
+Tinbergen, Jan	(1903-)
+Tobin, James	(1918-)
+Todaro model	Mô hình Todaro.
+Token money	Tiền quy ước.
+Tokyo Round	Vòng đàm phán Tokyo.
+Total cost	Tổng phí; chi phí tổng.
+Total remuneration	Thù lao tổng.
+Total Revenue	Doanh thu tổng.
+Trade	Thương mại (hay mậu dịch).
+Trade bill	Hối phiếu thương mại.
+Trade creation	Sự tạo lập thương mại.
+Trade credit	Tín dụng thương mại.
+Trade cycle	Chu kỳ thương mại.
+Trade-off	Sự đánh đổi.
+Traditional sectors	Các khu vực truyền thống.
+Transactions approach	Phương pháp giao dịch.
+Transactions balances	Các số dư giao dịch.
+Transactions costs	Các chi phí giao dịch.
+Transaction	Giao dịch / thương vụ.
+Transactions demand for money	Cầu về tiền giao dịch.
+money	Động cơ giữ tiền để giao dịch.
+Transactions velocity of circulation	Tốc độ lưu thông giao dịch.
+production function	logarit
+Transcendental production function	Hàm sản xuất trừu tượng.
+Transferable rouble	Rúp chuyển đổi được.
+Transfer costs	Chi phí vận chuyển.
+Transfer deed	Chước bạ chuyển giao.
+Transfer earnings	Thặng dư kinh tế.
+Transfer incomes	Thu nhập do chuyển nhượng.
+Transfer of technology	Chuyển giao công nghệ.
+Transfer payment	Thanh toán chuyển nhượng.
+Transfer pricing	Định giá chuyển nhượng.
+Transfer problem	Vấn đề chuyển nhượng.
+Transformation function	Hàm chuyển đổi.
+Transformation problem	Bài toán chuyển đổi.
+Transitivity of preferences	Tính bắc cầu của sở thích.
+Transitory consumption	Tiêu dùng qúa độ.
+Transitory income	Thu nhập quá độ.
+Translog production function	rít.
+Trans-shipment points	vận chuyển.
+Treasury, the	Bộ tài chính Anh.
+Treasury US department of	Bộ tài chính Mỹ.
+Treasury bill	Tín phiếu bộ tài chính.
+Treasury Deposit Receipt (TDR)	Biên nhận tiền gửi Bộ tài chính.
+Treasury note	Đồng tiền của bộ tài chính.
+Treasury view	Quan điểm của bộ tài chính.
+Treaty of Rome	Hiệp ước Rome.
+Trend	Xu hướng.
+Trend stationary process (TSP)	Quá trình tĩnh tại của xu hướng.
+Trigonometric functions	Các hàm lượng giác.
+Truncated earnings function	Hàm thu nhập rút gọn.
+Trust	Tờ-rớt.
+t-statistic	Thống kê t.
+Turning point	Điểm ngoặt
+Turnover	Doanh thu, kim ngạch.
+Turnover tax	Thuế kim ngạch.
+Turnpike theorems	Các định lý cổng ngăn.
+Twelve-month rule	Quy tắc mười hai tháng.
+Two sector growth model	Mô hình tăng trưởng hai khu vực.
+hoặc 2 SLS)	đoạn
+Tying contract	Hợp đồng bán kèm.
+Type I/ type II	Sai số loại I / loại II.
+U-form enterprise	Doanh nghiệp dạng chữ U.
+Unanimity rule	Quy tắc nhất trí hoàn toàn.
+Unianticipated inflation	Lạm phát không được lường trước.
+Unbalanced economic growth	đối.
+Unbiased estimator	Ước lượng không chệch.
+Uncalled capital	Vốn chưa huy động.
+Uncertainty	Sự không chắc chắn.
+Unconvertible loan stock	được
+Unconvered interest parity	Lãi suất ngang bằng chưa tính.
+UNCTAD	thương mại và Phát triển.
+Undated securities	Chứng khoán không ghi ngày.
+Underdeveloped countries	Các nước chậm phát triển.
+Underdevelopment	Sự chậm phát triển.
+Underemployed workers	Các công nhân phiếm dụng.
+Underemployment	Sự phiếm dụng.
+Underidentification	Sự chưa đủ để nhận dạng.
+Undervalue currency	Đồng tiền định giá thấp.
+Underwriter	Người bảo hiểm.
+Undistributed profits	Lợi nhuận không chia.
+Unearned income	Thu nhập phi tiền lương.
+Unemployment	Thất nghiệp.
+Unemployment benefit	Trợ cấp thất nghiệp.
+Unemployment equilibrium	Cân bằng thất nghiệp.
+Unemployment rate	Tỷ lệ thất nghiệp.
+Unequal exchange	Sự trao đổi không ngang bằng.
+UNIDO guidelines	Các hướng dẫn của UNIDO.
+disinvestment	kiến.
+Unintended inventory investment	Đầu tư vào tồn kho ngoài dự kiến.
+Union density	Tỷ lệ tham gia công đoàn.
+Union market power	thị trường.
+Union/non-union differential	công đoàn.
+Union pushfulness	đoàn.
+Union shop	"quầy trói buộc"
+Uniqueness	Tính độc nhất.
+Unit root tests	Kiểm định đơn vị.
+Development Fund	quốc.
+(UNCTAD)	Thương mại và Phát triển.
+Programme (UNDP)	hợp quốc.
+(UNIDO)	của Liên hợp quốc.
+Unit of account	Đơn vị kế toán.
+Unit tax	Thuế đơn vị.
+Unit Trust	Độc quyền đơn vị.
+Unlisted Securities Market (USM)	niêm yết.
+Unsecured loan stock	Cổ phần vay không bảo lãnh.
+Unvalidated inflation	Lạm phát không cho phép.
+Urban economics	Kinh tế học đô thị.
+Urbanization economies	Tính kinh tế của đô thị hoá.
+Uruguay Round	Vòng đàm phán Uruguay.
+User cost of capital	Chi phí sử dụng vốn.
+Use value and exchange value	Giá trị sử dụng và giá trị trao đổi.
+U-shaped cost curves	Các đường chi phí hình chữ U.
+Utility	Độ thoả dụng.
+Utility function	Hàm thoả dụng.
+Utilitarianism	Chủ nghĩa vị lợi.
+Vacancies	Chỗ làm việc còn trống.
+Vacancy rate	Tỷ lệ chỗ làm việc còn trống.
+Validated inflation	Lạm phát cho phép.
+Valuation curve	Đường đánh giá.
+Valuation ratio	Tỷ số đánh giá.
+Value, money, a standard of	Tiêu chuẩn giá trị của tiền.
+Value, theory of	Lý thuyết về giá trị.
+Value added	Giá trị gia tăng.
+Value-added tax	Thuế Giá trị gia tăng.
+Value judgement	Đánh giá chủ quan.
+Value marginal physical product	Sản phẩm vật chất giá trị biên.
+Variable capital	Vốn (tư bản) khả biến.
+Variable cost	Các chi phí khả biến.
+production function	thay thế.
+Variable labour costs	Các chi phí lao động khả biến.
+Variable parameter models	Các mô hình thông số khả biến.
+Variance	Phương sai
+Variance-covariance matrix	sai.
+Variation	Biến động.
+Veblen, Thorstein B.	(1857-1926)
+Veblen effect	Hiệu ứng Veblen.
+Vector	Véc-tơ.
+Vector autoregression (VAR)	Tự hồi quy véc tơ.
+Vehicle currency	Đồng tiền phương tiện.
+Veil of ignorance	Mạng che ngu dốt.
+Veil of money	Mạng che tiền.
+Velocity of circulation	Tốc độ lưu thông.
+Venture capital	Vốn mạo hiểm.
+Vertical equity	Công bằng theo chiều dọc.
+Vertical integration	Liên kết dọc.
+Vertical merger	Sáp nhập chiều dọc.
+Vertical Phillips curve	Đường Phillips thẳng đứng.
+VES production function	thay thế.
+Vicious circles	Các vòng luẩn quẩn.
+Victim company	Công ty nạn nhân.
+Vintage growth models	gian.
+Virtuous circles	Vòng thoát.
+Visibility hypothesis	Giả thuyết về tính minh bạch.
+Visible balance	Cán cân hữu hình.
+Voluntary-exchange model	Mô hình trao đổi tự nguyện.
+Voluntary export restraint	Hạn chế xuất khẩu tự nguyện.
+Voluntary unemployment	Thất nghiệp tự nguyện.
+Von Neumann-Morgenstern utility	Morgenstern.
+Von Neumann ratio	Tỷ số Von Neumann.
+Vote maximizer	Ngừơi muốn tối đa hoá phiếu bầu.
+Vote trading	Trao đổi phiếu bầu.
+Voting and non-voting shares	và không có quyền bỏ phiếu.
+Voucher	Tem phiếu.
+Voucher schemes	Các chương trình theo phiếu.
+Wage competition model	Mô hình cạnh tranh bằng tiền công
+Wage contour	Vòng tiền công.
+Wage contracts	Hợp đồng tiền công
+Wage differentials	Chênh lệc tiền công
+Wage discrimination	Phân biệt đối xử tiền công.
+Wage drift	Mức trượt tiền công.
+Wage fund	Quỹ lương.
+Wage inflation	Lạm phát tiền công.
+Wage leadership	khảo.
+Wage-price spiral	Vòng xoáy tiền công-giá
+Wage-push inflation	Lạm phát do tiền công đẩy.
+Wage rates	Các mức tiền công.
+Wage restraint	Hạn chế tiền công.
+Wage round	Vòng quay tiền công.
+Wage boards	Ban điều hành tiền công.
+Wages Councils	Các hội đồng tiền công.
+Wages freeze	Hạn mức tiền công.
+Wages fund doctrine	Học thuyết quỹ lương.
+Wages structure	Cấu trúc tiền công
+Wage theory	Lý thuyết tiền công.
+Wage-wage sprial	Vòng xoáy tiền công-tiền công.
+Wagner's law	Định luật Wagner
+Wait umemployment	Thất nghiệp do chờ việc.
+Wall Street	Phố Wall
+Walras, Léon	(1834-1910)
+Walras' law	Định luật Walras.
+Want creation	Tạo ra mong muốn tiêu dùng.
+Warrant	Sự bảo hành.
+Warranted rate of growth	Tốc độ tăng trưởng đảm bảo.
+Warranted unemployment rate	Tỷ lệ thất nghiệp đảm bảo.
+Waste	Chất thải.
+Ways and means advandces	Tạm ứng.
+Weakly stationary	Không chuyển động hàng tuần.
+Weath	Của cải.
+Weath effect	Hiệu ứng của cải.
+Weath tax	Thuế của cải.
+Wear and tear	Khấu hao.
+Weberian location theory	Lý thuyết Weber về vị trí .
+Weighted average	Bình quân gia quyền.
+Weighted least squares	Bình phương gia quyền nhỏ nhất.
+Weighted mean	Trung bình gia quyền.
+Welfare economics	Kinh tế học phúc lợi.
+Welfare function	Hàm phúc lợi.
+Welfare state	Nhà nước phúc lợi.
+Well-behaved	Có hành vi tốt.
+Wharton model	Mô hình Wharton.
+Whipsawing	Cưa kéo.
+White-collar worker	Công nhân cổ trắng, bàn giấy.
+White noise	Nhiễu trắng.
+White plan	Kế hoạch White.
+Wholesale	Buôn bán, bán sỉ.
+Wholesale banking	Dịch vụ ngân hàng bán buôn.
+Wicksell, Knut	(1851-1926)
+Wicksell effects	Các hiệu ứng của Wicksell.
+Wieser, Friederich von	(1851-1926)
+Wildcat strike	Bãi công "không chính thức"
+Willingness to pay	Mức sẵn sàng trả.
+Wilson Committee	Uỷ ban Wilson.
+Windfall gain	Thu nhập bất thường.
+Windfall loss	Lỗ bất thường.
+Winding up	Sự phát mại.
+Window dressing	Sự "làm đẹp" báo cáo tài chính.
+Withdrawals	Các con số tận rút.
+Withholding tax	Thuế chuyển lợi nhuận về nước.
+Workable competition	được.
+Workers' co-operative	Hợp tác xã của công nhân.
+Workers' partipation	Sự tham gia của người lao động.
+Working capital	Vốn lưu động.
+Working capital ratio	Tỷ số vốn lưu động.
+Working population	Lực lượng lao động.
+Work in progress	Sản phẩm đang gia công.
+Work-leisure model	Mô hình lao động - nghỉ ngơi.
+Work sharing	Chia sẻ công việc.
+Work to rule	Làm việc theo quy định.
+World Bank	Ngân hàng thế giới.
+Writing-down allowance	Khấu hao, sự xuống giá.
+X-efficiency	Hiệu quả X.
+Y-efficiency	Hiệu quả Y.
+Yeild	Lợi tức.
+Yeild gap	Chênh lệch lợi tức.
+Yeild gap on securities	Chênh lệch lợi tức chứng khoán.
+Zellner-Giesel	Quy ước Zellner-Giesel.
+Zero-rate goods	0.
+Z variable	Biến số Z.
+Organization slack	Sự lỏng lẻo về tổ chức.
+Perfect information	Thông tin hoàn hảo.
+Personal income Hypothesis	Giả thuyết về thu nhập lâu dài.
+Personal income distribution	Phân phối thu nhập cho cá nhân.
+Substitution effect of wages	tiền công.
+Time series data	Dãy số liệu theo thời gian.
+Accounting price	Giá kế toán.
+Accumulated depreciation	Khấu hao tích luỹ.
+Scenario analysis	Phân tích tình huống.
+Sensitivity analysis	Phân tích độ nhạy.
+Appraisal	Thẩm định.
+Appreciation (currency)	Tăng giá.
+Appreciation and depreciation	Tăng giá và giảm giá trị.
+Arbitrage	giá.
+Balanced (GDP)	(GDP) được cân đối.
+Balanced equilibrium (GDP)	(GDP) cân bằng.
+Beta	chứng khoán.
+Black market premium	trường chợ đen.
+Blue-chip stock	Cổ phiếu sáng giá.
+Gild-edged bonds	Trái phiếu chính phủ có giá trị cao.
+Border price	Giá cửa khẩu.
+Multi-collinearity	Đa cộng tuyến.
+Combination	Tổ hợp.
+Compensating differentials	Các mức bù thêm lương.
+Constant returns to scale	Sinh lợi cố định theo quy mô.
+Constrain informal/ formal	theo quy định).
+Consumer sovereignty	Chủ quyền người tiêu dùng.
+Consumer surplus	Thặng dư người tiêu dùng.
+Consumption	Tiêu dùng.
+Consumption function	Hàm Tiêu dùng.
+Contestable market	Thị trường có thể cạnh tranh được.
+Conversion factor	Hệ số chuyển đổi.
+Cornor solution	Giải pháp khó xử.
+Criminalization	Quy là tội phạm.
+Cross price elasticity of demand	Độ co giãn theo giá chéo của cầu.
+Cross-section data	Số liệu chéo/ mẫu/ đặc trưng.
+Crowding-out effect	Tác động lấn ép, chèn ép.
+Dead weight loss	Sự/ mức mất mát vô ích.
+Dead weight tax burden	Gánh nặng vô ích của thuế khoá.
+Debt rescheduling	Hoãn nợ/ gia hạn nợ.
+Decile	Thành mười nhóm bằng nhau.
+Differentiated goods	trưng riêng.
+Dirigiste	Chính phủ can thiệp.
+Distortions and market failure	trường.
+Distribution	Phân phối.
+Continuous distribution	Phân phối liên tục.
+Deterministic distribution	Phân phối tất định.
+Equilibrium aggregate output	Tổng sản lượng cân bằng.
+Equilizing wage diffirentials	công.
+Equity	Vốn cổ phần.
+Evolving market condition	Sự tiến triển của tình hình kinh tế.
+Exogenuos expectations	Những dư tính ngoại sinh.
+Expected inflation	Lạm phát dự tính được.
+Unexpected inflation	Lạm phát bất thường..
+Fiat (or token) money	Tiền pháp định.
+Final goods	Hàng hoá cuối cùng.
+Finance deepening	hệ thống tài chính.
+Fine turning	Tinh chỉnh.
+Intermediate goods	Hàng hoá trung gian.
+F-test	Kiểm định Fisher.
+Automatic fiscal policy	động.
+Discretionary fiscal policy	động.
+Expasionary fiscal policy	rộng.
+Contractionary fiscal policy	hẹp.
+Flow variable	Biến số mang tính dòng chảy.
+Future value	Giá trị tương lai.
+Sharp gyration	Chu kỳ vòng xoay rõ rệt.
+Maturity	Đến hạn thanh toán.
+Non performings assets	Những tài sản không sinh lợi.
+Non performings loans	đúng hợp đồng.
+Non trade	Phi ngoại thương
+Offer price	Giá chào.
+Opportunity cost of capital	Chi phí cơ hội của vốn
+Open economy economics	mở.
+Other thíng equal	Các điều kiện khác không đổi.
+Perceived Wealth	Của cải dự tính được.
+Percentage change	Chênh lệch tính bằng phần trăm.
+Perfect capital mobility	của vốn.
+Performance	Thành quả.
+Physical and financial capital	Vốn hiện vật và vốn tài chính.
+Positive bais	Thiên lệch đồng biến.
+Pre-commitment	Cam kết trước.
+Conditional probality	Xác suất có điều kiện.
+Cumulative probality	Xác suất tích luỹ.
+Pure inflation	Lạm phát thuần tuý.
+Quadrant	Góc toạ độ/ góc phần tư.
+Quasiliquid asset	Tài sản bán thanh toán.
+Quick-disbursing fundss	Tiền ký phát nhanh.
+Quintile	Thành năm phần bằng nhau.
+Ramdom events	Các biến cố ngẫu nhiên.
+Range of values	Miền giá trị.
+Rate of return on investment	Suất sinh lợi từ đầu tư.
+Interna Rate of return	vốn nội bộ.
+Rateable value	Giá trị có thể đánh thuế.
+Real / relative price	Các giá thực tế/ tương đối.
+Real balance effect	hiệu ứng tiền thực.
+Real interest rate.	Mức lãi suất thực tế.
+Real prices and real income	Giá thực tế và thu nhập thực tế
+Receipt	Số thu.
+Recessionary gap	Hố, khoảng trống suy thoái.
+Secular stagnation	Sự đình trệ về lâu dài.
+Self-financing	Tự tài trợ.
+Shareholder	Cổ đông.
+Shoe-leather cost of inflation	Chi phí giày da của lạm phát.
+Standard paradigm	chuẩn.
+Strategic entry barrier	ngành.
+Strategic entry deterrence	chiến lược.
+Strategy	Chiến lược.
+Structural adjustment loans	cấu kinh tế.
+Subsistence agriculture	Nông nghiệp tự cung cấp tư liệu.
+Subsistence crop	Vụ mùa tự tiêu.
+Subsistence wage	Lương vừa đủ sống.
+Substitutes and complemént	Hàng thay thế và hàng bổ trợ.
+Sunk cost fallacy	Sự hiểu lầm về chi phí chìm.
+Sunrise and sunset industries	ngành sắp lặn (hết thời).
+Supernormal profits	ngạch.
+Supplementary benefit	Trợ cấp bổ sung.
+Supply-side economics	Kinh tế học trọng cung.
+Symmetric	Đối xứng
+Non-symmetric	Phii / bất đối xứng
+Syndicate loan	Cho vay liên hiệp.
+Taste	Sở thích, thị hiếu.
+Tax incident	Ai phải chịu thuế.
+Tax wedge	Chênh lệch giá do thuế.
+Tax-base incomes Policy	thuế.
+Technical change through R&D	Thay đổi công nghệ qua R&D.
+Technical efficiency	Tính hiệu dụng về mặt kỹ thuật.
+Technical knowlwdge	Tri thức, kiến thức, kỹ thuật
+Testing an economic model	Kiểm nghiệm một mô hình thực tế.
+The Corset	Kế hoạch Corset.
+Tradable	Khả thương.
+Trade balance	Cán cân thương mại.
+Traded and non-traded (goods)	thương.
+Trade unions	Công đoàn.
+Transaction motives	Những động cơ giao dịch.
+Precaution motives	Những động cơ dự phòng.
+Assets motives	Những động cơ tài sản.
+Transfer in kind	Trợ cấp bằng hiện vật.
+Transmission mechanism	Cơ chế lan chuyền.
+Trend output path	Đường biểu thị xu thế sản lượng.
+Treasury	Bộ tài chính, ngân khố.
+Tow-path tariffs	(hệ thống) giá hai phần.
+Unvoluntary unemployment	Tỷ lệ, sự thất nghiệp bắt buộc.
+Utility maximization	Tối đa hoá độ thoả dụng.
+Variable	Biến số.
+Variability	Độ biến thiên.
+Dummy Variable	Biến số giả.
+Stochastic Variable	Biến số ngẫu nhiên.
+Variable factor	Các yếu tố sản xuất thay đổi.
+Viability	Khả năng thành tựu, tính khả thi.
+Velocity of money	chuyển của tiền.
+Volatility	Tính dễ biến động.
+Wage and price flexibility	Tính linh hoạt của giá cả và lương.
+Wage-rental ratio	Tỷ số tiền công- tiền thuê vốn.
+Yield on external debt	Lãi trên nợ nước ngoài.
+Yield on investment	Lợi nhuận từ đầu tư.
+Z-score	Giá trị của Z.
+Zero growth proposal	Đề xuất tăng trưởng bằng không.
+Profit centre	đơn vị hoạch toán lợi nhuận
+throughput	sản lượng
+downtime	giờ chết
+meetings	trả đúng hạn
+approval delay	sự chậm chễ phê duyệt
+over-promise	hứa nhiều
+takt-time	nhịp sản xuất
+cycle-time	chu kỳ sản xuất
+lead-time	thời gian sản xuất
+response-time	thời gian đáp ứng
+average-handling-time	thời gian xử lý cuộc gọi trung bình
+adherence	tuân thủ
+peak-hour-traffic	lưu lượng vào giờ cao điểm
+on-hold-time	thời gian chờ
+longest- delay-in-queue	thời gian lâu nhất mà một khách hàng phải chờ trong hàng đợi để được nói chuyện với điện thoại viên
+average-speed-of-answer	tốc độ trả lời trung bình
+service level	mức độ dịch vụ
+occupancy	thời gian chiếm đóng
+absenteeism	tình trạng thường xuyên vắng mặt
+utilization	sự sử dụng
+employee turnover rate	tỉ lệ nhân sự nghỉ việc
+visit-duration	khoảng thời gian trung bình của mỗi lượt người dùng truy cập
+return frequency	tần suất quay lại
+re-visit frequency	tần suất quay lại
+churn rate	tỷ lệ được tính dựa trên lượng khách hàng rời đi và lượng khách hàng đang có trong một giai đoạn cụ thể
+real-time	thời gian thực
+likelihood	khả năng
+consequence	hệ quả
+fallback	dự trữ
+reserve	để dành lại
+robust systems	hệ thống bền vững
+Gaman	kiên trì nhẫn nại ở các thời điểm khó khăn
+vulnerability	có thể bị tổn thương
+sensitivity	độ nhạy
+priority-clash	sự xung đột quyền ưu tiên
+emergency	tình huống khẩn cấp
+disruption	sự gián đoạn
+infringement	sự vi phạm
+abandonment	bỏ phế
+fat-tail	đuôi mập
+upside	triển vọng tăng
+downside	triển vọng giảm
+special-cause	nguyên nhân đặc biệt
+common-cause	nguyên nhân thường gặp
+negligence	sự khinh suất
+waiver	việc khước từ
+dereliction of duty	lơ là bổn phận
+conceal	giấu diếm
+whitewash	sự minh oan
+compliance	sự làm đúng theo
+quarantine	cách ly
+hazard	nguy hiểm
+stockpile	kho dự trữ
+fault-tree	cây lỗi
+assessment	sự đánh giá
+mitigation	sự làm dịu, giảm thiểu
+counter-measures	biện pháp đối phó
+preparedness	trạng thái sẵn sàng
+safety coefficient	hệ số an toàn
+worst-case-scenario	trường hợp xấu nhất
+safeguard	bảo hộ
+buffer	(hàng tồn kho) đệm
+hedge	phòng ngừa rủi ro
+anticipatory failure determination	xác định sai hỏng trước kỳ hạn
+HAZOP	phân tích mối nguy hiểm và khả năng vận hành
+bottleneck	sự bế tắc
+audit	công việc kiểm toán
+Inert Atmosphere	Môi trường trơ
+Localisation of risk	cục bộ hóa rủi ro
+Production Interfaces	giao diện sản xuất
+tacit	(tri thức) tiềm ẩn
+communication links	liên kết truyền thông
+command structure	cấu trúc lệnh
+authority	thẩm quyền
+buy-in	mua bù
+edict	sắc lệnh
+people	bà con, họ hàng
+perceptions	nhận thức
+perspective	phối cảnh
+rights	quyền lợi
+responsibilities	trách nhiệm
+rivalry	sự đối đầu, cạnh tranh
+dispute	sự tranh chấp, xung đột về thương mại
+argument	sự tranh cãi, tranh luận
+consensus	sự đồng lòng
+protocol	nghị định thư
+tribunal	tòa án
+click-through-rate	tỉ lệ nhấp chuột
+committee	ủy ban
+ombudsman	thanh tra quốc hội
+certification	chứng nhận
+by-law	theo luật
+statute	đạo luật, quy chế, điều lệ
+mandate	ủy nhiệm
+vested interests	quyền lợi được đảm bảo bất di bất dịch
+impartial	công bằng
+neutral observer	quan sát viên trung lập
+injunction	lệnh của tòa
+inspector	viên thanh tra
+sponsor	nhà tài trợ
+expert	chuyên gia
+novice	người mới
+trainer	huấn luyện viên
+apprentice	người học việc
+foreman	quản đốc
+Supply	nguồn cung
+receipt	biên nhận
+goods-in	nhập hàng
+receiving	nhận hàng
+bespoke	cá nhân hóa sản phẩm từ đầu
+customized	tùy chỉnh từ lựa chọn có sẵn
+functional-sales	bán chức năng
+bonded	ở trong kho (hàng hóa)
+consignment	chuyến gửi hàng
+declaration	tờ khai
+SKU	đơn vị lưu kho
+hire-purchase	thuê-mua
+on-time performance	chỉ số bay đúng giờ
+continuity	(doanh nghiệp xảy ra sự cố gián đoạn) tiếp tục hoạt động
+extended-stay	gia hạn ở thêm
+time- share	chia sẻ kỳ nghỉ
+stopgap	biện pháp tạm thời
+shipping	chuyển hàng
+guarantee	sự bảo đảm
+embargo	cấm vận
+unplanned	ngoài kế hoạch
+interim	tạm thời (kinh doanh), sơ bộ (kế toán)
+care-package	gói chăm sóc
+aspirational	khát vọng
+inspirational	truyền cảm hứng
+respect	mô hình RESPECT	- Reconition (Sự công nhận), Empowerment (Sự trao quyền), Supportive (Phản hồi hỗ trợ), Partnering (Quan hệ hợp tác), Expectations (Sự mong đợi), Consideration (Sự chu đáo), Trust (Sự tin tưởng)
+last-mile	(giao hàng) chặng cuối
+licensing agreement	hợp đồng sử dụng giấy phép
+NDA	thỏa thuận không tiết lộ
+agent	đại lý
+intermediary	trung gian
+distributor	nhà phân phối
+reseller	người bán lại
+interpreter	người phiên dịch
+compatible	tương thích
+partner-match	lựa chọn đối tác phù hợp
+sympatico	sự hiểu biết giữa các bên
+buddy-system	hệ thống gắn kết nhân viên mới
+middleman	(kiếm lời) người trung gian
+freelance	làm việc tự do
+stool-pigeon	kẻ chỉ điểm
+go-between	(truyền đạt thông tin, giải quyết vấn đề) người trung gian
+B2B	doanh nghiệp đến doanh nghiệp
+B2C	doanh nghiệp đến người tiêu dùng
+B2G	doanh nghiệp đến chính phủ
+P2P	mạng ngang hàng
+horizontal integration	tích hợp ngang
+curator	giám tuyển	curator
+fractional-ownership	sở hữu theo phần
+PA	thư ký, trợ lý cá nhân
+subscribe	kinh doanh theo mô hình thuê bao, liên quan tới việc thanh toán định kỳ
+membership	kinh doanh dựa trên thành viên, liên quan tới việc thanh toán một lần
+intermediary	bên thứ ba trung lập
+dis-intermediation	phi trung gian hóa
+bundled	bán hàng theo gói
+butler	quản gia
+after-sale	sau bán hàng
+reliability	độ tin cậy
+durability	tính chịu mòn
+longevity	tuổi thọ
+life-cycle design	quy trình thiết kế vòng đời sản phẩm
+design-for-Murphy	thiết kế cho Murphy	thiết kế hệ thống và quy trình với giả định mọi thứ sẽ gặp sự cố
+accidental damage	tổn thất bất ngờ
+through-life design	thiết kế xuyên suốt vòng đời sản phẩm	cách tiếp cận toàn diện để phát triển sản phẩm, xem xét toàn bộ vòng đời của một sản phẩm, từ khi bắt đầu cho đến khi thải bỏ nó
+warranty	bảo hành
+extended-warranty	bảo hành gia hạn
+lifetime guarantee	bảo hành trọn đời
+maintenance-contract	hợp đồng bảo trì
+replace-with-new	thay mới
+lease	hợp đồng thuê
+lend-lease	(đạo luật) thuê vay
+buy-back	(cổ phiếu) mua lại
+re-usable	có thể dùng lại
+environmental impact	tác động môi trường
+sustainability	tính bền vững
+life-brand	thương hiệu cuộc sống
+repeatability	khả năng lặp lại
+sigma	(ký tự toán học) độ lệch chuẩn
+datum	(số ít) dữ liệu
+customer satisfaction	sự thõa mãn của khách hàng
+bench-mark	chuẩn đối sánh
+customized	tùy chỉnh từ lựa chọn có sẵn
+bespoke	cá nhân hóa sản phẩm từ đầu
+experience	trải nghiệm
+feedback	phản hồi
+single-point-contact	điểm liên lạc duy nhất
+user conference	hội nghị người dùng
+loyalty scheme	chương trình khách hàng trung thành
+spin-off	(doanh nghiệp) khởi nguồn công nghệ
+end-game	Mục tiêu chiến lược; giai đoạn cuối cùng của sản phẩm, dịch vụ
+curation	quá trình thu thập, chọn lọc, sắp xếp và tổ chức các nội dung, thông tin có liên quan đến một chủ đề cụ thể để cung cấp cho khách hàng mục tiêu
+caretaker	Người đảm nhiệm vai trò tạm thời, người bảo trì
+out-source	thuê ngoài
+subcontract	hợp đồng phụ
+talent management	quản trị nhân tài
+training	đào tạo
+coherence	sự mạch lạc trong kinh doanh
+synergy	(sáp nhập, mua lại, hợp tác, liên minh chiến lược) cộng hưởng
+archive	lưu trữ
+corporate memory	bộ nhớ doanh nghiệp	- Kiến thức chuyên môn	- Kinh nghiệm	- Thông tin
+disposal cost	chi phí thanh lý
+environmental cost	chi phí môi trường
+social cost	chi phí xã hội
+offset	bù trừ vị thế
+reliability-cost	chi phí tin cậy
+through-life cost	chi phí trọn đời
+operating expenses	chi phí vận hành
+retirement cost	chi phí hưu trí
+re-use	tái sử dụng
+repeat business cost	chi phí kinh doanh lặp lại	Chi phí giữ chân khách hàng, chi phí thu hút khách hàng
+follow-on sale revenue	doanh thu bán hàng tiếp theo
+mass-customization	sản xuất theo yêu cầu hàng loạt	cá nhân hóa hàng loạt, may đo hàng loạt
+resale value	(đồ cũ) giá trị bán lại
+liability cost	chi phí nợ
+brand-equity	tài sản thương hiệu
+asset depreciation	khấu hao tài sản
+toxic asset	tài sản độc hại
+allowed revenue	(kế toán) doanh thu được phép
+cost-plus pricing	định giá theo chi phí cộng lãi
+administration	quản trị
+over-run	vượt quá ngân sách
+shortfall	thiếu hụt
+recurring	lặp lại
+one-off	một lần, duy nhất
+meant-time- between-overhaul	Thời gian trung bình giữa các lần đại tu
+meant-time-between-failure	Thời gian trung bình giữa các lần hỏng hóc
+warranty period	Thời hạn bảo hành
+lease period	Thời gian thuê
+loyalty-effect	Hiệu ứng lòng trung thành
+memory	Ký ức
+long-term partnership	Quan hệ đối tác lâu dài
+retirement	Nghỉ hưu
+post-retirement	Hậu hưu trí
+recovery-time	Thời gian phục hồi
+time-to-maturity	Thời gian trưởng thành
+incubation-period	Thời gian ủ bệnh
+time-limit	Hạn chót
+trial period	thời gian dùng thử
+commissioning period	giai đoạn vận hành
+call response time	thời gian phản hồi cuộc gọi
+adherence to schedule	tuân theo lịch trình
+calendar	lịch
+timetable	lịch biểu
+appointments	lịch hẹn
+personal organizer	công cụ/chuyên gia tổ chức cá nhân; người hỗ trợ cá nhân
+chronicle	hồ sơ
+chronicle	biên niên sử
+end-of-life	hết vòng đời
+disposal	thanh lý
+cradle-to-cradle	từ nôi tới nôi	thiết kế sản phẩm theo cách thức có thể tái sử dụng hoặc tái chế hoàn toàn sau khi hết vòng đời sử dụng
+attrition rate	tỷ lệ hao mòn
+amortisation	(Tài sản vô hình, tài sản dài hạn) khấu hao
+no-strings	(lợi ích, khuyến khích ngắn hạn) không điều kiện
+accidental damage	Thiệt hại do tai nạn
+retrospective damages	Thiệt hại bù trừ	khoản tiền bồi thường tổn thất
+indemnity	(theo hợp đồng) bồi thường thiệt hại
+robustness	Khả năng chịu lực	Robustness (Khả năng Chịu Lực) refers to the strength, stability, and ability of something to withstand challenges or disruptions.expand_more In a business context, it encompasses several key aspects:
+
+Resilience of a company ( khả năng phục hồi của một công ty): A robust company has a strong financial foundation, adaptable business models, and efficient operations. This allows it to weather economic downturns, competitive pressures, and unforeseen events.
+Financial foundation (Nền tảng tài chính): The overall financial health of the company, including its cash flow, profitability, and debt levels.
+Adaptable business models (Mô hình kinh doanh thích ứng): The company's ability to adjust its strategies and operations in response to changing market conditions.expand_more
+Efficient operations (Hoạt động hiệu quả): The company's ability to produce goods and services with minimal waste and cost.
+Reliable systems and processes (Hệ thống và quy trình đáng tin cậy): Robust systems and processes are dependable, efficient, and have built-in safeguards to minimize errors and disruptions.
+Dependable (Đáng tin cậy): Consistently functioning and meeting expectations.
+Safeguards (Các biện pháp bảo vệ): Measures put in place to prevent or mitigate risks.
+Durable products and services (Sản phẩm và dịch vụ bền vững): Robust products and services are well-designed, long-lasting, and can function effectively under various conditions.
+Well-designed (Được thiết kế tốt): Created with functionality, usability, and user needs in mind.
+Long-lasting (Bền vững): Able to withstand wear and tear over time.
+Tại sao Khả năng Chịu Lực quan trọng trong Kinh doanh?
+
+In today's dynamic business environment, robustness is essential for long-term success.expand_more Here's why:
+
+Enhances resilience (Nâng cao khả năng phục hồi): Robust businesses can bounce back from setbacks and adapt to changing circumstances.
+Reduces risks (Giảm thiểu rủi ro): By having strong systems and processes, businesses can mitigate operational risks and financial losses.
+Improves efficiency (Nâng cao hiệu quả): Robust systems and processes streamline operations, minimize errors, and lead to greater efficiency.
+Builds customer confidence (Xây dựng niềm tin của khách hàng): Customers value reliable and consistent products and services, which builds brand trust and loyalty.
+Ví dụ về Khả năng Chịu Lực trong Kinh doanh:
+
+A company with a diversified product portfolio (Danh mục sản phẩm đa dạng) is less vulnerable to economic downturns that might affect specific sectors.
+A manufacturing process with built-in quality checks ensures consistent product quality.expand_more
+A well-trained and empowered workforce (Lực lượng lao động được đào tạo và trao quyền tốt) can effectively handle unexpected situations.
+Phát triển Khả năng Chịu Lực trong Doanh nghiệp:
+
+Businesses can cultivate robustness through various strategies:
+
+Diversification (Đa dạng hóa): Diversifying products, markets, and revenue streams can reduce dependence on a single factor.expand_more
+Risk management (Quản lý rủi ro): Identifying and proactively managing potential risks can prevent disruptions.
+Continuous improvement (Cải tiến liên tục): Regularly evaluating and improving systems, processes, and employee skills fosters adaptability.expand_more
+Building a strong culture (Xây dựng văn hóa doanh nghiệp mạnh): A culture that emphasizes quality, innovation, and problem-solving fosters robustness throughout the organization.
+Tóm lại, Khả năng Chịu Lực là một phẩm chất quan trọng để các doanh nghiệp phát triển mạnh mẽ trong môi trường cạnh tranh và luôn thay đổi. Bằng cách ưu tiên khả năng chịu lực, các doanh nghiệp có thể xây dựng nền tảng vững chắc cho thành công bền vững.
+investigation	điều tra
+termination	chấm dứt hợp đồng lao động
+residual risk	rủi ro còn sót lại
+risk register	sổ đăng ký rủi ro
+contingency plan	kế hoạch phát sinh	plan B
+force majeure	điều khoản bất khả kháng	một khái niệm pháp lý có thể miễn cho một bên khỏi nghĩa vụ thực hiện hợp đồng
+stress-testing	kiểm thử tải cao
+breach of contract	vi phạm hợp đồng
+default	(khoản vay, nợ, nghĩa vụ) mặc nhiên	default
+salvage	giải cứu
+Trojan Horse	(chi phí tiềm ẩn) ngựa thành Troy
+espionage	gián điệp
+confidentiality breach	vi phạm bảo mật
+leak	rò rỉ
+extortion	cưỡng đoạt
+blackmail	tống tiền
+judicial review	giám sát tư pháp

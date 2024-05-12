@@ -3800,7 +3800,7 @@ buy-back	(cổ phiếu) mua lại
 re-usable	có thể dùng lại
 environmental impact	tác động môi trường
 sustainability	tính bền vững
-life-brand	thương hiệu cuộc sống
+life-brand	thương hiệu trọn đời
 repeatability	khả năng lặp lại
 sigma	(ký tự toán học) độ lệch chuẩn
 datum	(số ít) dữ liệu
@@ -3932,3 +3932,18 @@ leak	rò rỉ
 extortion	cưỡng đoạt
 blackmail	tống tiền
 judicial review	giám sát tư pháp
+customer relationship	quan hệ khách hàng
+customer-care	chăm sóc khách hàng
+package	gói dịch vụ
+life-style	phong cách sống
+loyalty	sự trung thành
+repeat business	kinh doanh lặp lại	repeat business
+partnership	quan hệ đối tác
+working-together-teams	các nhóm làm việc hiệu quả
+transformation	chuyển đổi	sự thay đổi mang tính căn bản về cách thức một tổ chức hoạt động
+iconic	biểu tượng
+collaboration	cộng tác
+social impact	tác động xã hội	social impact
+user-group	nhóm người dùng
+special-interest- group	nhóm lợi ích đặc biệt
+user network	mạng lưới người dùng
